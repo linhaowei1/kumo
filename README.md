@@ -1,6 +1,6 @@
 # 🌩️ KUMO: Generative Evaluation of Complex Reasoning in Large Language Models
 
-**Official Repository** for the paper: [Generative Evaluation of Complex Reasoning in Large Language Models]()
+**Official Repository** for the paper: [Generative Evaluation of Complex Reasoning in Large Language Models](https://arxiv.org/abs/2504.02810)
 
 ✨ **KUMO** is a novel benchmark designed to systematically evaluate the complex reasoning capabilities of Large Language Models (LLMs) through procedurally generated reasoning games. Explore the limits of LLM reasoning and track model performance on our interactive leaderboard.
 
