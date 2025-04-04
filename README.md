@@ -100,7 +100,7 @@ python generate/config_generation.py \
   --data_path ./templates/config_generation.jsonl
 ```
 
-See [examples/config_generation.sh](https://github.com/linhaowei1/kumo/blob/main/generate.ipynb) for additional details.
+See [examples/config_generation.sh](https://github.com/linhaowei1/kumo/blob/main/examples/config_generation.sh) for additional details.
 
 ### 2. Task Instance Generation
 
@@ -133,7 +133,7 @@ python knowledge_book_generation.py \
   --domain MedicalEnv
 ```
 
-Check [examples/knowledge_book_generation.sh](https://github.com/linhaowei1/kumo/blob/main/generate.ipynb).
+Check [examples/knowledge_book_generation.sh](https://github.com/linhaowei1/kumo/blob/main/examples/knowledge_book_generation.sh).
 
 ### 4. Knowledge Book Revision (Optional)
 
@@ -148,7 +148,7 @@ python generate/knowledge_book_revision.py \
   --revision_template_path ./templates/revision_template.md
 ```
 
-Detailed guide: [examples/knowledge_book_revision.sh](https://github.com/linhaowei1/kumo/blob/main/generate.ipynb).
+Detailed guide: [examples/knowledge_book_revision.sh](https://github.com/linhaowei1/kumo/blob/main/examples/knowledge_book_revision.sh).
 
 ---
 
