@@ -1,0 +1,138 @@
+# Medical Analysis Guidebook
+
+---
+
+## Introduction
+
+This guidebook offers a comprehensive overview of certain diseases and the diagnostic tests used to evaluate them. The focus is on the interpretation of tests in a manner that allows healthcare professionals to rule out specific diseases based on the outcomes of these diagnostic tests.
+
+---
+
+## Diseases Covere
+
+The guidebook focuses on the following diseases:
+
+1. **Vitamin B12 Deficiency Anemia**
+2. **Myocardial Infarction**
+3. **Bacterial Infection**
+4. **Unstable Angina**
+5. **Viral Infection**
+6. **Osteopenia**
+7. **Folate Deficiency Anemia**
+8. **Pre-Diabetes**
+9. **Osteoporosis**
+10. **Heart Failure**
+11. **Sepsis**
+12. **Diabetes Mellitus Type 2**
+
+---
+
+## Diagnostic Tests and Interpretations
+
+### 1. Folate Level Test
+
+- **Outcome: Levels 0–3 and 3–5 nmol/L**
+  - No diseases can be ruled out.
+
+- **Outcome: Levels 5–50 nmol/L**
+  - Rules out: Folate Deficiency Anemia
+
+### 2. Blood Glucose Test
+
+- **Outcome: Levels 0–99 mg/dL**
+  - Rules out: Pre-Diabetes, Diabetes Mellitus Type 2
+
+- **Outcome: Levels 100–125 mg/dL**
+  - Rules out: Diabetes Mellitus Type 2
+
+- **Outcome: Levels 126–500 mg/dL**
+  - Rules out: Pre-Diabetes
+
+### 3. Electrocardiogram (ECG)
+
+- **Normal Pattern**
+  - Rules out: Myocardial Infarction, Unstable Angina
+
+### 4. Echocardiogram
+
+- **Normal Result**
+  - Rules out: Heart Failure
+
+### 5. Bone Mineral Density Test
+
+- **Outcome: T-score -4.0 to -2.5**
+  - Rules out: Osteopenia
+
+- **Outcome: T-score -2.5 to -1.0**
+  - Rules out: Osteoporosis
+
+- **Outcome: T-score -1.0 to 4.0**
+  - Rules out: Osteoporosis, Osteopenia
+
+### 6. Blood Culture
+
+- **Outcome: No Growth**
+  - Rules out: Bacterial Infection, Viral Infection, Sepsis
+
+### 7. Vitamin B12 Level
+
+- **Outcome: Levels 0–200 and 200–300 pg/mL**
+  - No diseases can be ruled out.
+
+- **Outcome: Levels 300–2000 pg/mL**
+  - Rules out: Vitamin B12 Deficiency Anemia
+
+### 8. HbA1c Test
+
+- **Outcome: Levels 0.0–5.6%**
+  - Rules out: Pre-Diabetes, Diabetes Mellitus Type 2
+
+- **Outcome: Levels 5.7–6.4%**
+  - Rules out: Diabetes Mellitus Type 2
+
+- **Outcome: Levels 6.5–15.0%**
+  - Rules out: Pre-Diabetes
+
+### 9. Peripheral Blood Smear
+
+- **Normal Result**
+  - Rules out: Vitamin B12 Deficiency Anemia, Folate Deficiency Anemia
+
+- **Microcytic Hypochromic**
+  - Rules out: Vitamin B12 Deficiency Anemia, Folate Deficiency Anemia
+
+- **Sickle Cells**
+  - Rules out: Vitamin B12 Deficiency Anemia, Folate Deficiency Anemia
+
+- **Blast Cells**
+  - Rules out: Vitamin B12 Deficiency Anemia, Folate Deficiency Anemia
+
+### 10. C-Reactive Protein (CRP)
+
+- **Outcome: Levels 0–5 mg/L**
+  - Rules out: Bacterial Infection, Viral Infection
+
+### 11. Troponin Levels
+
+- **Normal Levels**
+  - Rules out: Myocardial Infarction, Unstable Angina
+
+### 12. Erythrocyte Sedimentation Rate (ESR)
+
+- **Outcome: Levels 0–20 mm/hr**
+  - Rules out: Bacterial Infection, Viral Infection
+
+### 13. Complete Blood Count (CBC)
+
+- **Normal Result**
+  - Rules out: Bacterial Infection, Viral Infection, Vitamin B12 Deficiency Anemia, Folate Deficiency Anemia, Sepsis
+
+### 14. Rheumatoid Factor Test, Iron Studies, HIV Antibody Test
+
+- Outcomes do not provide criteria for exclusion based on current data.
+
+---
+
+## Conclusion
+
+This guidebook serves as a reference for ruling out specific diseases based on the outcomes of diagnostic tests. It's essential for healthcare practitioners to understand these rules to effectively diagnose and treat patients. Use this guide as a companion in clinical decision-making processes to enhance diagnostic accuracy and patient care.

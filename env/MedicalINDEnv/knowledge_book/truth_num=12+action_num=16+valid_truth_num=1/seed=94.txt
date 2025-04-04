@@ -1,0 +1,113 @@
+
+# Medical Analysis Guidebook
+
+This guidebook is designed to provide comprehensive information about specific diseases and their respective diagnostic tests. Each section introduces a disease, describes the associated diagnostic tests, and explains what outcomes indicate in terms of ruling out certain conditions.
+
+## Diseases and Diagnostic Tests
+
+### 1. Osteoporosis
+- **Definition**: A condition characterized by weak and brittle bones, increasing the risk of fractures.
+- **Diagnostic Test**: Bone Mineral Density Test
+  - **Outcomes**:
+    - A score between (-2.5 and -1.0) and (-1.0, 4.0) rules out Osteoporosis.
+
+### 2. Fungal Infection
+- **Definition**: Conditions caused by fungal pathogens affecting various body parts.
+- **Diagnostic Tests**:
+  - Peripheral Blood Smear
+    - **Outcomes**: 
+      - All conditions listed (normal, macrocytic, sickle cells, blast cells) do not explicitly rule out Fungal Infection.
+  - Blood Culture
+    - **Outcomes**:
+      - No growth rules out Fungal Infection.
+  - Complete Blood Count (CBC)
+    - **Outcomes**:
+      - A normal CBC result rules out Fungal Infection.
+  - Erythrocyte Sedimentation Rate (ESR)
+    - **Outcomes**:
+      - A result of 0-20 mm/hr rules out Fungal Infection.
+  - C-Reactive Protein (CRP)
+    - **Outcomes**:
+      - Levels between 0-5 mg/L rule out Fungal Infection.
+
+### 3. Depression
+- **Definition**: A mood disorder characterized by persistent feelings of sadness and loss of interest.
+- **Diagnostic Test**: Depression Screening Questionnaire
+  - **Outcomes**:
+    - A negative result rules out Depression.
+- **Related Screening**: Anxiety Screening Questionnaire
+  - **Outcomes**:
+    - A negative result rules out Depression.
+
+### 4. Anxiety Disorder
+- **Definition**: Mental health disorders involving excessive nervousness, fear, apprehension, and worry.
+- **Diagnostic Test**: Anxiety Screening Questionnaire
+  - **Outcomes**:
+    - A negative result rules out Anxiety Disorder.
+- **Related Screening**: Depression Screening Questionnaire
+  - **Outcomes**:
+    - A negative result rules out Anxiety Disorder.
+
+### 5. COVID-19
+- **Definition**: A contagious respiratory illness caused by the SARS-CoV-2 virus.
+- **Diagnostic Test**: COVID-19 PCR Test
+  - **Outcomes**:
+    - A negative result rules out COVID-19.
+
+### 6. Anemia of Chronic Disease
+- **Definition**: A type of anemia seen in patients with chronic illnesses, where there is inflammation impacting red blood cell production.
+- **Diagnostic Tests**:
+  - Peripheral Blood Smear
+    - **Outcomes**:
+      - All outcomes (normal, macrocytic, sickle cells, blast cells) rule out Anemia of Chronic Disease.
+  - Complete Blood Count (CBC)
+    - **Outcomes**:
+      - A normal CBC result rules out Anemia of Chronic Disease.
+  - Erythrocyte Sedimentation Rate (ESR)
+    - **Outcomes**:
+      - A result of 0-20 mm/hr rules out Anemia of Chronic Disease.
+  - C-Reactive Protein (CRP)
+    - **Outcomes**:
+      - Levels of 0-5 mg/L rule out Anemia of Chronic Disease.
+
+### 7. Stable Angina
+- **Definition**: A condition marked by chest pain due to reduced blood flow to the heart, typically triggered by physical exertion.
+- **Diagnostic Test**: Electrocardiogram (ECG)
+  - **Outcomes**:
+    - A normal result rules out Stable Angina.
+
+### 8. Sepsis
+- **Definition**: A life-threatening condition resulting from the body's response to severe infection.
+- **Diagnostic Tests**:
+  - Blood Culture
+    - **Outcomes**:
+      - No growth rules out Sepsis.
+  - Complete Blood Count (CBC)
+    - **Outcomes**:
+      - A normal CBC result rules out Sepsis.
+
+### 9. Peptic Ulcer Disease
+- **Definition**: Open sores that develop on the inner lining of the stomach and the upper part of the small intestine.
+- **Diagnostic Test**: Upper Endoscopy
+  - **Outcomes**:
+    - A normal result rules out Peptic Ulcer Disease.
+
+### 10. HIV/AIDS
+- **Definition**: A chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV).
+- **Diagnostic Test**: HIV Antibody Test
+  - **Outcomes**:
+    - A negative result rules out HIV/AIDS.
+
+### 11. Coronary Artery Disease
+- **Definition**: A disease caused by the buildup of plaque resulting in narrowing and hardening of the coronary arteries.
+- **Diagnostic Test**: Lipid Profile
+  - **Outcomes**:
+    - A normal result rules out Coronary Artery Disease.
+
+### 12. Valvular Heart Disease
+- **Definition**: A disease involving one or more of the heart valves, affecting blood flow through the heart.
+- **Diagnostic Test**: Echocardiogram
+  - **Outcomes**:
+    - A normal result rules out Valvular Heart Disease.
+
+This guidebook should be used as a reference for understanding which conditions are ruled out based on specific diagnostic test outcomes. This information is intended to support, not replace, the expert judgment of healthcare professionals.

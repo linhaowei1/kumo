@@ -1,0 +1,93 @@
+## Medical Analysis Guidebook
+
+This guidebook introduces a range of diseases and the diagnostic tests commonly used to help rule out specific conditions. This approach helps healthcare professionals in narrowing down potential diagnoses based on test outcomes.
+
+### Diseases Overview
+
+1. **Bacterial Infection**
+   - **Description:** Bacterial infections occur when harmful bacteria invade the body. They can affect any part of the body and can range from mild to severe.
+   
+2. **Stable Angina**
+   - **Description:** A type of chest pain or discomfort due to coronary artery disease. It usually occurs with physical exertion and subsides with rest.
+
+3. **Leukemia**
+   - **Description:** A cancer of the body's blood-forming tissues, including the bone marrow and lymphatic system, leading to an overproduction of abnormal white blood cells.
+
+4. **Osteoporosis**
+   - **Description:** A condition characterized by weakened bones, increasing the risk of fractures.
+
+5. **Bipolar Disorder**
+   - **Description:** A mental health disorder causing extreme mood swings including emotional highs (mania) and lows (depression).
+
+6. **Folate Deficiency Anemia**
+   - **Description:** Anemia caused by a lack of folic acid in the diet, leading to insufficient production of healthy red blood cells.
+
+7. **Unstable Angina**
+   - **Description:** Unpredictable chest pain that occurs at rest or with minimal exertion and lasts longer than stable angina.
+
+8. **Depression**
+   - **Description:** A common mental disorder characterized by persistent sadness and a lack of interest or pleasure in previously rewarding or enjoyable activities.
+
+9. **Diabetes Mellitus Type 1**
+   - **Description:** A chronic condition in which the pancreas produces little or no insulin, typically appearing in adolescence.
+
+10. **Gastroesophageal Reflux Disease (GERD)**
+    - **Description:** A long-term condition where stomach contents flow back into the esophagus, causing symptoms and potential injury to the esophageal lining.
+
+11. **HIV/AIDS**
+    - **Description:** A viral infection that attacks the immune system, eventually leading to AIDS, where the immune system is severely compromised.
+
+12. **COVID-19**
+    - **Description:** A respiratory illness caused by the novel coronavirus SARS-CoV-2, leading to symptoms ranging from mild cough to severe pneumonia.
+
+### Diagnostic Tests and Their Role in Rule-Out Diagnoses
+
+1. **COVID-19 PCR Test**
+   - **Rule-Out:** A negative result can help rule out COVID-19.
+
+2. **Peripheral Blood Smear**
+   - **Rule-Out:** A normal, microcytic hypochromic or sickle cells result can rule out Leukemia and Folate Deficiency Anemia. A macrocytic result can rule out Leukemia specifically, while blast cells can rule out Folate Deficiency Anemia.
+
+3. **HbA1c Test**
+   - **Rule-Out:** Results between 0.0-5.6% and 5.7-6.4% can help rule out Diabetes Mellitus Type 1.
+
+4. **C-Reactive Protein (CRP)**
+   - **Rule-Out:** Levels between 0-5 mg/L may help rule out a Bacterial Infection.
+
+5. **Electrocardiogram (ECG)**
+   - **Rule-Out:** A normal ECG can rule out Stable Angina and Unstable Angina.
+
+6. **HIV Antibody Test**
+   - **Rule-Out:** A negative test result can rule out HIV/AIDS.
+
+7. **Upper Endoscopy**
+   - **Rule-Out:** A normal endoscopy may help rule out GERD.
+
+8. **Depression Screening Questionnaire**
+   - **Rule-Out:** A negative result can rule out Bipolar Disorder and Depression.
+
+9. **Complete Blood Count (CBC)**
+   - **Rule-Out:** A normal CBC might help rule out Bacterial Infection, Leukemia, and Folate Deficiency Anemia.
+
+10. **Erythrocyte Sedimentation Rate (ESR)**
+    - **Rule-Out:** Levels between 0-20 mm/hr may help rule out Bacterial Infection.
+
+11. **Folate Level**
+    - **Rule-Out:** Levels between 5-50 ng/mL help rule out Folate Deficiency Anemia.
+
+12. **Bone Mineral Density Test**
+    - **Rule-Out:** Results from -2.5 to -1.0 and above -1.0 can help rule out Osteoporosis.
+
+13. **Blood Culture**
+    - **Rule-Out:** If no bacterial growth is detected, Bacterial Infection can be ruled out.
+
+14. **Troponin Levels**
+    - **Rule-Out:** Normal troponin levels can help rule out Unstable Angina.
+
+15. **Anxiety Screening Questionnaire**
+    - **Rule-Out:** A negative result can rule out Bipolar Disorder and Depression.
+
+16. **Blood Glucose Test**
+    - **Rule-Out:** Blood glucose levels ranging from 0 to 125 mg/dL may rule out Diabetes Mellitus Type 1.
+
+This guide aims to provide a clear understanding of various diseases and how diagnostic test outcomes can help eliminate certain diagnoses. By ruling out specific conditions based on test results, healthcare professionals can better focus on potential underlying causes for a patient’s symptoms.

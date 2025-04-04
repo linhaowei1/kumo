@@ -1,0 +1,60 @@
+# Medical Analysis Guidebook
+
+This guidebook provides an overview of specific diseases and their diagnosis through various medical tests. Understanding how different diagnostic outcomes rule out certain diseases can facilitate more accurate medical evaluations and treatment plans.
+
+## Diseases Overview
+
+### 1. Pre-Diabetes
+Pre-Diabetes is a condition where blood glucose levels are higher than normal but not high enough to be classified as diabetes. This stage is critical as it may progress to type 2 diabetes, which can lead to significant health issues if not managed effectively.
+
+### 2. Depression
+Depression is a common mental disorder that affects mood, thoughts, and the ability to function in daily life. It can lead to emotional and physical problems if untreated. It's important to accurately diagnose depression to provide the right support and treatment.
+
+### 3. Osteopenia
+Osteopenia refers to bone density that is lower than normal peak density but not low enough to be classified as osteoporosis. It indicates a risk factor for developing osteoporosis and potential fractures.
+
+### 4. Peptic Ulcer Disease
+Peptic Ulcer Disease involves sores that develop on the lining of the stomach, lower esophagus, or small intestine. It is primarily due to inflammation caused by H. pylori bacteria or prolonged use of nonsteroidal anti-inflammatory drugs (NSAIDs).
+
+## Diagnostic Tests and Outcomes
+
+### 1. HbA1c Test
+The HbA1c test measures average blood glucose levels over the past 2 to 3 months. It's an essential test in managing glucose levels.
+
+- **Range 0.0 to 5.6**: If results fall within this range, Pre-Diabetes is ruled out.
+- **Range 5.7 to 6.4**: No exclusions are made based on this outcome.
+- **Range 6.5 to 15.0**: If results are within this range, Pre-Diabetes is ruled out.
+
+### 2. Upper Endoscopy
+An upper endoscopy involves using a thin scope with a light and camera to examine the esophagus, stomach, and the beginning of the small intestine. 
+
+- **Normal finding**: Peptic Ulcer Disease is ruled out.
+- **Esophagitis, Gastric Ulcer, or Duodenal Ulcer findings**: No exclusions are made based on these specific findings alone.
+
+### 3. Bone Mineral Density Test
+This test measures the density of minerals (like calcium) in bones and helps to assess the risk of fractures or osteoporosis.
+
+- **Score between -4.0 and -2.5**: Osteopenia is ruled out.
+- **Score between -2.5 and -1.0**: No exclusions are made from this outcome.
+- **Score between -1.0 and 4.0**: Osteopenia is ruled out.
+
+### 4. Anxiety Screening Questionnaire
+This is a tool used to assess the presence of anxiety symptoms, which can overlap with depression symptoms.
+
+- **Positive result**: No exclusions are made based on this outcome.
+- **Negative result**: Depression is ruled out.
+
+### 5. Depression Screening Questionnaire
+Another tool used to screen for depression symptoms.
+
+- **Positive result**: No exclusions are made based on this outcome.
+- **Negative result**: Depression is ruled out.
+
+### 6. Blood Glucose Test
+A standard test used to measure the concentration of glucose in the blood, typically fasting.
+
+- **Range 0 to 99**: Pre-Diabetes is ruled out.
+- **Range 100 to 125**: No exclusions are made from this outcome.
+- **Range 126 to 500**: Pre-Diabetes is ruled out.
+
+By understanding these diagnostic tests and the outcomes that rule out specific conditions, healthcare providers can make informed decisions about further diagnostic needs and treatment plans for their patients.

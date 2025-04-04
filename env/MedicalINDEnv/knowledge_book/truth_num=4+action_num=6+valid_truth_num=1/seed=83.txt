@@ -1,0 +1,66 @@
+# Medical Analysis Guidebook
+
+## Introduction
+
+In this guidebook, we aim to provide an understanding of specific diseases and the diagnostic tests used to assess them. We will focus on four diseases: Depression, Diabetes Mellitus Type 1, Unstable Angina, and Heart Failure. Additionally, we'll discuss various diagnostic tests that help rule out these diseases, explaining the outcomes and their interpretations.
+
+### Diseases
+
+1. **Depression**
+   - Depression is a mood disorder characterized by persistent feelings of sadness, loss of interest, and a variety of emotional and physical problems. It can affect how a person feels, thinks, and handles daily activities.
+
+2. **Diabetes Mellitus Type 1**
+   - This is an autoimmune condition where the body's immune system attacks insulin-producing beta cells in the pancreas, leading to high blood sugar levels. It usually manifests in children and young adults and requires insulin therapy for management.
+
+3. **Unstable Angina**
+   - Unstable angina is a condition where the heart does not receive enough blood flow and oxygen, often due to partially blocked coronary arteries. It is a warning sign that a heart attack could happen soon and needs immediate medical attention.
+
+4. **Heart Failure**
+   - Heart failure, also known as congestive heart failure, occurs when the heart is unable to pump blood effectively. This can lead to symptoms such as shortness of breath, fatigue, and swelling in the legs.
+
+### Diagnostic Tests and Rule-Out Guidelines
+
+1. **HbA1c Test**
+   - **Description**: The HbA1c test measures the average blood sugar levels over the past two to three months. It is an indicator of how well diabetes is being managed.
+   - **Outcomes and Rule-Outs**:
+     - Result 0.0–5.6: Rule out Diabetes Mellitus Type 1.
+     - Result 5.7–6.4: Rule out Diabetes Mellitus Type 1.
+     - Result 6.5–15.0: No diseases are ruled out.
+
+2. **Electrocardiogram (ECG)**
+   - **Description**: An ECG records the electrical activity of the heart and is used to detect heart problems.
+   - **Outcomes and Rule-Outs**:
+     - Normal: Rule out Unstable Angina.
+     - Arrhythmia: No diseases are ruled out.
+     - Ischemic changes: No diseases are ruled out.
+     - Left ventricular hypertrophy: No diseases are ruled out.
+     - Myocardial infarction pattern: No diseases are ruled out.
+
+3. **Depression Screening Questionnaire**
+   - **Description**: This questionnaire helps identify symptoms of depression by asking about mood, interest in activities, and other related factors.
+   - **Outcomes and Rule-Outs**:
+     - Positive: No diseases are ruled out.
+     - Negative: Rule out Depression.
+
+4. **Blood Glucose Test**
+   - **Description**: This test measures the amount of glucose in the blood and helps diagnose diabetes.
+   - **Outcomes and Rule-Outs**:
+     - Result 0–99 mg/dL: Rule out Diabetes Mellitus Type 1.
+     - Result 100–125 mg/dL: Rule out Diabetes Mellitus Type 1.
+     - Result 126–500 mg/dL: No diseases are ruled out.
+
+5. **Anxiety Screening Questionnaire**
+   - **Description**: This questionnaire is designed to detect signs of anxiety which can be related to or confused with depression.
+   - **Outcomes and Rule-Outs**:
+     - Positive: No diseases are ruled out.
+     - Negative: Rule out Depression.
+
+6. **Troponin Levels**
+   - **Description**: Troponin is a protein released when heart muscle is damaged, often used to diagnose heart attacks.
+   - **Outcomes and Rule-Outs**:
+     - Normal: Rule out Unstable Angina.
+     - Elevated: No diseases are ruled out.
+
+### Conclusion
+
+This guidebook is intended to clarify the use of diagnostic tests in ruling out specific diseases. By understanding the outcomes of these tests, healthcare practitioners can more accurately diagnose and manage the diseases discussed. Proper interpretation of test results is essential in determining the appropriate course of action for patient care.

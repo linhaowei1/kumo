@@ -1,0 +1,74 @@
+# Medical Analysis Guidebook
+
+This guidebook provides an overview of four diseases, the diagnostic tests used to identify them, and the outcomes of these tests that can help rule out specific diseases. This knowledge is essential for healthcare professionals to appropriately assess and manage patient health.
+
+## Diseases
+
+### 1. Peptic Ulcer Disease
+Peptic Ulcer Disease (PUD) is a condition characterized by sores or ulcers forming in the lining of the stomach or the first part of the small intestine (duodenum). Common symptoms include stomach pain, bloating, and nausea. The main causes are Helicobacter pylori infection and prolonged use of NSAIDs (non-steroidal anti-inflammatory drugs).
+
+### 2. Leukemia
+Leukemia is a type of cancer that affects blood and bone marrow, characterized by an overproduction of abnormal white blood cells. There are several types, including acute and chronic forms. Symptoms may include fatigue, frequent infections, and bleeding or bruising easily.
+
+### 3. Iron Deficiency Anemia
+Iron Deficiency Anemia occurs when there is a deficiency of iron in the body, leading to reduced production of hemoglobin and a decrease in red blood cells. Symptoms often include fatigue, weakness, pale skin, and shortness of breath. It can be caused by blood loss, poor diet, or inability to absorb iron.
+
+### 4. Diabetes Mellitus Type 1
+Diabetes Mellitus Type 1 is an autoimmune disease where the pancreas produces little to no insulin. This leads to high blood glucose levels. Symptoms include increased thirst, frequent urination, extreme hunger, weight loss, and fatigue. It is typically diagnosed in children and young adults.
+
+## Diagnostic Tests
+
+### 1. Peripheral Blood Smear
+A Peripheral Blood Smear is a test that involves examining a small sample of blood under a microscope. It helps evaluate the size, shape, and number of blood cells. 
+
+**Rule-Out Interpretations:**
+- **Normal:** Excludes Iron Deficiency Anemia, Leukemia.
+- **Microcytic Hypochromic:** Excludes Leukemia.
+- **Macrocytic:** Excludes Iron Deficiency Anemia, Leukemia.
+- **Sickle Cells:** Excludes Iron Deficiency Anemia, Leukemia.
+- **Blast Cells:** Excludes Iron Deficiency Anemia.
+
+### 2. HbA1c Test
+The HbA1c test measures average blood glucose levels over the past 2-3 months. It is commonly used to diagnose diabetes.
+
+**Rule-Out Interpretations:**
+- **HbA1c (0.0 - 5.6%):** Excludes Diabetes Mellitus Type 1.
+- **HbA1c (5.7 - 6.4%):** Excludes Diabetes Mellitus Type 1.
+- **HbA1c (6.5 - 15.0%):** Does not exclude any diseases.
+
+### 3. Upper Endoscopy
+An Upper Endoscopy allows the doctor to view the upper digestive system through a flexible tube with a camera. It's used to identify abnormalities such as ulcers or inflammation.
+
+**Rule-Out Interpretations:**
+- **Normal:** Excludes Peptic Ulcer Disease.
+- **Esophagitis:** Does not exclude any diseases.
+- **Gastric Ulcer:** Does not exclude any diseases.
+- **Duodenal Ulcer:** Does not exclude any diseases.
+
+### 4. Complete Blood Count (CBC)
+A CBC test evaluates overall health and detects a variety of disorders, including anemia, infection, and many other diseases, by measuring the concentration of different blood components.
+
+**Rule-Out Interpretations:**
+- **Normal:** Excludes Iron Deficiency Anemia, Leukemia.
+- **Anemia:** Does not exclude any diseases.
+- **Leukocytosis:** Does not exclude any diseases.
+- **Leukopenia:** Does not exclude any diseases.
+- **Thrombocytopenia:** Does not exclude any diseases.
+
+### 5. Iron Studies
+Iron Studies assess the amount of iron in the blood and the body's iron storage capacity. It helps diagnose iron-related disorders.
+
+**Rule-Out Interpretations:**
+- **Normal:** Excludes Iron Deficiency Anemia.
+- **Iron Deficiency:** Does not exclude any diseases.
+- **Anemia of Chronic Disease:** Does not exclude any diseases.
+
+### 6. Blood Glucose Test
+This test measures the level of glucose in the blood at one point in time and is used to diagnose diabetes.
+
+**Rule-Out Interpretations:**
+- **Blood Glucose (0 - 99 mg/dL):** Excludes Diabetes Mellitus Type 1.
+- **Blood Glucose (100 - 125 mg/dL):** Excludes Diabetes Mellitus Type 1.
+- **Blood Glucose (126 - 500 mg/dL):** Does not exclude any diseases.
+
+This guidebook provides a framework for understanding the relationships between various diseases and diagnostic test outcomes. It helps identify which conditions can be ruled out, supporting clinical decision-making and patient care.

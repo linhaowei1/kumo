@@ -1,0 +1,125 @@
+# Medical Analysis Guidebook
+
+This guidebook aims to provide a clear understanding of various diseases and the diagnostic tests associated with ruling them out. It aligns with evidence-based practice to help guide clinical assessments.
+
+## Diseases
+
+### 1. Rheumatoid Arthritis
+An autoimmune disease characterized by inflammation of the joints. It can lead to pain, swelling, and eventual joint damage.
+
+### 2. Peptic Ulcer Disease
+This condition involves sores or ulcers in the lining of the stomach or the first part of the small intestine.
+
+### 3. Osteopenia
+A condition where bone mineral density is lower than normal, but not low enough to be classified as osteoporosis.
+
+### 4. Bipolar Disorder
+A mental health disorder marked by extreme mood swings that include emotional highs (mania) and lows (depression).
+
+### 5. Anxiety Disorder
+A group of mental disorders causing significant feelings of anxiety and fear.
+
+### 6. Bacterial Infection
+Infections caused by bacteria, which can lead to various diseases, depending on the bacteria and the body region affected.
+
+### 7. Aortic Stenosis
+A narrowing of the aortic valve opening, restricting blood flow from the heart to the body.
+
+### 8. Myocardial Infarction
+Commonly known as a heart attack, this occurs when blood flow to part of the heart is blocked for a long time, causing damage.
+
+### 9. Iron Deficiency Anemia
+A condition where a lack of iron leads to a reduction in the number of red blood cells, causing fatigue and weakness.
+
+### 10. Pre-Diabetes
+A condition where blood sugar levels are higher than normal, but not high enough to be classified as type 2 diabetes.
+
+### 11. COVID-19
+An infectious disease caused by the novel coronavirus SARS-CoV-2.
+
+### 12. Gastroesophageal Reflux Disease (GERD)
+A chronic condition where stomach acid frequently flows back into the esophagus, causing irritation.
+
+## Diagnostic Tests and Rule-Out Rules
+
+### COVID-19 PCR Test
+A diagnostic tool to detect the presence of the SARS-CoV-2 virus.
+
+- **Negative Result:** Rules out COVID-19.
+
+### Iron Studies
+A group of tests used to evaluate iron storage and transport in the body.
+
+- **Normal Result:** Rules out Iron Deficiency Anemia.
+
+### Blood Glucose Test
+Measures the amount of sugar in your blood, useful for diagnosing diabetes.
+
+- **Values 0-99 and 126-500 mg/dL:** Rules out Pre-Diabetes.
+
+### C-Reactive Protein (CRP)
+Measures the level of CRP in your blood which rises in response to inflammation.
+
+- **Values 0-5 mg/L:** Rules out Bacterial Infection and Rheumatoid Arthritis.
+
+### Electrocardiogram (ECG)
+A test that records the electrical signals in your heart to detect heart problems.
+
+- **Normal Result:** Rules out Myocardial Infarction.
+
+### Upper Endoscopy
+A procedure to examine the upper digestive system with a tiny camera on the end of a long, flexible tube.
+
+- **Normal Result:** Rules out Peptic Ulcer Disease and GERD.
+
+### Bone Mineral Density Test
+Measures bone strength and the risk of fracture.
+
+- **Values -4.0 to -2.5 or -1.0 to 4.0:** Rules out Osteopenia.
+
+### Depression Screening Questionnaire
+A tool used to identify depression symptoms.
+
+- **Negative Result:** Rules out Anxiety Disorder and Bipolar Disorder.
+
+### Anxiety Screening Questionnaire
+Assesses signs of anxiety disorders.
+
+- **Negative Result:** Rules out Anxiety Disorder and Bipolar Disorder.
+
+### HbA1c Test
+Provides an average blood sugar level over the previous three months.
+
+- **Values 0.0-5.6 or 6.5-15.0%:** Rules out Pre-Diabetes.
+
+### Rheumatoid Factor Test
+Measures the amount of rheumatoid factor in your blood.
+
+- **Negative Result:** Rules out Rheumatoid Arthritis.
+
+### Complete Blood Count (CBC)
+A comprehensive blood test used to evaluate overall health and detect a wide range of disorders.
+
+- **Normal Result:** Rules out Bacterial Infection and Iron Deficiency Anemia.
+
+### Echocardiogram
+An ultrasound test that evaluates the heart's structure and function.
+
+- **Normal Result:** Rules out Aortic Stenosis.
+
+### Erythrocyte Sedimentation Rate (ESR)
+Measures how quickly red blood cells settle at the bottom of a test tube, which can indicate inflammation.
+
+- **Values 0-20 mm/hr:** Rules out Bacterial Infection and Rheumatoid Arthritis.
+
+### Peripheral Blood Smear
+A test to examine the characteristics of blood cells.
+
+- **Normal Result:** Rules out Iron Deficiency Anemia.
+
+### Blood Culture
+A test to detect the presence of bacteria or fungi in the blood.
+
+- **No Growth:** Rules out Bacterial Infection.
+
+This guide provides an understanding of the diagnostic tests employed to rule out specific diseases based on observable outcomes. Understanding these relationships can improve the diagnostic process in clinical settings.

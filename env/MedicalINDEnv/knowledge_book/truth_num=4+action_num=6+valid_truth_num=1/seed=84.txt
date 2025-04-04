@@ -1,0 +1,62 @@
+# Medical Analysis Guidebook
+
+This guidebook is designed to help the reader understand various diseases and the diagnostic tests associated with them. We will explore four diseases: Viral Infection, Diabetes Mellitus Type 1, Depression, and Stable Angina. Alongside these, we'll delve into six diagnostic tests, exploring their outcomes and what these outcomes imply for each disease.
+
+## Diseases Overview
+
+### 1. Viral Infection
+Viral infections are illnesses caused by viruses. They lead to symptoms like fever, cough, and fatigue, among others, and can range from the common cold to more severe illnesses like the flu.
+
+### 2. Diabetes Mellitus Type 1
+Diabetes Mellitus Type 1 is a chronic condition in which the pancreas produces little or no insulin. It requires management through insulin therapy and careful monitoring of blood glucose levels.
+
+### 3. Depression
+Depression is a mental health disorder characterized by persistently low mood and a lack of interest in activities, causing significant impairment in daily life.
+
+### 4. Stable Angina
+Stable angina is a type of chest pain that occurs due to reduced blood flow to the heart muscles, typically triggered by physical exertion or emotional stress.
+
+## Diagnostic Tests and Interpretation
+
+### 1. Complete Blood Count (CBC)
+The CBC test measures different components of blood to assess overall health and detect a variety of disorders.
+
+- **Normal CBC**: If this test comes back normal, a viral infection can be ruled out. This suggests the absence of typical viral infection blood markers.
+
+### 2. Electrocardiogram (ECG)
+An ECG records the electrical signals in the heart to detect heart problems.
+
+- **Normal ECG**: If a normal ECG is observed, Stable Angina can be ruled out, implying no evident aberrations in heart function indicative of this condition.
+
+### 3. Depression Screening Questionnaire
+A tool used to identify signs of depression in an individual.
+
+- **Negative Result**: A negative depression screening indicates that depression can be ruled out, suggesting no significant indicators of this disorder.
+
+### 4. C-Reactive Protein (CRP) Test
+The CRP test measures the level of C-reactive protein in the blood, indicating inflammation.
+
+- **CRP Level 0-5 mg/L**: If the CRP level falls within this range, a viral infection can be ruled out, as it indicates low-level inflammation not typical of most viral infections.
+
+### 5. HbA1c Test
+This test reflects the average blood sugar level over two to three months, used primarily to diagnose and manage diabetes.
+
+- **HbA1c Level 0.0-5.6% and 5.7-6.4%**: These ranges indicate that Diabetes Mellitus Type 1 can be ruled out, as these levels are within or below the prediabetes threshold, and not typical for an unmanaged diabetic state.
+
+### 6. Erythrocyte Sedimentation Rate (ESR)
+An ESR test measures how quickly red blood cells settle at the bottom of a test tube, indicating inflammation levels.
+
+- **ESR Level 0-20 mm/h**: When the ESR is in this range, a viral infection can be ruled out, as such low sedimentation rates typically do not accompany viral infections.
+
+## Summary of Rule-Outs
+
+When testing is performed, the following interpretations apply:
+
+- A **normal CBC** test result rules out Viral Infection.
+- A **normal ECG** test result rules out Stable Angina.
+- A **negative Depression Screening Questionnaire** result rules out Depression.
+- A **CRP level of 0-5 mg/L** rules out Viral Infection.
+- HbA1c levels of **0.0-5.6% or 5.7-6.4%** rule out Diabetes Mellitus Type 1.
+- An **ESR level of 0-20 mm/h** rules out Viral Infection.
+
+By understanding these diagnostics and their outcomes, healthcare providers can better assess and manage patient health by excluding certain conditions from a diagnosis. This guide serves as an informative overview to navigate the exclusionary diagnostics of common diseases.

@@ -1,0 +1,77 @@
+# Medical Analysis Guidebook
+
+Welcome to the Medical Analysis Guidebook. This guide aims to provide an informative overview of certain diseases and their related diagnostic tests. Understanding the results of these tests is crucial in ruling out specific conditions, helping healthcare professionals make precise diagnoses and decide on further interventions. Below, we've outlined the diseases covered in this guide and the diagnostic tests used to rule out these conditions.
+
+## Diseases and Diagnostic Tests
+
+### 1. Unstable Angina
+- **Diagnostic Test: Electrocardiogram (ECG)**
+  - Outcome: If ECG is normal, Unstable Angina can be ruled out.
+- **Diagnostic Test: Troponin Levels**
+  - Outcome: If Troponin Levels are normal, Unstable Angina can be ruled out.
+
+### 2. Fungal Infection
+- **Diagnostic Test: Blood Culture**
+  - Outcome: If Blood Culture shows no growth, Fungal Infection can be ruled out.
+- **Diagnostic Test: Complete Blood Count (CBC)**
+  - Outcome: If CBC is normal, Fungal Infection can be ruled out.
+- **Diagnostic Test: Erythrocyte Sedimentation Rate (ESR)**
+  - Outcome: If ESR is between 0-20, Fungal Infection can be ruled out.
+- **Diagnostic Test: C-Reactive Protein (CRP)**
+  - Outcome: If CRP is between 0-5, Fungal Infection can be ruled out.
+
+### 3. Valvular Heart Disease
+- **Diagnostic Test: Echocardiogram**
+  - Outcome: If Echocardiogram is normal, Valvular Heart Disease can be ruled out.
+
+### 4. Leukemia
+- **Diagnostic Test: Peripheral Blood Smear**
+  - Outcome: If Peripheral Blood Smear shows normal, microcytic hypochromic, macrocytic, or sickle cells, Leukemia can be ruled out.
+- **Diagnostic Test: Complete Blood Count (CBC)**
+  - Outcome: If CBC is normal, Leukemia can be ruled out.
+
+### 5. Stable Angina
+- **Diagnostic Test: Electrocardiogram (ECG)**
+  - Outcome: If ECG is normal, Stable Angina can be ruled out.
+
+### 6. Pre-Diabetes
+- **Diagnostic Test: HbA1c Test**
+  - Outcome: If HbA1c is between 0.0-5.6 or 6.5-15.0, Pre-Diabetes can be ruled out.
+- **Diagnostic Test: Blood Glucose Test**
+  - Outcome: If Blood Glucose is between 0-99 or 126-500, Pre-Diabetes can be ruled out.
+
+### 7. Rheumatoid Arthritis
+- **Diagnostic Test: Rheumatoid Factor Test**
+  - Outcome: If Rheumatoid Factor Test is negative, Rheumatoid Arthritis can be ruled out.
+- **Diagnostic Test: Erythrocyte Sedimentation Rate (ESR)**
+  - Outcome: If ESR is between 0-20, Rheumatoid Arthritis can be ruled out.
+- **Diagnostic Test: C-Reactive Protein (CRP)**
+  - Outcome: If CRP is between 0-5, Rheumatoid Arthritis can be ruled out.
+
+### 8. Sepsis
+- **Diagnostic Test: Blood Culture**
+  - Outcome: If Blood Culture shows no growth, Sepsis can be ruled out.
+- **Diagnostic Test: Complete Blood Count (CBC)**
+  - Outcome: If CBC is normal, Sepsis can be ruled out.
+
+### 9. Depression
+- **Diagnostic Test: Depression Screening Questionnaire**
+  - Outcome: If Questionnaire is negative, Depression can be ruled out.
+- **Diagnostic Test: Anxiety Screening Questionnaire**
+  - Outcome: If Questionnaire is negative, Depression can be ruled out.
+
+### 10. Diabetes Mellitus Type 2
+- **Diagnostic Test: HbA1c Test**
+  - Outcome: If HbA1c is between 0.0-5.6, Diabetes Mellitus Type 2 can be ruled out.
+- **Diagnostic Test: Blood Glucose Test**
+  - Outcome: If Blood Glucose is between 0-99, Diabetes Mellitus Type 2 can be ruled out.
+
+### 11. Coronary Artery Disease (CAD)
+- **Diagnostic Test: Lipid Profile**
+  - Outcome: If Lipid Profile is normal, CAD can be ruled out.
+
+### 12. Peptic Ulcer Disease
+- **Diagnostic Test: Upper Endoscopy**
+  - Outcome: If Upper Endoscopy is normal, Peptic Ulcer Disease can be ruled out.
+
+Each diagnostic test provides critical information, not necessarily to confirm a specific disease's presence but to effectively rule out conditions that might present similar symptoms. Accurate exclusion of certain diseases helps healthcare providers focus on viable conditions and tailor treatment plans more effectively. Use this guide to understand and interpret the outcomes of various tests, ensuring informed clinical decisions.

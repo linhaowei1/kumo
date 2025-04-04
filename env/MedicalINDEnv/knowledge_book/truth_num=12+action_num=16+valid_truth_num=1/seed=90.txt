@@ -1,0 +1,94 @@
+
+# Medical Analysis Guidebook
+
+This guidebook provides an overview of selected diseases along with their corresponding diagnostic tests. Each section includes a description of the disease and the interpretation of diagnostic test outcomes, specifically focusing on which conditions can be ruled out based on test results. The aim is to facilitate a better understanding of the diseases and the diagnostic process through clear and concise information.
+
+## Diseases and Diagnostic Testing
+
+### 1. COVID-19
+**COVID-19 PCR Test**  
+- **Positive Result**: Indicates the presence of the virus but no specific diseases are ruled out with a positive result.
+- **Negative Result**: COVID-19 is ruled out.
+
+### 2. Folate Deficiency Anemia
+**Peripheral Blood Smear**  
+- **Normal**: Folate Deficiency Anemia and Iron Deficiency Anemia are ruled out.
+- **Microcytic Hypochromic**: Folate Deficiency Anemia may still be considered; no additional exclusions.
+- **Macrocytic**: Iron Deficiency Anemia may still be considered; no additional exclusions.
+- **Sickle Cells**: Folate Deficiency Anemia and Iron Deficiency Anemia may still be considered; no additional exclusions.
+- **Blast Cells**: Folate Deficiency Anemia and Iron Deficiency Anemia may still be considered; no additional exclusions.
+
+**Complete Blood Count (CBC)**  
+- **Normal**: Folate Deficiency Anemia and Iron Deficiency Anemia are ruled out.
+
+**Folate Level**  
+- **5 to 50 ng/mL**: Folate Deficiency Anemia is ruled out.
+
+### 3. Rheumatoid Arthritis
+**Rheumatoid Factor Test**  
+- **Negative Result**: Rheumatoid Arthritis is ruled out.
+
+**C-Reactive Protein (CRP)**  
+- **0 to 5 mg/L**: Rheumatoid Arthritis is ruled out.
+
+**Erythrocyte Sedimentation Rate (ESR)**  
+- **0 to 20 mm/hr**: Rheumatoid Arthritis is ruled out.
+
+### 4. Iron Deficiency Anemia
+**Peripheral Blood Smear**  
+- **Normal**: Iron Deficiency Anemia and Folate Deficiency Anemia are ruled out.
+
+**Complete Blood Count (CBC)**  
+- **Normal**: Iron Deficiency Anemia and Folate Deficiency Anemia are ruled out.
+
+**Iron Studies**  
+- **Normal**: Iron Deficiency Anemia is ruled out.
+
+### 5. Systemic Lupus Erythematosus (SLE)
+**Anti-Nuclear Antibody (ANA) Test**  
+- **Negative Result**: SLE is ruled out.
+
+**C-Reactive Protein (CRP)**  
+- **0 to 5 mg/L**: SLE is ruled out.
+
+**Erythrocyte Sedimentation Rate (ESR)**  
+- **0 to 20 mm/hr**: SLE is ruled out.
+
+### 6. Osteopenia
+**Bone Mineral Density Test**  
+- **(-4.0, -2.5) or (-1.0, 4.0) T-score**: Osteopenia is ruled out.
+
+### 7. Diabetes Mellitus Type 2
+**Blood Glucose Test**  
+- **0 to 99 mg/dL**: Diabetes Mellitus Type 2 is ruled out.
+- **100 to 125 mg/dL**: Diabetes Mellitus Type 2 is ruled out.
+
+**HbA1c Test**  
+- **0.0 to 5.6%**: Diabetes Mellitus Type 2 is ruled out.
+
+### 8. Pre-Diabetes
+**Blood Glucose Test**  
+- **126 to 500 mg/dL**: Pre-Diabetes is ruled out.
+
+**HbA1c Test**  
+- **6.5 to 15.0%**: Pre-Diabetes is ruled out.
+
+### 9. Gastroesophageal Reflux Disease (GERD)
+**Upper Endoscopy**  
+- **Normal result**: GERD is ruled out.
+
+### 10. Peptic Ulcer Disease
+**Upper Endoscopy**  
+- **Normal result**: Peptic Ulcer Disease is ruled out.
+
+### 11. HIV/AIDS
+**HIV Antibody Test**  
+- **Negative Result**: HIV/AIDS is ruled out.
+
+### 12. Coronary Artery Disease
+**Lipid Profile**  
+- **Normal result**: Coronary Artery Disease is ruled out.
+
+## Summary
+
+This guidebook provides essential information on how various test outcomes can help rule out specific diseases, allowing healthcare professionals to narrow down potential diagnoses more effectively. Understanding these relationships enhances diagnostic accuracy and informs better patient management strategies.

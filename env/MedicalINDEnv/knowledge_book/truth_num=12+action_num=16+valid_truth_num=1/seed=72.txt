@@ -1,0 +1,114 @@
+# Medical Analysis Guidebook
+
+This guidebook provides a comprehensive overview of certain diseases and the corresponding diagnostic tests used to evaluate them. Each section includes a brief introduction to the diseases, followed by descriptions of the diagnostic tests, and elucidates the outcomes that could help rule out specific diseases.
+
+---
+
+## Diseases
+
+1. **Leukemia**: A type of cancer that affects blood and bone marrow, characterized by an overproduction of abnormal white blood cells.
+
+2. **Coronary Artery Disease**: A condition where the heart's blood supply is blocked or interrupted by a buildup of fatty substances in coronary arteries.
+
+3. **Bipolar Disorder**: A mental health disorder marked by extreme mood swings, including emotional highs (mania or hypomania) and lows (depression).
+
+4. **Stable Angina**: A type of chest pain that occurs with activity or stress, due to reduced blood flow to the heart.
+
+5. **Unstable Angina**: A condition presenting as unexpected chest pain and usually occurs while at rest, signifying a potentially dangerous condition related to heart disease.
+
+6. **Peptic Ulcer Disease**: Open sores that develop on the inside lining of your stomach and the upper portion of your small intestine.
+
+7. **Folate Deficiency Anemia**: A condition caused by a lack of folate (vitamin B9), characterized by fewer red blood cells.
+
+8. **Osteoporosis**: A condition that weakens bones, making them fragile and more likely to break.
+
+9. **Diabetes Mellitus Type 1**: A chronic condition where the pancreas produces little or no insulin.
+
+10. **Diabetes Mellitus Type 2**: A chronic condition that affects the way the body processes blood sugar (glucose).
+
+11. **Pre-Diabetes**: A condition where blood sugar levels are higher than normal but not high enough to be classified as Type 2 diabetes.
+
+12. **Anemia of Chronic Disease**: A mild anemia that occurs as part of a chronic inflammatory disease.
+
+---
+
+## Diagnostic Tests and Outcomes
+
+1. **Peripheral Blood Smear**: A test that involves spreading a drop of blood thinly onto a microscope slide and examining cells.
+
+   - **Normal**: Rules out Anemia of Chronic Disease, Folate Deficiency Anemia, and Leukemia.
+   - **Microcytic Hypochromic**: Rules out Leukemia and Folate Deficiency Anemia.
+   - **Macrocytic**: Rules out Anemia of Chronic Disease and Leukemia.
+   - **Sickle Cells**: Rules out Anemia of Chronic Disease, Folate Deficiency Anemia, and Leukemia.
+   - **Blast Cells**: Rules out Anemia of Chronic Disease and Folate Deficiency Anemia.
+
+2. **HbA1c Test**: Measures the average blood sugar control for the past 2 to 3 months.
+
+   - 0.0% - 5.6%: Rules out Pre-Diabetes, Diabetes Mellitus Type 1 and Type 2.
+   - 5.7% - 6.4%: Rules out Diabetes Mellitus Type 1 and Type 2.
+   - 6.5% - 15.0%: Rules out Pre-Diabetes.
+
+3. **Lipid Profile**: A blood test measuring cholesterol levels.
+
+   - **Normal**: Rules out Coronary Artery Disease.
+
+4. **Electrocardiogram (ECG)**: A test that records the electrical activity of the heart.
+
+   - **Normal**: Rules out Stable Angina and Unstable Angina.
+
+5. **Upper Endoscopy**: A procedure used to visually examine your upper digestive system.
+
+   - **Normal**: Rules out Peptic Ulcer Disease.
+
+6. **Bone Mineral Density Test**: Assesses bone health and risk of fractures.
+
+   - Scores:
+     - (-4.0, -2.5): No exclusions. 
+     - (-2.5, -1.0): Rules out Osteoporosis.
+     - (-1.0, 4.0): Rules out Osteoporosis.
+
+7. **Complete Blood Count (CBC)**: A blood test used to evaluate overall health and detect a variety of disorders.
+
+   - **Normal**: Rules out Anemia of Chronic Disease, Folate Deficiency Anemia, and Leukemia.
+
+8. **Erythrocyte Sedimentation Rate (ESR)**: Measures inflammation in the body.
+
+   - 0 to 20 mm/hr: Rules out Anemia of Chronic Disease.
+
+9. **Depression Screening Questionnaire**: Assesses the possibility of depression.
+
+   - **Negative**: Rules out Bipolar Disorder.
+
+10. **Blood Glucose Test**: Measures the amount of glucose in your blood.
+
+    - 0 to 99 mg/dL: Rules out Pre-Diabetes, Diabetes Mellitus Type 1 and Type 2.
+    - 100 to 125 mg/dL: Rules out Diabetes Mellitus Type 1 and Type 2.
+    - 126 to 500 mg/dL: Rules out Pre-Diabetes.
+
+11. **Anxiety Screening Questionnaire**: Evaluates levels of anxiety.
+
+    - **Negative**: Rules out Bipolar Disorder.
+
+12. **C-Reactive Protein (CRP)**: A marker for inflammation in the body.
+
+    - 0 to 5 mg/L: Rules out Anemia of Chronic Disease.
+
+13. **Folate Level**: Measures folate status in the body.
+
+    - 5 to 50 ng/mL: Rules out Folate Deficiency Anemia.
+
+14. **Troponin Levels**: Proteins released when the heart muscle has been damaged.
+
+    - **Normal**: Rules out Unstable Angina.
+
+15. **HIV Antibody Test**: Detects antibodies to determine HIV infection status.
+
+    - No specific disease exclusion parameters noted.
+
+16. **Vitamin B12 Level**: Assesses the amount of vitamin B12 in the blood, important for nerve and blood cell health.
+
+    - No specific disease exclusion parameters noted.
+
+---
+
+This guidebook highlights the importance of understanding diagnostic test outcomes to effectively rule out specific diseases, facilitating accurate diagnosis and appropriate management.

@@ -1,0 +1,246 @@
+
+## **Input**
+Diseases: ['HIV/AIDS', 'Peptic Ulcer Disease', 'Viral Infection', 'Leukemia', 'Valvular Heart Disease', 'Folate Deficiency Anemia', 'Metabolic Syndrome', 'Rheumatoid Arthritis', 'Anemia of Chronic Disease', 'Bacterial Infection', 'Aortic Stenosis', 'Sepsis']
+Diagnosis: ['Peripheral Blood Smear', 'Rheumatoid Factor Test', 'Echocardiogram', 'HIV Antibody Test', 'Upper Endoscopy', 'Blood Culture', 'Blood Glucose Test', 'HbA1c Test', 'C-Reactive Protein (CRP)', 'Complete Blood Count (CBC)', 'Erythrocyte Sedimentation Rate (ESR)', 'Lipid Profile', 'Folate Level', 'Electrocardiogram (ECG)', 'Depression Screening Questionnaire', 'Anti-Nuclear Antibody (ANA) Test']
+TA mapping: {'Peripheral Blood Smear': {'normal': {'Folate Deficiency Anemia', 'Anemia of Chronic Disease', 'Leukemia'}, 'microcytic_hypochromic': {'Folate Deficiency Anemia', 'Leukemia'}, 'macrocytic': {'Anemia of Chronic Disease', 'Leukemia'}, 'sickle_cells': {'Folate Deficiency Anemia', 'Anemia of Chronic Disease', 'Leukemia'}, 'blast_cells': {'Folate Deficiency Anemia', 'Anemia of Chronic Disease'}}, 'Rheumatoid Factor Test': {'positive': set(), 'negative': {'Rheumatoid Arthritis'}}, 'Echocardiogram': {'normal': {'Aortic Stenosis', 'Valvular Heart Disease'}, 'reduced_ejection_fraction': set(), 'valve_abnormalities': set(), 'hypertrophy': set()}, 'HIV Antibody Test': {'positive': set(), 'negative': {'HIV/AIDS'}}, 'Upper Endoscopy': {'normal': {'Peptic Ulcer Disease'}, 'esophagitis': set(), 'gastric_ulcer': set(), 'duodenal_ulcer': set()}, 'Blood Culture': {'no_growth': {'Viral Infection', 'Sepsis', 'Bacterial Infection'}, 'bacterial_growth': set()}, 'Blood Glucose Test': {(0, 99): {'Metabolic Syndrome'}, (100, 125): set(), (126, 500): set()}, 'HbA1c Test': {(0.0, 5.6): {'Metabolic Syndrome'}, (5.7, 6.4): set(), (6.5, 15.0): set()}, 'C-Reactive Protein (CRP)': {(0, 5): {'Viral Infection', 'Rheumatoid Arthritis', 'Bacterial Infection', 'Anemia of Chronic Disease'}, (6, 200): set()}, 'Complete Blood Count (CBC)': {'normal': {'Folate Deficiency Anemia', 'Leukemia', 'Sepsis', 'Viral Infection', 'Bacterial Infection', 'Anemia of Chronic Disease'}, 'anemia': set(), 'leukocytosis': set(), 'leukopenia': set(), 'thrombocytopenia': set()}, 'Erythrocyte Sedimentation Rate (ESR)': {(0, 20): {'Viral Infection', 'Rheumatoid Arthritis', 'Bacterial Infection', 'Anemia of Chronic Disease'}, (21, 100): set()}, 'Lipid Profile': {'normal': {'Metabolic Syndrome'}, 'elevated_cholesterol': set(), 'elevated_triglycerides': set(), 'low_hdl': set()}, 'Folate Level': {(0, 3): set(), (3, 5): set(), (5, 50): {'Folate Deficiency Anemia'}}, 'Electrocardiogram (ECG)': {'normal': set(), 'arrhythmia': set(), 'ischemic_changes': set(), 'left_ventricular_hypertrophy': set(), 'myocardial_infarction_pattern': set()}, 'Depression Screening Questionnaire': {'positive': set(), 'negative': set()}, 'Anti-Nuclear Antibody (ANA) Test': {'positive': set(), 'negative': set()}}
+## **Input description**
+The sets defined under the state of “TA mapping” represent the diseases that must be **excluded or ruled out** when the corresponding state is observed.
+For example,
+    If the state of "Test1" is:
+    
+    "Test1":
+    {
+        "states": {
+            "Outcome_1": ["Disease1", "Disease2"],
+            "Outcome_2": ["Disease3", "Disease4"]
+        }
+    }
+        
+    This means:
+    - When "Test1" is performed and "Outcome_1" is observed, "Disease1" and "Disease2" are ruled out (i.e., they are eliminated as possibilities).
+	- This exclusion approach is applied instead of confirming or indicating which artifacts are valid or related.
+Existing Knowledge Book is the knowledge book to be evaluated.
+## **Evaluation criteria**
+
+Here are some common error cases, please evaluate if there are error cases appeared in the existing knowledge book.
+
+### **Logical error: mistaking exclusion or rule out relationships for confirmation relationships**
+
+The logical relationship in TA_mapping means exclusion rather than confirmation. Some knowledge books mistake exclusion for confirmation.
+
+Examples:
+
+Ex 1:
+
+**TA_mapping**
+
+```
+'Gravitational Lensing': {'type': 'str', 'states': {'Lensing Detected': {'Main Sequence Star', 'Protoplanetary Disk', }, 'No Lensing Detected': {'Black Hole'}}}
+```
+
+**corresponding part in knowledge book**
+
+```
+This phenomenon occurs when a massive object bends the light from objects behind it, acting like a lens.
+
+* **Lensing Detected** : This outcome **eliminates Black Holes** since they do not generally produce detectable gravitational lensing.
+* **No Lensing Detected** : The absence of detected lensing **excludes both Protoplanetary Disks and Main Sequence Stars** as candidates.
+```
+
+**explanation**
+
+Based on the TA_mapping, if "Lensing detected", "Main Sequence Star" and "Protoplanetary Disk" should be ruled out. If "No Lensing Detected", "Black Hole" should be ruled out. But the existing knowledge book mistakes the rejecting for confirming.
+
+Ex 2:
+
+**TA_mapping**
+
+```
+'Minimalist Technique Analysis': {'type': 'str', 'states': {'Minimalist Techniques': {"Riley's motif"}}}
+```
+
+**corresponding part in knowledge book**
+
+```
+**Minimalist Technique Analysis** : This technique evaluates the presence of minimalist elements. If minimalist techniques are identified, any motifs other than Riley's motif can be ruled out.
+```
+
+**explanation**
+
+Based on the TA_mapping, if "Minimalist Techniques" is observed, "Riley's motif" should be ruled out. But the existing knowledge book states that "any motifs other than Riley's motif can be ruled out", which means "Riley's motif" should be confirmed.
+
+### Missing outcomes and observations in TA_mapping
+
+Every action and its all valid outcomes in TA_mapping should be illustrated clearly in knowledge book. However, some knowledge book miss some elements in TA_mapping, resulting in the inaccuracy of the knowledge book. If the outcome cannot exclude any truths(empty set), it is acceptable to omit it.
+
+### Generate exclusion relationships based on its own knowledge instead of strictly following the relationships in TA_mapping
+
+Some knowledge books do not strictly follow the exclusion rules in TA_mapping and generate new exclusion rules based on their own understanding.
+
+Examples:
+
+Ex 1:
+
+**TA_mapping**
+
+```
+'Smell (olfactory) test': {'type': 'str', 'states': {'Normal smell perception': {'Olfactory nerve pathway'}, 'Impaired smell perception': set()}}
+```
+
+**corresponding part in knowledge book**
+
+```
+Smell (olfactory) Test
+
+This test evaluates the function of the olfactory nerve pathway through the ability to perceive odors.
+
+* **Normal smell perception** indicates normal function of the olfactory nerve pathway.
+* **Impaired smell perception** does not exclude any specific pathways based on this outcome alone.
+```
+
+**explanation**
+
+Based on the TA_mapping, if "Normal smell perception" is observed, "Olfactory nerve pathway" should be ruled out. But the knowledge book states that "Normal smell perception indicates normal function of the olfactory nerve pathway", which doesn't exclude "Olfactory nerve pathway".
+
+### Ambiguous description
+
+The knowledge book should clearly illustrate the exclusion relationships rather than use ambiguous descriptions.
+
+Examples:
+
+Ex 1:
+
+**existing knowledge book:**
+
+```
+This test evaluates the robustness of cryptographic algorithms against attacks, ensuring data safety and integrity.
+
+* **Exclusion Outcomes** :
+* Algorithms identified as weak, although ECC is strong, would be rejected in situations requiring robust cryptographic security.
+```
+
+**explanation**
+
+The knowledge book states "Algorithms identified as weak, although ECC is strong", which implies ECC can be ruled out if algorithms identified as weak. But the language is very obscure.
+
+Ex 2:
+
+**existing knowledge book:**
+
+```
+1. This test determines whether an algorithm can be decomposed into parallel processes to enhance performance. Algorithms that can be parallelized can be executed more rapidly on multi-core systems.
+
+* **Exclusion Outcomes**:
+  - If an algorithm is not parallelizable, like the Branch and Bound Algorithm, it cannot be considered for environments requiring high parallelization.
+```
+
+**explanation**
+
+The knowledge book lists the excluded truths "Branch algorithm" and "Bound algorithm" as examples, which is unclear.
+
+To sum up, the overall evaluation criteria are:
+
+* **logical exclusion rather than confirmation**
+* **completely illustrate all information in TA_mapping**
+* **strictly follow TA_mapping without introducing any self-generate content**
+* **clear and definite description about excluded truths**
+
+Please evaluate the existing knowledge book based on the above criteria: # Medical Analysis Guidebook
+
+Welcome to the Medical Analysis Guidebook. This guide is designed to help you understand a selection of diseases and the diagnostic tests commonly used to assess and rule out these conditions.
+
+## Diseases Overview
+
+1. **HIV/AIDS**: A viral infection caused by the human immunodeficiency virus (HIV). It attacks the immune system, particularly CD4 cells, making the body more vulnerable to infections and certain cancers.
+    
+2. **Peptic Ulcer Disease**: This condition involves sores that develop on the inner lining of the stomach or the small intestine. 
+    
+3. **Viral Infection**: A broad category of infections caused by viruses, affecting various body systems and often leading to symptoms such as fever, aches, and fatigue.
+    
+4. **Leukemia**: A type of cancer that affects blood and bone marrow, characterized by an overproduction of abnormal white blood cells.
+    
+5. **Valvular Heart Disease**: Involves damage to or a defect in one of the four heart valves: the mitral, aortic, tricuspid, or pulmonary valve.
+    
+6. **Folate Deficiency Anemia**: A condition resulting from a lack of folate, leading to the production of abnormally large red blood cells that cannot function properly.
+    
+7. **Metabolic Syndrome**: A cluster of conditions that occur together, increasing the risk of heart disease, stroke, and type 2 diabetes.
+    
+8. **Rheumatoid Arthritis**: An autoimmune disease that causes chronic inflammation of the joints and other areas of the body.
+    
+9. **Anemia of Chronic Disease**: An anemia found in chronic inflammatory conditions, where the body has adequate iron stores but can't efficiently use them to make hemoglobin.
+    
+10. **Bacterial Infection**: Infections caused by bacteria, leading to a variety of health issues depending on the affected body system.
+    
+11. **Aortic Stenosis**: A form of valvular heart disease where the opening of the aortic valve is narrowed, affecting blood flow from the heart.
+    
+12. **Sepsis**: A potentially life-threatening condition caused by the body's response to an infection, leading to systemic inflammation.
+    
+## Diagnostic Tests
+
+### 1. Peripheral Blood Smear
+This test involves spreading a drop of blood on a slide and examining it under a microscope. Different formations in the blood smear can help rule out certain diseases:
+- **Normal appearance**: Rules out Anemia of Chronic Disease, Folate Deficiency Anemia, and Leukemia.
+- **Microcytic hypochromic cells**: Rules out Folate Deficiency Anemia and Leukemia.
+- **Macrocytic cells**: Rules out Anemia of Chronic Disease and Leukemia.
+- **Sickle cells**: Rules out Folate Deficiency Anemia, Anemia of Chronic Disease, and Leukemia.
+- **Blast cells**: Rules out Folate Deficiency Anemia and Anemia of Chronic Disease.
+    
+### 2. Rheumatoid Factor Test
+Determines the presence of the rheumatoid factor in the blood:
+- **Positive result** has no rule-out effect.
+- **Negative result** rules out Rheumatoid Arthritis.
+    
+### 3. Echocardiogram
+Uses ultrasound waves to create images of the heart:
+- **Normal result** rules out Valvular Heart Disease and Aortic Stenosis.
+    
+### 4. HIV Antibody Test
+Detects antibodies to HIV:
+- **Negative result** rules out HIV/AIDS.
+    
+### 5. Upper Endoscopy
+Involves the insertion of a flexible tube with a camera into the digestive tract to view the stomach and small intestine:
+- **Normal result** rules out Peptic Ulcer Disease.
+    
+### 6. Blood Culture
+Tests for the presence of bacteria in the blood:
+- **No growth** rules out Bacterial Infection, Viral Infection, and Sepsis.
+    
+### 7. Blood Glucose Test
+Measures glucose levels in the blood:
+- **0-99 mg/dL result** rules out Metabolic Syndrome.
+    
+### 8. HbA1c Test
+Indicates average blood sugar concentration over weeks/months:
+- **0-5.6% result** rules out Metabolic Syndrome.
+    
+### 9. C-Reactive Protein (CRP)
+Measures the level of CRP in the blood, which rises in response to inflammation:
+- **0-5 mg/L result** rules out Bacterial Infection, Anemia of Chronic Disease, Rheumatoid Arthritis, and Viral Infection.
+    
+### 10. Complete Blood Count (CBC)
+Provides information about the cells in a patient's blood:
+- **Normal result** rules out Bacterial Infection, Anemia of Chronic Disease, Leukemia, Viral Infection, Folate Deficiency Anemia, and Sepsis.
+    
+### 11. Erythrocyte Sedimentation Rate (ESR)
+Measures the rate at which red blood cells sediment in a period of one hour:
+- **0-20 mm/hr result** rules out Bacterial Infection, Anemia of Chronic Disease, Rheumatoid Arthritis, and Viral Infection.
+    
+### 12. Lipid Profile
+Measures levels of specific fats in the blood, such as cholesterol:
+- **Normal result** rules out Metabolic Syndrome.
+    
+### 13. Folate Level
+Measures the amount of folate in blood:
+- **5-50 ng/mL result** rules out Folate Deficiency Anemia.
+    
+### 14. Electrocardiogram (ECG)
+Records the electrical signals in the heart:
+- **Normal result** has no rule-out effect.
+    
+### 15. Depression Screening Questionnaire and 16. Anti-Nuclear Antibody (ANA) Test
+These tests generally don't play a significant role in ruling out the diseases discussed here.
+    
+## Conclusion
+
+Understanding the role of diagnostic tests and their outcomes is crucial in ruling out various diseases. By analyzing these outcomes, healthcare professionals can systematically exclude certain conditions, leading to more accurate diagnoses and better patient management.

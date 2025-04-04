@@ -1,0 +1,123 @@
+
+# Medical Analysis Guidebook
+
+This guidebook provides an overview of certain medical conditions along with the diagnostic tests used to investigate them. For each diagnostic test, you'll learn how specific outcomes can help rule out certain diseases.
+
+## Diseases and Diagnostic Tests
+
+### Systemic Lupus Erythematosus (SLE)
+A chronic autoimmune disease where the body's immune system attacks its own tissues, causing inflammation and damage.
+
+#### Diagnostic Tests:
+1. **Anti-Nuclear Antibody (ANA) Test**
+   - **Negative Outcome**: Systemic Lupus Erythematosus (SLE) is ruled out.
+   
+2. **Erythrocyte Sedimentation Rate (ESR)**
+   - **ESR between 0 and 20**: Systemic Lupus Erythematosus (SLE) is ruled out.
+
+### Osteoporosis
+A condition characterized by weakened bones, increasing the risk of fractures.
+
+#### Diagnostic Test: Bone Mineral Density Test
+- **Bone Density (T-score between -2.5 and -1.0 or higher)**: Osteoporosis is ruled out.
+
+### Diabetes Mellitus Type 1
+An autoimmune condition where the body's immune system attacks insulin-producing cells in the pancreas.
+
+#### Diagnostic Tests:   
+1. **HbA1c Test**: 
+   - **HbA1c level under 5.7%**: Diabetes Mellitus Type 1 is ruled out.
+
+2. **Blood Glucose Test**:
+   - **Blood Glucose level under 100 mg/dL**: Diabetes Mellitus Type 1 is ruled out.
+
+### Bipolar Disorder
+A mental health condition marked by extreme mood swings including emotional highs (mania or hypomania) and lows (depression).
+
+#### Diagnostic Tests:
+1. **Depression Screening Questionnaire**:
+   - **Negative Result**: Bipolar Disorder is ruled out.
+
+2. **Anxiety Screening Questionnaire**:
+   - **Negative Result**: Bipolar Disorder is ruled out.
+
+### Folate Deficiency Anemia
+A type of anemia caused by a lack of folate, a B-vitamin necessary for the production of red blood cells.
+
+#### Diagnostic Tests:
+1. **Peripheral Blood Smear**:
+   - **Normal, Microcytic Hypochromic, Sickle Cells, or Blast Cells Present**: Folate Deficiency Anemia is ruled out.
+
+2. **Complete Blood Count (CBC)**:
+   - **Normal Result**: Folate Deficiency Anemia is ruled out.
+
+3. **Folate Level**:
+   - **Folate Level above 5 ng/mL**: Folate Deficiency Anemia is ruled out.
+
+### Metabolic Syndrome
+A cluster of conditions that occur together, increasing the risk of heart disease, stroke, and type 2 diabetes.
+
+#### Diagnostic Tests:
+1. **Lipid Profile**:
+   - **Normal Result**: Metabolic Syndrome is ruled out.
+
+2. **HbA1c Test**:
+   - **HbA1c level under 5.7%**: Metabolic Syndrome is ruled out.
+
+3. **Blood Glucose Test**:
+   - **Blood Glucose level under 100 mg/dL**: Metabolic Syndrome is ruled out.
+
+### Stable Angina
+Chest pain or discomfort due to coronary artery disease, typically predictable and triggered by physical exertion or stress.
+
+#### Diagnostic Test: Electrocardiogram (ECG)
+- **Normal Result**: Stable Angina is ruled out.
+
+### Viral Infection
+Diseases caused by viruses, ranging from mild to severe illnesses.
+
+#### Diagnostic Tests:
+1. **Blood Culture**:
+   - **No Growth**: Viral Infection is ruled out.
+
+2. **Complete Blood Count (CBC)**:
+   - **Normal Result**: Viral Infection is ruled out.
+
+3. **Erythrocyte Sedimentation Rate (ESR)**:
+   - **ESR between 0 and 20**: Viral Infection is ruled out.
+
+### Unstable Angina
+A condition characterized by unexpected chest pain, often occurring at rest, signaling a higher risk of heart attack.
+
+#### Diagnostic Tests:  
+1. **Electrocardiogram (ECG)**:
+   - **Normal Result**: Unstable Angina is ruled out.
+
+2. **Troponin Levels**:
+   - **Normal Levels**: Unstable Angina is ruled out.
+
+### Sepsis
+A life-threatening response to infection that can lead to tissue damage, organ failure, or death.
+
+#### Diagnostic Tests:
+1. **Complete Blood Count (CBC)**:
+   - **Normal Result**: Sepsis is ruled out.
+
+2. **Blood Culture**:
+   - **No Growth**: Sepsis is ruled out.
+
+### HIV/AIDS
+A condition caused by the human immunodeficiency virus (HIV) leading to a compromised immune system.
+
+#### Diagnostic Test: HIV Antibody Test
+- **Negative Outcome**: HIV/AIDS is ruled out.
+
+### COVID-19
+A respiratory illness caused by the novel coronavirus SARS-CoV-2.
+
+#### Diagnostic Test: COVID-19 PCR Test
+- **Negative Outcome**: COVID-19 is ruled out.
+
+---
+
+This guide is designed to assist healthcare providers in ruling out specific diseases based on the outcomes of various diagnostic tests. Always consult with a healthcare professional for expert diagnosis and treatment.

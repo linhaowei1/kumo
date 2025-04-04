@@ -1,0 +1,62 @@
+# Medical Analysis Guidebook
+
+This guidebook provides a concise overview of specific diseases and the diagnostic tests that can help rule out these health conditions. Understanding the relationship between test outcomes and medical conditions is crucial for accurate diagnosis. This guide explains the diseases, diagnostic tests, and their outcomes, helping clinicians to rule out potential conditions effectively.
+
+## Diseases
+
+### Diabetes Mellitus Type 2
+Diabetes Mellitus Type 2 is a chronic condition that affects the way the body processes blood glucose (sugar). Characterized by insulin resistance, it can lead to high blood sugar levels, which can result in severe health issues such as heart disease, kidney damage, and vision problems if not managed properly. 
+
+### Bipolar Disorder
+Bipolar Disorder is a mental health condition marked by extreme mood swings that include emotional highs (mania or hypomania) and lows (depression). It can significantly impact a person’s daily life, affecting energy, activity levels, judgment, and behavior.
+
+### Stable Angina
+Stable Angina is a type of chest pain that occurs when the heart muscle doesn’t get enough oxygen-rich blood. It typically happens with activity or stress and eases with rest. Stable angina is a symptom of underlying coronary artery disease and requires medical attention to manage the associated risks.
+
+### Osteopenia
+Osteopenia refers to lower than normal bone mineral density, signaling a risk for developing osteoporosis. It indicates weakening bones that could lead to fractures, making monitoring and prevention strategies essential.
+
+## Diagnostic Tests and Outcomes
+
+### 1. HbA1c Test
+The HbA1c test measures average blood glucose levels over the past 2-3 months. It is a common test for managing and diagnosing diabetes.
+
+- **Outcome Range 0.0 - 5.6%:** Rule out Diabetes Mellitus Type 2.
+- **Outcome Range 5.7 - 6.4%:** Rule out Diabetes Mellitus Type 2.
+- **Outcome Range 6.5 - 15.0%:** No specific diseases are ruled out with these outcomes.
+
+### 2. Electrocardiogram (ECG)
+An ECG records the electrical activity of the heart and is used to detect heart anomalies, which may relate to angina or other heart conditions.
+
+- **Normal Result:** Rule out Stable Angina.
+- **Arrhythmia, Ischemic Changes, Left Ventricular Hypertrophy, Myocardial Infarction Pattern:** No specific diseases are ruled out with these outcomes.
+
+### 3. Bone Mineral Density Test
+This test evaluates bone density and helps in assessing bone health.
+
+- **Outcome Range -4.0 to -2.5:** Rule out Osteopenia.
+- **Outcome Range -2.5 to -1.0:** No specific diseases are ruled out with these outcomes.
+- **Outcome Range -1.0 to 4.0:** Rule out Osteopenia.
+
+### 4. Anxiety Screening Questionnaire
+This questionnaire assesses symptoms of anxiety and can help in identifying related mental health conditions.
+
+- **Positive Result:** No specific diseases are ruled out with this outcome.
+- **Negative Result:** Rule out Bipolar Disorder.
+
+### 5. Depression Screening Questionnaire
+This questionnaire helps identify the presence of depressive symptoms, aiding diagnosis and treatment planning.
+
+- **Positive Result:** No specific diseases are ruled out with this outcome.
+- **Negative Result:** Rule out Bipolar Disorder.
+
+### 6. Blood Glucose Test
+This test measures the amount of glucose in the blood and is crucial for diagnosing and monitoring diabetes.
+
+- **Outcome Range 0 to 99 mg/dL:** Rule out Diabetes Mellitus Type 2.
+- **Outcome Range 100 to 125 mg/dL:** Rule out Diabetes Mellitus Type 2.
+- **Outcome Range 126 to 500 mg/dL:** No specific diseases are ruled out with these outcomes.
+
+---
+
+This guidebook highlights the importance of diagnostic tests in ruling out specific health conditions. By comprehending the implications of test results, healthcare providers can enhance their diagnostic accuracy and improve patient outcomes. Always consult a healthcare professional for interpretations relevant to individual health needs.

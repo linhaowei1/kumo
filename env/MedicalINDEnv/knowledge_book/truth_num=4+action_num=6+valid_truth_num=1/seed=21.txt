@@ -1,0 +1,71 @@
+# Medical Analysis Guidebook
+
+This guidebook provides an overview of four diseases—Myocardial Infarction, Diabetes Mellitus Type 2, Osteopenia, and Fungal Infection—and explains the diagnostic tests used to evaluate them. The diagnostic outcomes are interpreted to specify which diseases can be ruled out based on different test results.
+
+## Diseases Overview
+
+### Myocardial Infarction
+
+Myocardial infarction, commonly known as a heart attack, occurs when blood flow to a part of the heart is blocked for a long enough time that part of the heart muscle is damaged or dies. Common symptoms include chest pain, shortness of breath, and nausea.
+
+### Diabetes Mellitus Type 2
+
+Diabetes Mellitus Type 2 is a chronic condition that affects the way the body processes blood sugar (glucose). Common symptoms include increased thirst, frequent urination, hunger, fatigue, and blurred vision.
+
+### Osteopenia
+
+Osteopenia refers to bone density that is lower than normal peak density but not low enough to be classified as osteoporosis. It indicates an increased risk of fractures and is characterized by a reduction in bone mass.
+
+### Fungal Infection
+
+Fungal infections are caused by fungi that invade the body and can affect various parts, including the skin, nails, lungs, and tissues. Common signs include skin irritation, redness, and respiratory issues.
+
+## Diagnostic Tests and Interpretations
+
+### C-Reactive Protein (CRP)
+
+CRP is a blood test marker for inflammation in the body. A CRP level can help diagnose infections and chronic inflammatory diseases.
+
+- **CRP Range 0-5 mg/L**: Rule out Fungal Infection.
+- **CRP Range 6-200 mg/L**: No specific diseases are ruled out.
+
+### Electrocardiogram (ECG)
+
+ECG is a test that measures the electrical activity of the heart to show abnormal rhythms and detect heart problems.
+
+- **Normal ECG**: Rule out Myocardial Infarction.
+- **Arrhythmia, Ischemic Changes, Left Ventricular Hypertrophy, Myocardial Infarction Pattern**: No specific diseases are ruled out.
+
+### Bone Mineral Density Test
+
+This test measures the density of minerals (such as calcium) in your bones using a special X-ray and determines the risk of fractures.
+
+- **T-Score Range (-4.0, -2.5)**: Rule out Osteopenia.
+- **T-Score Range (-2.5, -1.0)**: No specific diseases are ruled out.
+- **T-Score Range (-1.0, 4.0)**: Rule out Osteopenia.
+
+### Troponin Levels
+
+Troponin tests measure the levels of troponin proteins in the blood, which are released when the heart muscle has been damaged.
+
+- **Normal Troponin Levels**: Rule out Myocardial Infarction.
+- **Elevated Troponin Levels**: No specific diseases are ruled out.
+
+### Erythrocyte Sedimentation Rate (ESR)
+
+ESR is a blood test that can reveal inflammatory activity in your body by measuring the rate at which red blood cells sediment in a period of one hour.
+
+- **ESR Range 0-20 mm/hr**: Rule out Fungal Infection.
+- **ESR Range 21-100 mm/hr**: No specific diseases are ruled out.
+
+### HbA1c Test
+
+The HbA1c test measures the average blood glucose levels over the past 3 months and is used to diagnose and monitor diabetes.
+
+- **HbA1c Range 0.0-5.6%**: Rule out Diabetes Mellitus Type 2.
+- **HbA1c Range 5.7-6.4%**: Rule out Diabetes Mellitus Type 2.
+- **HbA1c Range 6.5-15.0%**: No specific diseases are ruled out.
+
+---
+
+By understanding these tests and interpretations, healthcare providers can effectively rule out certain diseases and narrow down potential diagnoses for more targeted treatment plans.

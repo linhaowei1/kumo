@@ -1,0 +1,65 @@
+# Medical Analysis Guidebook
+
+This guidebook introduces several common diseases and the diagnostic tests used to evaluate them. Each test includes guidelines for interpreting outcomes, specifically focusing on diseases that can be ruled out based on test results. The goal is to provide a clear understanding of how each diagnosis interacts with particular diseases. 
+
+## Diseases Overview
+
+### 1. Diabetes Mellitus Type 2
+Diabetes Mellitus Type 2 is characterized by insulin resistance and high blood sugar levels. It's a chronic condition impacting the way the body metabolizes sugar (glucose), an important source of fuel for the body.
+
+### 2. Osteopenia
+Osteopenia is a condition where bone mineral density is lower than normal peak BMD but not low enough to be classified as osteoporosis. It suggests a greater risk of bone fractures and later development of osteoporosis.
+
+### 3. HIV/AIDS
+Human Immunodeficiency Virus (HIV) leads to Acquired Immunodeficiency Syndrome (AIDS), a condition characterized by progressive failure of the immune system, allowing life-threatening infections and cancers to thrive.
+
+### 4. Anemia of Chronic Disease
+Anemia of Chronic Disease (ACD) is found in chronic infection, inflammatory diseases, or malignancies. It is a common form of anemia, with inflammation playing a major role in its development.
+
+## Diagnostic Tests and Interpretation
+
+### 1. HbA1c Test
+**Purpose:** Primarily used to diagnose and monitor diabetes by measuring glycated hemoglobin levels, which reflect average blood glucose levels over the past three months.
+
+**Interpretation and Rule-Outs:**
+- Levels between 0.0 - 5.6: Exclude Diabetes Mellitus Type 2
+- Levels between 5.7 - 6.4: Exclude Diabetes Mellitus Type 2
+- Levels 6.5 and above: Cannot exclude diabetes as this range typically indicates diabetes
+
+### 2. HIV Antibody Test
+**Purpose:** Detects antibodies to HIV in the blood, used to diagnose HIV infection.
+
+**Interpretation and Rule-Outs:**
+- Positive result: Cannot exclude HIV/AIDS (further confirmatory tests are needed)
+- Negative result: Exclude HIV/AIDS
+
+### 3. Bone Mineral Density Test
+**Purpose:** Measures the density of minerals (such as calcium) in bones using X-rays to diagnose bone-related conditions.
+
+**Interpretation and Rule-Outs:**
+- BMD between -4.0 and -2.5: Exclude Osteopenia
+- BMD between -2.5 and -1.0: Cannot exclude osteopenia
+- BMD between -1.0 and 4.0: Exclude Osteopenia
+
+### 4. C-Reactive Protein (CRP)
+**Purpose:** Measures the level of CRP in the blood, a marker of inflammation in the body.
+
+**Interpretation and Rule-Outs:**
+- CRP levels between 0 and 5: Exclude Anemia of Chronic Disease
+- CRP levels 6 and above: Cannot exclude anemia of chronic disease as inflammation is present
+
+### 5. Erythrocyte Sedimentation Rate (ESR)
+**Purpose:** Measures how quickly erythrocytes (red blood cells) settle at the bottom of a test tube in an hour, indicating inflammation.
+
+**Interpretation and Rule-Outs:**
+- ESR levels between 0 and 20: Exclude Anemia of Chronic Disease
+- ESR levels above 20: Cannot exclude anemia of chronic disease as it may signify inflammation or other issues
+
+### 6. Complete Blood Count (CBC)
+**Purpose:** Evaluates overall health and detects a wide range of disorders, including anemia, infection, and many other diseases.
+
+**Interpretation and Rule-Outs:**
+- Normal CBC: Exclude Anemia of Chronic Disease
+- Showing anemia, leukocytosis, leukopenia, or thrombocytopenia: Cannot exclude anemia of chronic disease as further investigation is necessary to determine the underlying cause
+
+By understanding these tests and the associated rule-outs, healthcare providers can better evaluate and manage the diseases discussed in this guidebook.

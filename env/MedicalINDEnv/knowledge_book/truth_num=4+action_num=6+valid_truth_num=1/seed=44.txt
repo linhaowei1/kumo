@@ -1,0 +1,64 @@
+# Medical Analysis Guidebook
+
+This guidebook aims to provide an understanding of four significant diseases and their associated diagnostic tests. By interpreting test outcomes, we aim to exclude certain diseases from consideration when specific results are obtained.
+
+## Diseases Overview
+
+### 1. Diabetes Mellitus Type 2
+Diabetes Mellitus Type 2 is a chronic condition that impairs the body's ability to process blood glucose efficiently, leading to elevated blood sugar levels. This disease commonly develops in adults and is often associated with obesity, physical inactivity, and genetics.
+
+### 2. Bacterial Infection
+Bacterial infections occur when harmful bacteria invade and multiply in the body, potentially causing various illnesses. These infections can affect different parts of the body and result in various symptoms depending on the site and severity of the infection.
+
+### 3. Peptic Ulcer Disease
+Peptic Ulcer Disease involves open sores that develop on the inner lining of the stomach and the upper portion of the small intestine. The most common symptom is stomach pain. This condition is often caused by infection with Helicobacter pylori or prolonged use of nonsteroidal anti-inflammatory drugs (NSAIDs).
+
+### 4. Vitamin B12 Deficiency Anemia
+Vitamin B12 Deficiency Anemia is a condition where the body does not have enough healthy red blood cells due to a lack of vitamin B12. This deficiency can cause symptoms such as fatigue, weakness, constipation, loss of appetite, and weight loss.
+
+## Diagnostic Tests
+
+### 1. Vitamin B12 Level Test
+The Vitamin B12 level test measures the amount of vitamin B12 in the blood. Here are the interpretations based on the test outcomes:
+- **0 to 200 pg/mL**: No specific diseases are ruled out based on this result.
+- **200 to 300 pg/mL**: No specific diseases are ruled out based on this result.
+- **300 to 2000 pg/mL**: Vitamin B12 Deficiency Anemia is ruled out.
+
+### 2. Blood Glucose Test
+The Blood Glucose Test measures the level of glucose in the blood and helps assess metabolic health:
+- **0 to 99 mg/dL**: Diabetes Mellitus Type 2 is ruled out.
+- **100 to 125 mg/dL**: Diabetes Mellitus Type 2 is ruled out.
+- **126 to 500 mg/dL**: No specific diseases are ruled out based on this result.
+
+### 3. Upper Endoscopy
+This test involves using a flexible tube with a camera to view the digestive tract. It helps diagnose conditions related to the gastrointestinal tract:
+- **Normal**: Peptic Ulcer Disease is ruled out.
+- **Esophagitis**: No specific diseases are ruled out based on this result.
+- **Gastric Ulcer**: No specific diseases are ruled out based on this result.
+- **Duodenal Ulcer**: No specific diseases are ruled out based on this result.
+
+### 4. Complete Blood Count (CBC)
+A CBC test evaluates the general health and detects a wide range of disorders, including anemia and infection:
+- **Normal**: Both Vitamin B12 Deficiency Anemia and Bacterial Infection are ruled out.
+- **Anemia**: No specific diseases are ruled out based on this result.
+- **Leukocytosis**: No specific diseases are ruled out based on this result.
+- **Leukopenia**: No specific diseases are ruled out based on this result.
+- **Thrombocytopenia**: No specific diseases are ruled out based on this result.
+
+### 5. Peripheral Blood Smear
+This test involves examining a blood sample under a microscope to identify various blood disorders:
+- **Normal**: Vitamin B12 Deficiency Anemia is ruled out.
+- **Microcytic Hypochromic**: Vitamin B12 Deficiency Anemia is ruled out.
+- **Macrocytic**: No specific diseases are ruled out based on this result.
+- **Sickle Cells**: Vitamin B12 Deficiency Anemia is ruled out.
+- **Blast Cells**: Vitamin B12 Deficiency Anemia is ruled out.
+
+### 6. HbA1c Test
+The HbA1c test measures the average blood glucose levels over the past two to three months:
+- **0.0 to 5.6%**: Diabetes Mellitus Type 2 is ruled out.
+- **5.7 to 6.4%**: Diabetes Mellitus Type 2 is ruled out.
+- **6.5 to 15.0%**: No specific diseases are ruled out based on this result.
+
+## Conclusion
+
+This guidebook aims to provide a clear understanding of how specific test outcomes can help in ruling out certain diseases. Healthcare professionals utilize this information alongside comprehensive clinical evaluation to ensure accurate diagnoses and treatment plans. Always consult a healthcare practitioner for detailed analysis and interpretation of test results.

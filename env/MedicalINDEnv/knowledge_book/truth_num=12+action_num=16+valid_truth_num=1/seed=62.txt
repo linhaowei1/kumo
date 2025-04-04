@@ -1,0 +1,73 @@
+# Medical Analysis Guidebook
+
+## Introduction
+
+This guidebook is designed to provide a clear understanding of a selection of diseases and diagnostic tests, detailing how certain outcomes from these tests can rule out the presence of specific diseases. The aim is to facilitate an understanding of the diagnostic process and enhance decision-making in medical contexts.
+
+### Diseases
+
+1. **Peptic Ulcer Disease:** A condition involving open sores in the lining of the stomach or the first part of the small intestine, often causing abdominal pain and discomfort.
+
+2. **Rheumatoid Arthritis:** A chronic inflammatory disorder affecting joints, leading to painful swelling and potential joint deformity.
+
+3. **Diabetes Mellitus Type 2:** A metabolic disorder characterized by high blood sugar levels due to insulin resistance or deficiency.
+
+4. **Bacterial Infection:** Infections caused by bacteria, which can lead to a variety of health issues depending on the affected area of the body.
+
+5. **HIV/AIDS:** A viral infection that attacks the body's immune system, severely compromising the ability to fight infections and disease.
+
+6. **Pre-Diabetes:** A condition where blood sugar levels are higher than normal but not high enough to be classified as Type 2 Diabetes.
+
+7. **Systemic Lupus Erythematosus (SLE):** An autoimmune disease where the immune system attacks its own tissues, causing widespread inflammation and damage.
+
+8. **Depression:** A mood disorder characterized by persistent feelings of sadness, loss, or anger that interfere with daily activities.
+
+9. **Unstable Angina:** A condition where there is unexpected chest pain, often revealing a higher risk for a heart attack.
+
+10. **Aortic Stenosis:** Narrowing of the heart's aortic valve, which can affect blood flow and cause heart-related issues.
+
+11. **Stable Angina:** Predictable chest pain or discomfort that usually occurs with activity or stress due to reduced blood flow to the heart.
+
+12. **Coronary Artery Disease:** A condition characterized by the narrowing or blockage of coronary arteries, usually caused by atherosclerosis.
+
+### Diagnostic Tests
+
+1. **HbA1c Test:** Measures the average blood sugar levels over the past three months. Outcomes from this test can rule out:
+   - **Pre-Diabetes** and **Diabetes Mellitus Type 2** if levels are between 0.0% and 5.6%.
+   - **Diabetes Mellitus Type 2** if levels are between 5.7% and 6.4%.
+   - **Pre-Diabetes** if levels are 6.5% or above.
+
+2. **Lipid Profile:** Analyzes cholesterol and triglycerides levels in the blood. A normal result can rule out **Coronary Artery Disease**.
+
+3. **Erythrocyte Sedimentation Rate (ESR):** Measures inflammation in the body. Normal ESR levels (0-20 mm/hr) can rule out **Bacterial Infection**, **Systemic Lupus Erythematosus (SLE)**, and **Rheumatoid Arthritis**.
+
+4. **Electrocardiogram (ECG):** Records the electrical activity of the heart. A normal ECG can rule out **Stable Angina** and **Unstable Angina**.
+
+5. **Echocardiogram:** Uses sound waves to create images of the heart. A normal echocardiogram can rule out **Aortic Stenosis**.
+
+6. **HIV Antibody Test:** Detects antibodies to HIV in the blood. A negative result rules out **HIV/AIDS**.
+
+7. **Depression Screening Questionnaire:** Assesses symptoms of depression. A negative result rules out **Depression**.
+
+8. **Troponin Levels:** Measure proteins in the blood linked to heart muscle damage. Normal levels can rule out **Unstable Angina**.
+
+9. **C-Reactive Protein (CRP):** Measures general levels of inflammation. Normal CRP levels (0-5 mg/L) can rule out **Bacterial Infection**, **Systemic Lupus Erythematosus (SLE)**, and **Rheumatoid Arthritis**.
+
+10. **Anti-Nuclear Antibody (ANA) Test:** Detects antibodies that may attack the body’s own tissues. A negative ANA test can rule out **Systemic Lupus Erythematosus (SLE)**.
+
+11. **Anxiety Screening Questionnaire:** Evaluates symptoms of anxiety. A negative result rules out **Depression**.
+
+12. **Complete Blood Count (CBC):** Evaluates overall health and detects a range of disorders. A normal CBC can rule out **Bacterial Infection**.
+
+13. **Blood Culture:** Identifies bacteria in the blood. No bacterial growth can rule out **Bacterial Infection**.
+
+14. **Rheumatoid Factor Test:** Detects an antibody often present in individuals with rheumatoid arthritis. A negative test can rule out **Rheumatoid Arthritis**.
+
+15. **Blood Glucose Test:** Measures glucose levels in the blood. Specific ranges can rule out:
+    - **Pre-Diabetes** and **Diabetes Mellitus Type 2** if levels are between 0 and 99 mg/dL.
+    - **Diabetes Mellitus Type 2** if levels are between 100 and 125 mg/dL.
+    - **Pre-Diabetes** if levels are 126 mg/dL or above.
+
+16. **Upper Endoscopy:** Allows examination of the upper digestive system. A normal endoscopy can rule out **Peptic Ulcer Disease**.
+
+By understanding these tests and their outcomes, healthcare professionals can significantly narrow down diagnostic possibilities and avoid unnecessary treatments or investigations. This guidebook should serve as a comprehensive tool for recognizing the significance of diagnostic test outcomes in the context of these specific diseases.

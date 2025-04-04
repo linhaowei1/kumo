@@ -1,0 +1,86 @@
+## Medical Analysis Guidebook
+
+Welcome to the Medical Analysis Guidebook. This manual provides a comprehensive understanding of various diseases and the diagnostic tests used to evaluate them. This guide also details how certain test outcomes can help rule out specific diseases, enabling healthcare professionals to narrow down potential diagnoses.
+
+### Diseases Overview
+
+1. **Leukemia**: A type of cancer that affects blood-forming tissues, leading to the production of abnormal blood cells.
+   
+2. **Arrhythmia**: A disorder of the heart rate or rhythm where the heart beats too fast, too slow, or irregularly.
+
+3. **Vitamin B12 Deficiency Anemia**: A condition caused by insufficient vitamin B12, leading to a reduced number of red blood cells.
+
+4. **COVID-19**: An infectious disease caused by the coronavirus SARS-CoV-2, primarily affecting the respiratory system.
+
+5. **HIV/AIDS**: A viral infection that targets the immune system, leading to acquired immunodeficiency syndrome (AIDS) if untreated.
+
+6. **Anemia of Chronic Disease**: A form of anemia seen in chronic conditions, marked by reduced red blood cell production.
+
+7. **Heart Failure**: A condition where the heart is unable to pump enough blood to meet the body's needs.
+
+8. **Bipolar Disorder**: A mental health condition characterized by extreme mood swings including emotional highs (mania) and lows (depression).
+
+9. **Diabetes Mellitus Type 2**: A chronic condition affecting the way the body processes blood sugar (glucose).
+
+10. **Iron Deficiency Anemia**: A common type of anemia caused by insufficient iron, affecting red blood cell production.
+
+11. **Diabetes Mellitus Type 1**: An autoimmune condition where the pancreas produces little or no insulin.
+
+12. **Coronary Artery Disease**: A condition where coronary arteries are narrowed or blocked, reducing blood flow to the heart.
+
+### Diagnostic Tests
+
+1. **Peripheral Blood Smear**: A test that examines the characteristics of blood cells. Different outcomes can help exclude diseases:
+   - **Normal**: Rules out Anemia of Chronic Disease, Leukemia, Vitamin B12 Deficiency Anemia, Iron Deficiency Anemia.
+   - **Microcytic hypochromic**: Rules out Vitamin B12 Deficiency Anemia, Leukemia.
+   - **Macrocytic**: Rules out Anemia of Chronic Disease, Leukemia, Iron Deficiency Anemia.
+   - **Sickle cells**: Rules out Anemia of Chronic Disease, Leukemia, Vitamin B12 Deficiency Anemia, Iron Deficiency Anemia.
+   - **Blast cells**: Rules out Vitamin B12 Deficiency Anemia, Anemia of Chronic Disease, Iron Deficiency Anemia.
+
+2. **Blood Glucose Test**: Measures blood sugar levels. Excludes:
+   - Levels 0-99 mg/dL: Rules out Diabetes Mellitus Type 2, Diabetes Mellitus Type 1.
+   - Levels 100-125 mg/dL: Rules out Diabetes Mellitus Type 2, Diabetes Mellitus Type 1.
+
+3. **Lipid Profile**: Assesses cholesterol and triglyceride levels. Excludes:
+   - **Normal**: Rules out Coronary Artery Disease.
+
+4. **Electrocardiogram (ECG)**: Tests the electrical activity of the heart. Excludes:
+   - **Normal**: Rules out Arrhythmia.
+
+5. **Echocardiogram**: Uses sound waves to produce images of the heart. Excludes:
+   - **Normal**: Rules out Heart Failure.
+
+6. **HIV Antibody Test**: Detects antibodies to HIV. Excludes:
+   - **Negative**: Rules out HIV/AIDS.
+
+7. **Depression Screening Questionnaire**: Evaluates symptoms of depression. Excludes:
+   - **Negative**: Rules out Bipolar Disorder.
+
+8. **Anxiety Screening Questionnaire**: Assesses anxiety symptoms. Excludes:
+   - **Negative**: Rules out Bipolar Disorder.
+
+9. **COVID-19 PCR Test**: Detects the presence of SARS-CoV-2 virus. Excludes:
+   - **Negative**: Rules out COVID-19.
+
+10. **Iron Studies**: Measures iron levels and essential proteins related to iron. Excludes:
+    - **Normal**: Rules out Iron Deficiency Anemia.
+
+11. **HbA1c Test**: Evaluates average blood glucose over the past 2-3 months. Excludes:
+    - Levels 0.0-5.6%: Rules out Diabetes Mellitus Type 2, Diabetes Mellitus Type 1.
+    - Levels 5.7-6.4%: Rules out Diabetes Mellitus Type 2, Diabetes Mellitus Type 1.
+
+12. **Vitamin B12 Level**: Measures vitamin B12 levels in the blood. Excludes:
+    - Levels 300-2000 pg/mL: Rules out Vitamin B12 Deficiency Anemia.
+
+13. **Erythrocyte Sedimentation Rate (ESR)**: Indicates inflammation in the body. Excludes:
+    - Levels 0-20 mm/hr: Rules out Anemia of Chronic Disease.
+
+14. **Complete Blood Count (CBC)**: Assesses overall health through various blood components. Excludes:
+    - **Normal**: Rules out Vitamin B12 Deficiency Anemia, Anemia of Chronic Disease, Leukemia, Iron Deficiency Anemia.
+
+15. **C-Reactive Protein (CRP)**: Measures inflammation levels. Excludes:
+    - Levels 0-5 mg/L: Rules out Anemia of Chronic Disease.
+
+16. **Upper Endoscopy**: Examines the upper digestive system. Outcome interpretations are not linked with exclusions in the provided outcome lists.
+
+This guide simplifies the complex interrelations between diseases and diagnostic tests, enabling health professionals to make informed decisions by excluding specific conditions based on test outcomes. Always consult with a healthcare provider for an accurate diagnosis.

@@ -1,0 +1,45 @@
+# Medical Analysis Guidebook
+
+This guidebook provides a concise overview of selected diseases and their respective diagnostic tests. It explains how particular outcomes from these tests can help rule out specific diseases according to the latest understanding in medical diagnostics.
+
+## Diseases Overview
+
+1. **Bipolar Disorder**  
+   A mental health condition characterized by significant mood swings, including emotional highs (mania or hypomania) and lows (depression). It affects mood, energy, activity levels, and the ability to carry out daily tasks.
+
+2. **Osteopenia**  
+   A condition where bone mineral density is lower than normal. It is considered a precursor to osteoporosis, making bones more fragile and increasing the risk of fractures.
+
+3. **Pre-Diabetes**  
+   A health status indicating higher than normal blood sugar levels, but not high enough to be categorized as diabetes. Pre-diabetes is a critical stage that increases the risk of developing type 2 diabetes, heart disease, and stroke.
+
+4. **Aortic Stenosis**  
+   A condition characterized by narrowing of the aortic valve opening, which restricts blood flow from the left ventricle to the aorta and may cause heart complications.
+
+## Diagnostic Tests and Rule-out Criteria
+
+1. **HbA1c Test**  
+   Measures the average blood sugar levels over the past 2 to 3 months. Its outcomes help to rule out specific conditions as described below:
+   - HbA1c levels between 0.0 to 5.6 and 6.5 to 15.0 rule out **Pre-Diabetes**.
+
+2. **Echocardiogram**  
+   An ultrasound of the heart that provides detailed images to assess heart structure and function:
+   - A normal echocardiogram rules out **Aortic Stenosis**. Other outcomes like reduced ejection fraction, valve abnormalities, or hypertrophy do not specifically rule out other conditions within the context provided.
+
+3. **Depression Screening Questionnaire**  
+   A tool used to identify signs of depression:
+   - A negative outcome rules out **Bipolar Disorder**.
+
+4. **Blood Glucose Test**  
+   Measures the current level of glucose in the blood:
+   - Blood glucose levels of 0 to 99 and 126 to 500 rule out **Pre-Diabetes**.
+
+5. **Anxiety Screening Questionnaire**  
+   Used to assess symptoms of anxiety:
+   - A negative outcome rules out **Bipolar Disorder**.
+
+6. **Bone Mineral Density Test**  
+   Evaluates the concentration of minerals in bones as an indicator of strength:
+   - T-scores from -4.0 to -2.5 and -1.0 to 4.0 rule out **Osteopenia**.
+
+Each test result provides valuable information that helps healthcare professionals narrow down possible conditions by ruling out certain diseases, thus guiding further diagnostic or treatment processes effectively. This method ensures a more targeted approach to diagnosis and enhances patient care by eliminating unlikely conditions early in the assessment process.

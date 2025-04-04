@@ -1,0 +1,103 @@
+
+# Medical Analysis Guidebook
+
+## Introduction
+
+This guidebook is designed to provide an understanding of common diseases and their corresponding diagnostic tests. It focuses on clearly explaining how certain outcomes of diagnostic tests can be used to rule out specific diseases. By consistently applying this methodology, healthcare professionals can narrow down potential diagnoses and improve patient care.
+
+## Diseases and Diagnostic Tests Overview
+
+### Diseases
+
+1. **Aortic Stenosis**
+2. **Coronary Artery Disease**
+3. **Heart Failure**
+4. **Valvular Heart Disease**
+5. **Unstable Angina**
+6. **Pre-Diabetes**
+7. **Diabetes Mellitus Type 2**
+8. **Gastroesophageal Reflux Disease (GERD)**
+9. **Stable Angina**
+10. **Peptic Ulcer Disease**
+11. **Rheumatoid Arthritis**
+12. **Bipolar Disorder**
+
+### Diagnostic Tests
+
+1. **Blood Glucose Test**
+2. **Lipid Profile**
+3. **Rheumatoid Factor Test**
+4. **Electrocardiogram (ECG)**
+5. **Echocardiogram**
+6. **Upper Endoscopy**
+7. **Depression Screening Questionnaire**
+8. **C-Reactive Protein (CRP)**
+9. **HbA1c Test**
+10. **Anxiety Screening Questionnaire**
+11. **Erythrocyte Sedimentation Rate (ESR)**
+12. **Troponin Levels**
+13. **Blood Culture**
+14. **Vitamin B12 Level**
+15. **Iron Studies**
+16. **HIV Antibody Test**
+
+## Disease Descriptions and Diagnostic Test Outcomes
+
+### Aortic Stenosis
+
+- **Echocardiogram**: A normal result rules out Aortic Stenosis.
+
+### Coronary Artery Disease
+
+- **Lipid Profile**: A normal outcome rules out Coronary Artery Disease.
+
+### Heart Failure
+
+- **Echocardiogram**: A normal result rules out Heart Failure.
+
+### Valvular Heart Disease
+
+- **Echocardiogram**: A normal result rules out Valvular Heart Disease.
+
+### Unstable Angina
+
+- **Electrocardiogram (ECG)**: A normal ECG rules out Unstable Angina.
+- **Troponin Levels**: Normal troponin levels rule out Unstable Angina.
+
+### Pre-Diabetes
+
+- **Blood Glucose Test**: Glucose levels between 126 and 500 mg/dL rule out Pre-Diabetes.
+- **HbA1c Test**: HbA1c levels between 0.0% and 5.6% or between 6.5% and 15.0% rule out Pre-Diabetes.
+
+### Diabetes Mellitus Type 2
+
+- **Blood Glucose Test**: Glucose levels between 0 and 99 mg/dL or between 100 and 125 mg/dL rule out Diabetes Mellitus Type 2.
+- **HbA1c Test**: HbA1c levels between 0.0% and 5.6% or between 6.5% and 15.0% rule out Diabetes Mellitus Type 2.
+
+### Gastroesophageal Reflux Disease (GERD)
+
+- **Upper Endoscopy**: A normal result rules out GERD.
+
+### Stable Angina
+
+- **Electrocardiogram (ECG)**: A normal ECG rules out Stable Angina.
+
+### Peptic Ulcer Disease
+
+- **Upper Endoscopy**: A normal endoscopy rules out Peptic Ulcer Disease.
+
+### Rheumatoid Arthritis
+
+- **Rheumatoid Factor Test**: A negative result rules out Rheumatoid Arthritis.
+- **C-Reactive Protein (CRP)**: CRP levels of 0 to 5 mg/L rule out Rheumatoid Arthritis.
+- **Erythrocyte Sedimentation Rate (ESR)**: ESR levels of 0 to 20 mm/hr rule out Rheumatoid Arthritis.
+
+### Bipolar Disorder
+
+- **Depression Screening Questionnaire**: A negative result rules out Bipolar Disorder.
+- **Anxiety Screening Questionnaire**: A negative result rules out Bipolar Disorder.
+
+## Conclusion
+
+By understanding these rules of exclusion through diagnostic testing, medical professionals can systematically narrow down potential diagnoses and offer more accurate and effective patient care. This guidebook emphasizes the importance of utilizing clear and decisive test outcomes to rule out certain diseases, aiding in efficient diagnostic processes.
+

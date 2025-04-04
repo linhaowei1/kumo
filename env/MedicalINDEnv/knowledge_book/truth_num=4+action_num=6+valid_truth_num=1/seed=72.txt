@@ -1,0 +1,52 @@
+# Medical Analysis Guidebook
+
+## Introduction
+This guidebook aims to provide a clear understanding of certain diseases and their associated diagnostic tests. These tests help medical professionals rule out specific diseases based on the outcome of each test. The focus is on four diseases: Leukemia, Peptic Ulcer Disease, Folate Deficiency Anemia, and Stable Angina. We will also discuss six diagnostic tests: Peripheral Blood Smear, Electrocardiogram (ECG), Upper Endoscopy, Folate Level, Complete Blood Count (CBC), and HbA1c Test. 
+
+### Diseases Overview
+
+#### Leukemia
+Leukemia is a type of cancer that affects the blood and bone marrow, characterized by the rapid production of abnormal white blood cells. These abnormal cells can crowd out normal blood cells, leading to problems such as infection, anemia, and bleeding.
+
+#### Peptic Ulcer Disease
+Peptic Ulcer Disease involves open sores that develop on the inner lining of the stomach and the upper portion of the small intestine. The main symptom of peptic ulcer disease is stomach pain.
+
+#### Folate Deficiency Anemia
+Folate Deficiency Anemia occurs when there is a lack of folate in the body, leading to decreased red blood cell production. Folate, a type of B vitamin, is crucial for forming DNA and other genetic material.
+
+#### Stable Angina
+Stable Angina is a condition marked by chest pain or discomfort due to insufficient blood flow to the heart muscle, typically occurring with exertion or stress.
+
+### Diagnostic Tests and Outcomes
+
+#### Peripheral Blood Smear
+A Peripheral Blood Smear is a test that examines the characteristics of blood cells under a microscope. The results can help rule out certain diseases:
+- **Normal Outcome**: Rules out Folate Deficiency Anemia and Leukemia.
+- **Microcytic Hypochromic Outcome**: Rules out Folate Deficiency Anemia and Leukemia.
+- **Macrocytic Outcome**: Rules out Leukemia.
+- **Sickle Cells Outcome**: Rules out Folate Deficiency Anemia and Leukemia.
+- **Blast Cells Outcome**: Rules out Folate Deficiency Anemia.
+
+#### Electrocardiogram (ECG)
+The ECG is a test that measures electrical activity in the heart and helps identify heart problems:
+- **Normal Outcome**: Rules out Stable Angina.
+
+#### Upper Endoscopy
+An Upper Endoscopy examines the upper digestive system with a tiny camera on the end of a long, flexible tube:
+- **Normal Outcome**: Rules out Peptic Ulcer Disease.
+
+#### Folate Level
+This blood test measures the amount of folate in the blood. Based on the outcomes:
+- **Folate Level (0 - 3 ng/mL) Outcome**: No diseases are ruled out.
+- **Folate Level (3 - 5 ng/mL) Outcome**: No diseases are ruled out.
+- **Folate Level (5 - 50 ng/mL) Outcome**: Rules out Folate Deficiency Anemia.
+
+#### Complete Blood Count (CBC)
+A CBC is a comprehensive blood test used to evaluate overall health and detect a wide range of disorders:
+- **Normal Outcome**: Rules out Folate Deficiency Anemia and Leukemia.
+
+#### HbA1c Test
+The HbA1c Test measures the average blood sugar level over the past three months. It does not directly rule out any of the diseases in this guide.
+
+## Conclusion
+By understanding the diagnostic tests and the specific conditions they help rule out, healthcare providers can better diagnose and treat the presented diseases. It's essential to interpret each test outcome correctly to ensure an accurate and timely diagnosis. This guidebook serves as a practical tool for understanding how various diseases are related to specific diagnostic tests and the exclusionary process involved in medical diagnostics.

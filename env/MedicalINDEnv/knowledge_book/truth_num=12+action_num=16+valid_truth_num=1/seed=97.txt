@@ -1,0 +1,98 @@
+
+# Medical Analysis Guidebook
+
+This guidebook is aimed at providing clear and concise information on a selection of diseases and the corresponding diagnostic tests used in their evaluation. Our focus will be on understanding which diseases can be ruled out based on the outcomes of these diagnostic tests.
+
+## Diseases
+
+1. **Osteoporosis**
+   - Osteoporosis is a condition characterized by weakened bones, increasing the risk of fractures. It is commonly diagnosed using a Bone Mineral Density Test.
+
+2. **Peptic Ulcer Disease**
+   - This involves open sores developing on the inner lining of the stomach and the upper part of the small intestine. It can be assessed by Upper Endoscopy.
+
+3. **Anxiety Disorder**
+   - A mental health condition characterized by excessive worry or fear. Diagnosed using an Anxiety Screening Questionnaire.
+
+4. **Rheumatoid Arthritis**
+   - An autoimmune disorder causing inflammation in joints. It can be evaluated through a Rheumatoid Factor Test and ESR.
+
+5. **Gastroesophageal Reflux Disease (GERD)**
+   - A chronic digestive disease where stomach acid frequently flows back into the esophagus. Upper Endoscopy may be used for evaluation.
+
+6. **HIV/AIDS**
+   - A virus that attacks the body’s immune system. An HIV Antibody Test is used for detection.
+
+7. **Iron Deficiency Anemia**
+   - A condition where blood lacks adequate healthy red blood cells due to insufficient iron. Iron Studies and Peripheral Blood Smear are diagnostic tests.
+
+8. **Systemic Lupus Erythematosus (SLE)**
+   - An autoimmune disease where the body’s immune system attacks its own tissues. Evaluated using CRP, ESR, and ANA Test.
+
+9. **Arrhythmia**
+   - An irregular heartbeat which can be assessed by an Electrocardiogram (ECG).
+
+10. **Myocardial Infarction**
+    - Commonly known as a heart attack, it occurs when blood flow to the heart is blocked. Evaluated with an ECG and Troponin Levels.
+
+11. **Bacterial Infection**
+    - Infections caused by bacteria, which can be diagnosed via Blood Culture, CRP, and ESR.
+
+12. **Pre-Diabetes**
+    - A condition where blood sugar levels are higher than normal but not yet high enough to be diagnosed as diabetes. Diagnosed using Blood Glucose Test and HbA1c Test.
+
+## Diagnostic Tests and Outcomes
+
+1. **Iron Studies**
+   - Used to evaluate iron levels. If results are normal, Iron Deficiency Anemia can be ruled out.
+
+2. **Blood Glucose Test**
+   - Measures sugar levels in the blood. A reading between 0-99 mg/dL or 126-500 mg/dL can exclude Pre-Diabetes.
+
+3. **C-Reactive Protein (CRP)**
+   - An indication of inflammation. A level between 0-5 mg/L rules out Bacterial Infection, SLE, and Rheumatoid Arthritis.
+
+4. **Electrocardiogram (ECG)**
+   - Records electrical signals in the heart. A normal result excludes Arrhythmia and Myocardial Infarction.
+
+5. **HIV Antibody Test**
+   - Detects antibodies to HIV. A negative result excludes HIV/AIDS.
+
+6. **Upper Endoscopy**
+   - Views the upper digestive system. A normal outcome excludes Peptic Ulcer Disease and GERD.
+
+7. **Bone Mineral Density Test**
+   - Measures bone strength. A result between -2.5 and 4.0 rules out Osteoporosis.
+
+8. **Rheumatoid Factor Test**
+   - Detects rheumatoid factor in the blood. A negative test excludes Rheumatoid Arthritis.
+
+9. **Troponin Levels**
+   - Indicates heart damage. A normal troponin level excludes Myocardial Infarction.
+
+10. **Erythrocyte Sedimentation Rate (ESR)**
+    - Measures inflammation. A rate of 0-20 mm/hr rules out Bacterial Infection, SLE, and Rheumatoid Arthritis.
+
+11. **Peripheral Blood Smear**
+    - Examines blood cells under a microscope.
+    * **Normal**: Excludes Iron Deficiency Anemia.
+    * **Macrocytic**: Excludes Iron Deficiency Anemia.
+    * **Sickle cells**: Excludes Iron Deficiency Anemia.
+    * **Blast cells**: Excludes Iron Deficiency Anemia.
+
+12. **Anxiety Screening Questionnaire**
+    - Evaluates symptoms of anxiety. A negative result rules out Anxiety Disorder.
+
+13. **Anti-Nuclear Antibody (ANA) Test**
+    - Detects antinuclear antibodies. A negative result rules out SLE.
+
+14. **Blood Culture**
+    - Checks for bacterial infections. No growth seen excludes Bacterial Infection.
+
+15. **Depression Screening Questionnaire**
+    - Assesses symptoms of depression. A negative outcome rules out Anxiety Disorder.
+
+16. **HbA1c Test**
+    - Measures average blood sugar levels over the past three months. Levels between 0.0-5.6% or 6.5-15.0% exclude Pre-Diabetes.
+
+This guidebook emphasizes the exclusion of diseases based on specific test outcomes, allowing for a targeted approach in disease diagnosis and patient management.

@@ -1,0 +1,122 @@
+
+# Medical Analysis Guidebook
+
+This guidebook provides an overview of several common diseases and the diagnostic tests used to assess and rule them out. Understanding which diseases can be excluded through various diagnostic outcomes is essential for accurate medical analysis and patient diagnosis. Below, we explore each disease, the relevant diagnostic tests, and the outcomes that may help rule out certain diseases.
+
+---
+
+## Diseases and Diagnostic Tests
+
+### HIV/AIDS
+- **Diagnosis**: HIV Antibody Test
+  - **Interpretation**:
+    - **Negative**: HIV/AIDS can be ruled out.
+
+### Rheumatoid Arthritis
+- **Diagnosis**: 
+  - Erythrocyte Sedimentation Rate (ESR)
+  - C-Reactive Protein (CRP)
+  - Rheumatoid Factor Test
+  - **Interpretation**:
+    - **ESR Normal (0-20)**: Systemic Lupus Erythematosus (SLE) and Rheumatoid Arthritis can be ruled out.
+    - **CRP Normal (0-5)**: Systemic Lupus Erythematosus (SLE) and Rheumatoid Arthritis can be ruled out.
+    - **Rheumatoid Factor Negative**: Rheumatoid Arthritis can be ruled out.
+
+### Diabetes Mellitus Type 1
+- **Diagnosis**: 
+  - HbA1c Test
+  - Blood Glucose Test
+  - **Interpretation**:
+    - **HbA1c (0.0-5.6)**: Pre-Diabetes, Diabetes Mellitus Type 2, and Diabetes Mellitus Type 1 can be ruled out.
+    - **HbA1c (5.7-6.4)**: Pre-Diabetes and Diabetes Mellitus Type 2 can be ruled out.
+    - **HbA1c (6.5-15.0)**: Pre-Diabetes can be ruled out.
+    - **Blood Glucose (0-99)**: Pre-Diabetes, Diabetes Mellitus Type 2, and Diabetes Mellitus Type 1 can be ruled out.
+    - **Blood Glucose (100-125)**: Diabetes Mellitus Type 1 and Diabetes Mellitus Type 2 can be ruled out.
+    - **Blood Glucose (126-500)**: Pre-Diabetes can be ruled out.
+
+### Gastroesophageal Reflux Disease (GERD)
+- **Diagnosis**: Upper Endoscopy
+  - **Interpretation**:
+    - **Normal Endoscopy**: Gastroesophageal Reflux Disease (GERD) can be ruled out.
+
+### Depression
+- **Diagnosis**: Depression Screening Questionnaire
+  - **Interpretation**:
+    - **Negative**: Anxiety Disorder, Bipolar Disorder, and Depression can be ruled out.
+
+### Anxiety Disorder
+- **Diagnosis**: Anxiety Screening Questionnaire
+  - **Interpretation**:
+    - **Negative**: Anxiety Disorder, Bipolar Disorder, and Depression can be ruled out.
+
+### Leukemia
+- **Diagnosis**: 
+  - Peripheral Blood Smear
+  - Complete Blood Count (CBC)
+  - **Interpretation**:
+    - **Normal Peripheral Blood Smear**: Leukemia and Folate Deficiency Anemia can be ruled out.
+    - **Microcytic Hypochromic Peripheral Blood Smear**: Folate Deficiency Anemia and Leukemia can be ruled out.
+    - **Macrocytic Peripheral Blood Smear**: Leukemia can be ruled out.
+    - **Sickle Cells Peripheral Blood Smear**: Folate Deficiency Anemia and Leukemia can be ruled out.
+    - **Blast Cells Peripheral Blood Smear**: Folate Deficiency Anemia can be ruled out.
+    - **Normal CBC**: Leukemia and Folate Deficiency Anemia can be ruled out.
+
+### Pre-Diabetes
+- **Diagnosis**: 
+  - HbA1c Test
+  - Blood Glucose Test
+  - **Interpretation**:
+    - **HbA1c (0.0-5.6)**: Pre-Diabetes, Diabetes Mellitus Type 2, and Diabetes Mellitus Type 1 can be ruled out.
+    - **HbA1c (5.7-6.4)**: Pre-Diabetes and Diabetes Mellitus Type 2 can be ruled out.
+    - **HbA1c (6.5-15.0)**: Pre-Diabetes can be ruled out.
+    - **Blood Glucose (0-99)**: Pre-Diabetes, Diabetes Mellitus Type 2, and Diabetes Mellitus Type 1 can be ruled out.
+    - **Blood Glucose (100-125)**: Diabetes Mellitus Type 1 and Diabetes Mellitus Type 2 can be ruled out.
+    - **Blood Glucose (126-500)**: Pre-Diabetes can be ruled out.
+
+### Folate Deficiency Anemia
+- **Diagnosis**: 
+  - Peripheral Blood Smear
+  - Folate Level
+  - Complete Blood Count (CBC)
+  - **Interpretation**:
+    - **Normal Peripheral Blood Smear**: Leukemia and Folate Deficiency Anemia can be ruled out.
+    - **Microcytic Hypochromic Peripheral Blood Smear**: Folate Deficiency Anemia and Leukemia can be ruled out.
+    - **Sickle Cells Peripheral Blood Smear**: Folate Deficiency Anemia and Leukemia can be ruled out.
+    - **Blast Cells Peripheral Blood Smear**: Folate Deficiency Anemia can be ruled out.
+    - **Normal CBC**: Leukemia and Folate Deficiency Anemia can be ruled out.
+    - **Folate Level (5-50)**: Folate Deficiency Anemia can be ruled out.
+
+### Diabetes Mellitus Type 2
+- **Diagnosis**: 
+  - HbA1c Test
+  - Blood Glucose Test
+  - **Interpretation**:
+    - **HbA1c (0.0-5.6)**: Pre-Diabetes, Diabetes Mellitus Type 2, and Diabetes Mellitus Type 1 can be ruled out.
+    - **HbA1c (5.7-6.4)**: Pre-Diabetes and Diabetes Mellitus Type 2 can be ruled out.
+    - **HbA1c (6.5-15.0)**: Pre-Diabetes can be ruled out.
+    - **Blood Glucose (0-99)**: Pre-Diabetes, Diabetes Mellitus Type 2, and Diabetes Mellitus Type 1 can be ruled out.
+    - **Blood Glucose (100-125)**: Diabetes Mellitus Type 1 and Diabetes Mellitus Type 2 can be ruled out.
+    - **Blood Glucose (126-500)**: Pre-Diabetes can be ruled out.
+
+### Systemic Lupus Erythematosus (SLE)
+- **Diagnosis**: 
+  - Erythrocyte Sedimentation Rate (ESR)
+  - C-Reactive Protein (CRP)
+  - Anti-Nuclear Antibody (ANA) Test
+  - **Interpretation**:
+    - **ESR Normal (0-20)**: Systemic Lupus Erythematosus (SLE) and Rheumatoid Arthritis can be ruled out.
+    - **CRP Normal (0-5)**: Systemic Lupus Erythematosus (SLE) and Rheumatoid Arthritis can be ruled out.
+    - **ANA Negative**: Systemic Lupus Erythematosus (SLE) can be ruled out.
+
+### Bipolar Disorder
+- **Diagnosis**: 
+  - Depression Screening Questionnaire
+  - Anxiety Screening Questionnaire
+  - **Interpretation**:
+    - **Depression Screening Negative**: Anxiety Disorder, Bipolar Disorder, and Depression can be ruled out.
+    - **Anxiety Screening Negative**: Anxiety Disorder, Bipolar Disorder, and Depression can be ruled out.
+
+---
+
+By carefully analyzing the outcomes of these diagnostic tests, healthcare professionals can exclude certain diseases from the diagnostic process, thereby narrowing down the potential causes of a patient's symptoms. This guidebook serves as a comprehensive resource for understanding how different diagnostic outcomes determine the conditions that can be effectively ruled out.
+

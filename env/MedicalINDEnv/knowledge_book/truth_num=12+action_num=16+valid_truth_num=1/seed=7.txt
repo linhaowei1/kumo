@@ -1,0 +1,92 @@
+# Medical Analysis Guidebook
+
+This guidebook provides a clear and concise understanding of various diseases along with their corresponding diagnostic tests. For each diagnostic test, the possible outcomes are listed, and the diseases that can be ruled out based on those outcomes are explained. This information is crucial for understanding how specific test results can narrow down potential diagnoses.
+
+## Diseases
+
+### 1. Gastroesophageal Reflux Disease (GERD)
+GERD is a digestive disorder that affects the lower esophageal sphincter, leading to acid reflux and heartburn. It can be diagnosed with an Upper Endoscopy, where certain conditions allowing this disease to be ruled out can be observed.
+
+### 2. Fungal Infection
+Fungal infections can affect various parts of the body and are commonly diagnosed with tests such as Complete Blood Count (CBC), Erythrocyte Sedimentation Rate (ESR), CRP, and Blood Culture.
+
+### 3. Leukemia
+Leukemia is a type of cancer affecting the blood and bone marrow. Diagnostic tools include the Peripheral Blood Smear and Complete Blood Count (CBC).
+
+### 4. Viral Infection
+Viral infections can have a wide range of symptoms and can be diagnosed with CBC, ESR, CRP, and Blood Culture tests.
+
+### 5. Depression
+Depression is a mental disorder characterized by persistent sadness and loss of interest. It can be screened using the Anxiety and Depression Screening Questionnaires.
+
+### 6. Metabolic Syndrome
+Metabolic Syndrome is a cluster of conditions that increase the risk of heart disease and diabetes. It is diagnosed using the HbA1c Test, Lipid Profile, and Blood Glucose Test.
+
+### 7. Rheumatoid Arthritis
+Rheumatoid Arthritis is an autoimmune disorder that primarily affects joints, leading to inflammation. Diagnosis can involve the ESR, CRP, and Rheumatoid Factor Test.
+
+### 8. Osteoporosis
+Osteoporosis is a bone disease characterized by reduced bone density and increased fracture risk. It is diagnosed through a Bone Mineral Density Test.
+
+### 9. Arrhythmia
+Arrhythmia refers to an irregular heartbeat and is diagnosed using an Electrocardiogram (ECG).
+
+### 10. Peptic Ulcer Disease
+Peptic Ulcer Disease involves sores in the lining of the stomach or the first part of the small intestine. An Upper Endoscopy is used for diagnosis.
+
+### 11. Osteopenia
+Osteopenia is a condition where bone mineral density is lower than normal, diagnosed through a Bone Mineral Density Test.
+
+### 12. Diabetes Mellitus Type 2
+This is a chronic condition affecting how your body metabolizes sugar. It is diagnosed with the HbA1c Test and Blood Glucose Test.
+
+## Diagnostic Tests and Outcomes
+
+### 1. Upper Endoscopy
+- **Normal:** Rules out Peptic Ulcer Disease and GERD.
+
+### 2. Peripheral Blood Smear
+- **Normal, Microcytic Hypochromic, Macrocytic, Sickle Cells:** Rule out Leukemia.
+
+### 3. HbA1c Test
+- **0.0 - 5.6%:** Rules out Diabetes Mellitus Type 2 and Metabolic Syndrome.
+- **5.7 - 6.4%:** Rules out Diabetes Mellitus Type 2.
+  
+### 4. Lipid Profile
+- **Normal:** Rules out Metabolic Syndrome.
+
+### 5. Erythrocyte Sedimentation Rate (ESR)
+- **0 - 20:** Rules out Rheumatoid Arthritis, Viral Infection, and Fungal Infection.
+
+### 6. Bone Mineral Density Test
+- **-4.0 to -2.5:** Rules out Osteopenia.
+- **-2.5 to -1.0 & -1.0 to 4.0:** Rules out Osteoporosis and Osteopenia.
+
+### 7. Anxiety Screening Questionnaire
+- **Negative:** Rules out Depression.
+
+### 8. C-Reactive Protein (CRP)
+- **0 - 5:** Rules out Rheumatoid Arthritis, Viral Infection, and Fungal Infection.
+
+### 9. Rheumatoid Factor Test
+- **Negative:** Rules out Rheumatoid Arthritis.
+
+### 10. Blood Glucose Test
+- **0 - 99:** Rules out Diabetes Mellitus Type 2 and Metabolic Syndrome.
+- **100 - 125:** Rules out Diabetes Mellitus Type 2.
+
+### 11. Complete Blood Count (CBC)
+- **Normal:** Rules out Leukemia, Viral Infection, and Fungal Infection.
+
+### 12. Electrocardiogram (ECG)
+- **Normal:** Rules out Arrhythmia.
+
+### 13. Blood Culture
+- **No Growth:** Rules out Viral Infection and Fungal Infection.
+
+### 14. Depression Screening Questionnaire
+- **Negative:** Rules out Depression.
+
+## Conclusion
+
+This guidebook aims to facilitate understanding of the diseases and their corresponding diagnostic tests. Each diagnostic outcome allows healthcare professionals to exclude certain diseases, aiding in the narrowing of potential diagnoses and ensuring accurate and efficient patient care.

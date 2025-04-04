@@ -1,0 +1,133 @@
+# Medical Analysis Guidebook
+
+## Introduction
+This guidebook provides a clear understanding of several diseases and their related diagnostic tests. We focus on how specific outcomes from these tests help in ruling out certain diseases, using an exclusion-based approach.
+
+## Diseases Overview
+
+### Systemic Lupus Erythematosus (SLE)
+SLE is an autoimmune disease where the immune system attacks its tissues, causing inflammation and damage. Symptoms vary, including fatigue, joint pain, and skin rashes.
+
+### Diabetes Mellitus Type 2
+A chronic condition affecting how the body metabolizes blood glucose, leading to high blood sugar levels. Symptoms include increased thirst, frequent urination, and fatigue.
+
+### Metabolic Syndrome
+A cluster of conditions increasing the risk of heart disease, stroke, and diabetes. These include high blood pressure, high blood sugar, excess body fat around the waist, and abnormal cholesterol levels.
+
+### Aortic Stenosis
+A condition where the aortic valve narrows, restricting blood flow from the heart to the rest of the body. Symptoms include chest pain, fatigue, and shortness of breath.
+
+### Folate Deficiency Anemia
+A decrease in red blood cells due to a lack of folate (vitamin B9), leading to fatigue, weakness, and pale skin.
+
+### Iron Deficiency Anemia
+A condition where there is a lack of iron in the body, leading to insufficient production of hemoglobin and causing symptoms like weakness, dizziness, and shortness of breath.
+
+### Peptic Ulcer Disease
+Open sores that develop on the inside lining of the stomach and the upper portion of the small intestine, causing stomach pain and indigestion.
+
+### Bipolar Disorder
+A mental disorder causing extreme mood swings that include emotional highs (mania or hypomania) and lows (depression).
+
+### Anxiety Disorder
+A mental health disorder characterized by feelings of worry, anxiety, or fear that are strong enough to interfere with one's daily activities.
+
+### Osteoporosis
+A condition where bones become weak and brittle, making them more susceptible to fractures.
+
+### Leukemia
+A type of cancer affecting white blood cells, leading to symptoms such as fatigue, fever, frequent infections, and bleeding.
+
+### Anemia of Chronic Disease
+Anemia that occurs in people with conditions that cause inflammation, such as chronic infections or autoimmune diseases.
+
+## Diagnostic Tests and Rule-out Criteria
+
+### Peripheral Blood Smear
+A test that examines the appearance of blood cells under a microscope.
+
+- **Normal**: Rules out Anemia of Chronic Disease, Folate Deficiency Anemia, Leukemia, and Iron Deficiency Anemia.
+- **Microcytic Hypochromic**: Rules out Leukemia and Folate Deficiency Anemia.
+- **Macrocytic**: Rules out Anemia of Chronic Disease, Leukemia, and Iron Deficiency Anemia.
+- **Sickle Cells**: Rules out Anemia of Chronic Disease, Folate Deficiency Anemia, Leukemia, and Iron Deficiency Anemia.
+- **Blast Cells**: Rules out Anemia of Chronic Disease, Folate Deficiency Anemia, and Iron Deficiency Anemia.
+
+### HbA1c Test
+A blood test that provides information about a person's average blood glucose levels over the past three months.
+
+- **0.0 - 5.6%**: Rules out Diabetes Mellitus Type 2 and Metabolic Syndrome.
+- **5.7 - 6.4%**: Rules out Diabetes Mellitus Type 2.
+
+### Lipid Profile
+Measures the levels of cholesterol and triglycerides in the blood to assess the risk of cardiovascular disease.
+
+- **Normal**: Rules out Metabolic Syndrome.
+
+### Echocardiogram
+An ultrasound of the heart used to evaluate heart structures and function.
+
+- **Normal**: Rules out Aortic Stenosis.
+
+### Upper Endoscopy
+A procedure allowing a doctor to view the inside of the upper digestive tract.
+
+- **Normal**: Rules out Peptic Ulcer Disease.
+
+### Bone Mineral Density Test
+Measures bone density to assess the risk of fractures and osteoporosis.
+
+- **-2.5 to -1.0**: Rules out Osteoporosis.
+- **-1.0 to 4.0**: Rules out Osteoporosis.
+
+### Depression Screening Questionnaire
+A survey used to identify signs of depression.
+
+- **Negative**: Rules out Anxiety Disorder and Bipolar Disorder.
+
+### Folate Level
+Assesses the amount of folate in the blood.
+
+- **5 - 50 ng/mL**: Rules out Folate Deficiency Anemia.
+
+### Anti-Nuclear Antibody (ANA) Test
+A test checking for antibodies that attack the body's own tissues, often used in diagnosing autoimmune conditions.
+
+- **Negative**: Rules out Systemic Lupus Erythematosus (SLE).
+
+### Iron Studies
+Evaluate iron levels in the blood to diagnose iron disorders.
+
+- **Normal**: Rules out Iron Deficiency Anemia.
+
+### Erythrocyte Sedimentation Rate (ESR)
+A blood test indicating inflammation by measuring how quickly red blood cells settle at the bottom of a test tube.
+
+- **0 - 20 mm/h**: Rules out Anemia of Chronic Disease and Systemic Lupus Erythematosus (SLE).
+
+### Blood Glucose Test
+Measures the amount of glucose in the blood, primarily used to diagnose diabetes.
+
+- **0 - 99 mg/dL**: Rules out Diabetes Mellitus Type 2 and Metabolic Syndrome.
+- **100 - 125 mg/dL**: Rules out Diabetes Mellitus Type 2.
+
+### C-Reactive Protein (CRP)
+Measures a protein produced by the liver that rises in response to inflammation.
+
+- **0 - 5 mg/L**: Rules out Anemia of Chronic Disease and Systemic Lupus Erythematosus (SLE).
+
+### Anxiety Screening Questionnaire
+Assesses signs of anxiety in an individual through a series of questions.
+
+- **Negative**: Rules out Anxiety Disorder and Bipolar Disorder.
+
+### Complete Blood Count (CBC)
+A comprehensive blood test used to assess overall health and detect a range of disorders.
+
+- **Normal**: Rules out Anemia of Chronic Disease, Folate Deficiency Anemia, Leukemia, and Iron Deficiency Anemia.
+
+### Electrocardiogram (ECG)
+A test recording the electrical activity of the heart.
+
+- **Normal**: No specific diseases ruled out.
+
+In this guidebook, the diagnostic processes primarily focus on eliminating diseases through observed outcomes in diagnostic tests. By understanding these rules, healthcare providers can more efficiently narrow down the potential causes and more accurately focus on the appropriate treatments for patients.

@@ -1,0 +1,98 @@
+
+# Medical Analysis Guidebook
+
+This guidebook offers a comprehensive overview of several diseases and the diagnostic tests used to analyze and rule them out. We will detail the diseases and the corresponding outcomes of various diagnostic tests to aid in understanding their interrelations.
+
+## Diseases Overview
+
+1. **Peptic Ulcer Disease**
+   - A condition where open sores develop on the inner lining of the stomach or the upper part of the small intestine.
+
+2. **Bacterial Infection**
+   - An illness caused by harmful bacteria affecting any part of the body.
+
+3. **Diabetes Mellitus Type 1**
+   - An autoimmune disease where the pancreas produces little or no insulin.
+
+4. **Fungal Infection**
+   - An infection caused by fungi that can affect skin, nails, or other parts of the body.
+
+5. **Iron Deficiency Anemia**
+   - A condition characterized by a deficiency of iron, leading to a reduced number of red blood cells.
+
+6. **Diabetes Mellitus Type 2**
+   - A chronic condition affecting the way the body processes blood sugar (glucose).
+
+7. **Rheumatoid Arthritis**
+   - An autoimmune disorder that primarily affects joints, leading to inflammation.
+
+8. **Stable Angina**
+   - A type of chest pain caused by reduced blood flow to the heart.
+
+9. **Gastroesophageal Reflux Disease (GERD)**
+   - A chronic condition where stomach acid flows back into the esophagus, causing irritation.
+
+10. **Osteopenia**
+    - A condition characterized by lower than normal peak bone density, but not low enough to be classified as osteoporosis.
+
+11. **Vitamin B12 Deficiency Anemia**
+    - An anemia that results from inadequate levels of vitamin B12, leading to fewer and larger red blood cells.
+
+12. **Coronary Artery Disease**
+    - A condition characterized by narrowed coronary arteries, restricting blood flow to the heart muscle.
+
+## Diagnostic Tests and Exclusion Outcomes
+
+### 1. Iron Studies
+- **Normal Results** rule out Iron Deficiency Anemia.
+
+### 2. Vitamin B12 Level
+- **Levels between 300 and 2000** rule out Vitamin B12 Deficiency Anemia.
+
+### 3. Blood Glucose Test
+- **Results within 0-99 and 100-125** rule out both Diabetes Mellitus Type 1 and Type 2.
+
+### 4. Lipid Profile
+- **Normal Results** rule out Coronary Artery Disease.
+
+### 5. Erythrocyte Sedimentation Rate (ESR)
+- **Results between 0 and 20** rule out Bacterial Infection, Rheumatoid Arthritis, and Fungal Infection.
+
+### 6. Electrocardiogram (ECG)
+- **Normal Results** rule out Stable Angina.
+
+### 7. Upper Endoscopy
+- **Normal Results** rule out Peptic Ulcer Disease and Gastroesophageal Reflux Disease (GERD).
+
+### 8. Bone Mineral Density Test
+- **T-Scores between -4.0 and -2.5 and -1.0 to 4.0** rule out Osteopenia.
+
+### 9. C-Reactive Protein (CRP)
+- **Levels between 0 and 5** rule out Bacterial Infection, Rheumatoid Arthritis, and Fungal Infection.
+
+### 10. Blood Culture
+- **No Growth** results rule out Bacterial Infection and Fungal Infection.
+
+### 11. Peripheral Blood Smear
+- **Normal Results** rule out Vitamin B12 Deficiency Anemia and Iron Deficiency Anemia.
+- **Microcytic Hypochromic** results rule out Vitamin B12 Deficiency Anemia.
+- **Macrocytic** results rule out Iron Deficiency Anemia.
+- **Sickle Cells** results rule out Iron Deficiency Anemia and Vitamin B12 Deficiency Anemia.
+- **Blast Cells** results rule out Iron Deficiency Anemia and Vitamin B12 Deficiency Anemia.
+
+### 12. Rheumatoid Factor Test
+- **Negative Results** rule out Rheumatoid Arthritis.
+
+### 13. HbA1c Test
+- **Values between 0.0-5.6 and 5.7-6.4** rule out both Diabetes Mellitus Type 1 and Type 2.
+
+### 14. Complete Blood Count (CBC)
+- **Normal Results** rule out Bacterial Infection, Vitamin B12 Deficiency Anemia, Fungal Infection, and Iron Deficiency Anemia.
+
+### 15. Anti-Nuclear Antibody (ANA) Test
+- Currently holds no exclusions for the diseases in focus.
+
+### 16. COVID-19 PCR Test
+- Currently holds no exclusions for the diseases in focus.
+
+This guide aims to clarify how each test outcome excludes potential diseases, helping clinicians narrow down differential diagnoses effectively. Use this summary to understand each disease's relation to the tests and outcomes provided.

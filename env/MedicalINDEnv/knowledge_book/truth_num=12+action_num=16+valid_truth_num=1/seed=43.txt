@@ -1,0 +1,58 @@
+
+## **Medical Analysis Guidebook**
+
+This guidebook provides an overview of common diseases and the corresponding diagnostic tests used to help rule out these conditions. The focus is on understanding how specific test outcomes can help exclude certain diseases, making it easier for healthcare professionals to narrow down diagnostics.
+
+## Diseases and Diagnostic Tests
+
+### 1. Rheumatoid Arthritis
+- **Rheumatoid Factor Test:** If the test results are negative, rheumatoid arthritis is ruled out.
+- **C-Reactive Protein (CRP):** A CRP result between 0-5 mg/L rules out rheumatoid arthritis.
+
+### 2. Pre-Diabetes
+- **HbA1c Test:** An HbA1c level between 6.5-15% rules out pre-diabetes.
+- **Blood Glucose Test:** Glucose levels from 126-500 mg/dL rule out pre-diabetes.
+
+### 3. Folate Deficiency Anemia
+- **Peripheral Blood Smear:** Observing microcytic hypochromic or sickle cells can help rule out folate deficiency anemia.
+- **Complete Blood Count (CBC):** A normal CBC result rules out folate deficiency anemia.
+- **Folate Level:** A folate level between 5-50 ng/mL rules out folate deficiency anemia.
+
+### 4. Vitamin B12 Deficiency Anemia
+- **Peripheral Blood Smear:** Observing normocytic cells, sickle cells, or blast cells can rule out vitamin B12 deficiency anemia.
+- **Complete Blood Count (CBC):** A normal CBC result rules out vitamin B12 deficiency anemia.
+- **Vitamin B12 Level:** B12 levels ranging from 300-2000 pg/mL rule out vitamin B12 deficiency anemia.
+
+### 5. Leukemia
+- **Peripheral Blood Smear:** Presence of normocytic cells, microcytic hypochromic cells, sickle cells, or macrocytic cells rules out leukemia.
+- **Complete Blood Count (CBC):** A normal CBC result rules out leukemia.
+
+### 6. HIV/AIDS
+- **HIV Antibody Test:** A negative result rules out HIV/AIDS.
+
+### 7. Peptic Ulcer Disease
+- **Upper Endoscopy:** A normal endoscopy result rules out peptic ulcer disease.
+
+### 8. Systemic Lupus Erythematosus (SLE)
+- **Anti-Nuclear Antibody (ANA) Test:** A negative result rules out SLE.
+- **C-Reactive Protein (CRP):** A CRP between 0-5 mg/L rules out SLE.
+- **Erythrocyte Sedimentation Rate (ESR):** An ESR between 0-20 mm/hr rules out SLE.
+
+### 9. Diabetes Mellitus Type 1
+- **HbA1c Test:** An HbA1c level from 0.0-5.6% or 5.7-6.4% rules out diabetes mellitus type 1.
+- **Blood Glucose Test:** Glucose levels ranging from 0-99 mg/dL or 100-125 mg/dL rule out diabetes mellitus type 1.
+
+### 10. Arrhythmia
+- **Electrocardiogram (ECG):** A normal ECG result rules out arrhythmia.
+
+### 11. Diabetes Mellitus Type 2
+- **HbA1c Test:** An HbA1c level ranging from 0.0-5.6% or 5.7-6.4% rules out diabetes mellitus type 2.
+- **Blood Glucose Test:** Glucose levels from 0-99 mg/dL or 100-125 mg/dL rule out diabetes mellitus type 2.
+
+### 12. Bipolar Disorder
+- **Depression Screening Questionnaire:** A negative result rules out bipolar disorder.
+- **Anxiety Screening Questionnaire:** A negative result rules out bipolar disorder.
+
+## Conclusion
+
+This guide aims to provide a straightforward approach to using diagnostic tests in ruling out specific diseases. By understanding which diseases can be excluded from consideration based on specific test outcomes, healthcare professionals can efficiently navigate through potential diagnoses and tailor treatments accordingly.

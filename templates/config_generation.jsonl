@@ -1,0 +1,165 @@
+{"Goal": "Identify the true inventor of a certain prototype", "Truths": "Inventors", "Actions": ["Archival research", "patent searches", "interviews"]}
+{"Goal": "Determine which philosopher's theory is represented in a text", "Truths": "Philosophers' theories", "Actions": ["Textual analysis", "cross-referencing philosophical works"]}
+{"Goal": "Identify the correct star constellation being described", "Truths": "Constellations", "Actions": ["Astronomical observations", "star mapping"]}
+{"Goal": "Identify the hidden musical composer behind a score", "Truths": "Composers", "Actions": ["Musical analysis", "historical stylistic comparison"]}
+{"Goal": "Identify the correct mathematical theorem applied in a proof", "Truths": "Mathematical theorems", "Actions": ["Logical deduction", "theorem-matching checks"]}
+{"Goal": "Determine which programming algorithm is best suited for a given problem", "Truths": "Algorithms", "Actions": ["Benchmarking", "complexity analysis", "code simulation"]}
+{"Goal": "Identify the correct tree species from its leaves and bark", "Truths": "Tree species", "Actions": ["Field botany examinations", "dendrological guides"]}
+{"Goal": "Identify the lost language used in an ancient manuscript", "Truths": "Ancient languages", "Actions": ["Linguistic pattern analysis", "cipher decoding"]}
+{"Goal": "Determine which planet in a sci-fi setting supports life", "Truths": "Fictional planets", "Actions": ["Environmental scans", "atmospheric sampling"]}
+{"Goal": "Identify the correct microorganism causing a fermentation issue", "Truths": "Microorganisms (bacteria, yeasts)", "Actions": ["Microbiological culturing", "microscopy"]}
+{"Goal": "Determine which genetic mutation is responsible for a trait", "Truths": "Genetic mutations", "Actions": ["DNA sequencing", "gene expression assays"]}
+{"Goal": "Identify the real gemstone among synthetic ones", "Truths": "Gemstones", "Actions": ["Refractive index tests", "hardness and UV fluorescence checks"]}
+{"Goal": "Determine the correct historical era of a discovered artifact", "Truths": "Historical periods/eras", "Actions": ["Radiocarbon dating", "stratigraphic analysis"]}
+{"Goal": "Identify the correct chemical element present in an alloy", "Truths": "Chemical elements", "Actions": ["Spectroscopy", "mass spectrometry"]}
+{"Goal": "Determine which philosopher's argument a debate club is referencing", "Truths": "Philosophical arguments", "Actions": ["Argument structure analysis", "cross-checking philosophical texts"]}
+{"Goal": "Identify the hidden marine species affecting the local ecosystem", "Truths": "Marine species", "Actions": ["Underwater surveys", "DNA barcoding in water samples"]}
+{"Goal": "Determine which musical instrument produces a mysterious sound", "Truths": "Musical instruments", "Actions": ["Sound frequency analysis", "instrument material examination"]}
+{"Goal": "Identify the author of a newly discovered poem", "Truths": "Authors", "Actions": ["Literary style analysis", "handwriting and ink tests"]}
+{"Goal": "Determine which machine part is failing in an engine", "Truths": "Machine parts", "Actions": ["Vibration analysis", "thermal imaging", "wear pattern checks"]}
+{"Goal": "Identify the correct data structure to optimize a computation", "Truths": "Data structures", "Actions": ["Algorithmic complexity tests", "performance benchmarks"]}
+{"Goal": "Determine which bird species sings a recorded call", "Truths": "Bird species", "Actions": ["Auditory spectrogram analysis", "field ornithology references"]}
+{"Goal": "Identify the correct architectural style of a building", "Truths": "Architectural styles", "Actions": ["Structural pattern comparison", "historical design references"]}
+{"Goal": "Determine which chemical compound is causing a reaction in a lab", "Truths": "Chemical compounds", "Actions": ["Chromatography", "IR spectroscopy"]}
+{"Goal": "Identify which mythological creature left behind specific traces", "Truths": "Mythical creatures", "Actions": ["Magical detection methods", "lore reference checks"]}
+{"Goal": "Determine the correct chess opening variation from a recorded game", "Truths": "Chess openings", "Actions": ["Move sequence analysis", "strategy pattern recognition"]}
+{"Goal": "Identify the prime suspect in a detective mystery", "Truths": "Suspects", "Actions": ["Interrogation", "fingerprint analysis", "alibi verification"]}
+{"Goal": "Determine which economic model a set of policies aligns with", "Truths": "Economic models", "Actions": ["Policy effect simulation", "model comparison"]}
+{"Goal": "Identify the correct welding technique needed for a metal join", "Truths": "Welding techniques", "Actions": ["Material strength tests", "weld quality inspections"]}
+{"Goal": "Determine the correct classification of a newly found mineral", "Truths": "Mineral types", "Actions": ["Hardness test", "streak test", "crystal structure analysis"]}
+{"Goal": "Identify the correct literary genre of a manuscript", "Truths": "Literary genres", "Actions": ["Thematic analysis", "structural narrative checks"]}
+{"Goal": "Determine which operating system kernel handles a device's drivers best", "Truths": "Operating system kernels", "Actions": ["Benchmarking", "compatibility tests"]}
+{"Goal": "Identify the correct enzyme that catalyzes a biochemical reaction", "Truths": "Enzymes", "Actions": ["Enzyme assays", "kinetic studies"]}
+{"Goal": "Determine which famous painting style inspired a modern artwork", "Truths": "Painting styles", "Actions": ["Brushstroke examination", "pigment and technique analysis"]}
+{"Goal": "Identify the correct planetary rover among multiple prototypes", "Truths": "Rover prototypes", "Actions": ["Field tests", "sensor calibration checks"]}
+{"Goal": "Determine which dance style is performed in a silent video", "Truths": "Dance styles", "Actions": ["Movement pattern analysis", "choreographic pattern matching"]}
+{"Goal": "Identify the correct storage medium used in a futuristic data vault", "Truths": "Data storage media", "Actions": ["Data interface attempts", "read/write tests"]}
+{"Goal": "Determine which cryptographic cipher was used to encode a message", "Truths": "Cryptographic ciphers", "Actions": ["Frequency analysis", "key pattern testing"]}
+{"Goal": "Identify which species of fungus is infecting a crop", "Truths": "Fungus species", "Actions": ["Microscopic spore identification", "fungal culture testing"]}
+{"Goal": "Determine which historical battle a set of relics originates from", "Truths": "Historical battles", "Actions": ["Artifact analysis", "historical record comparisons"]}
+{"Goal": "Identify the correct cooking method used to achieve a dish's texture", "Truths": "Cooking methods", "Actions": ["Texture analysis", "ingredient transformation testing"]}
+{"Goal": "Determine which energy source powers a hidden device", "Truths": "Energy sources", "Actions": ["Emission spectroscopy", "thermal signature analysis"]}
+{"Goal": "Identify which architectural engineering principle is employed in a bridge", "Truths": "Engineering principles", "Actions": ["Structural stress tests", "load distribution calculations"]}
+{"Goal": "Determine the correct bird's nest type found in a forest", "Truths": "Nest types", "Actions": ["Nest material examination", "shape and location analysis"]}
+{"Goal": "Identify the correct protocol used in a network packet capture", "Truths": "Network protocols", "Actions": ["Packet inspection", "header analysis"]}
+{"Goal": "Determine which pharmaceutical compound cures a given symptom", "Truths": "Pharmaceutical compounds", "Actions": ["Clinical trials", "bioassays"]}
+{"Goal": "Identify which geometric shape's properties are being used in a design", "Truths": "Geometric shapes", "Actions": ["Measurement", "angle and ratio checks"]}
+{"Goal": "Determine which car manufacturer produced a mystery vehicle part", "Truths": "Car manufacturers", "Actions": ["Part number cross-reference", "material composition tests"]}
+{"Goal": "Identify the correct pesticide affecting insect populations", "Truths": "Pesticides", "Actions": ["Chemical residue analysis", "insect mortality patterns"]}
+{"Goal": "Determine which coding paradigm a software library follows", "Truths": "Coding paradigms", "Actions": ["Code pattern analysis", "architecture examination"]}
+{"Goal": "Identify the correct soil type in an agricultural plot", "Truths": "Soil types", "Actions": ["Particle size analysis", "nutrient profiling"]}
+{"Goal": "Determine which radio frequency band a device is operating on", "Truths": "Frequency bands", "Actions": ["Signal analysis", "frequency scanning"]}
+{"Goal": "Identify which star type matches observed spectral data", "Truths": "Star classifications", "Actions": ["Spectral line analysis", "luminosity comparisons"]}
+{"Goal": "Determine which printing technique was used on a rare book", "Truths": "Printing techniques", "Actions": ["Ink composition tests", "printing pattern examination"]}
+{"Goal": "Identify which theatrical genre a play script belongs to", "Truths": "Theatrical genres", "Actions": ["Dialogue analysis", "structural and thematic checks"]}
+{"Goal": "Determine which planetary geology matches rover-collected samples", "Truths": "Geological formations", "Actions": ["Mineralogical analysis", "geological mapping"]}
+{"Goal": "Identify which type of malware is infecting a computer system", "Truths": "Malware types", "Actions": ["Code signature checks", "behavioral analysis"]}
+{"Goal": "Determine which nutrition plan improves a patient's condition", "Truths": "Dietary regimens", "Actions": ["Nutrient level measurements", "health outcome tracking"]}
+{"Goal": "Identify which classical composer's motif is woven into a symphony", "Truths": "Classical motifs", "Actions": ["Thematic motif analysis", "historical composer style reference"]}
+{"Goal": "Determine which coffee bean variety is used in a blend", "Truths": "Coffee bean varieties", "Actions": ["Flavor profile cupping", "chemical composition testing"]}
+{"Goal": "Identify which political ideology underpins a manifesto", "Truths": "Political ideologies", "Actions": ["Policy position analysis", "historical ideology comparison"]}
+{"Goal": "Determine which machine learning model fits a dataset best", "Truths": "ML models", "Actions": ["Performance metrics evaluation", "cross-validation testing"]}
+{"Goal": "Identify which rocket fuel is used in a spacecraft", "Truths": "Rocket fuels", "Actions": ["Exhaust plume spectroscopy", "chemical residue analysis"]}
+{"Goal": "Determine which style of martial art is demonstrated in a training video", "Truths": "Martial arts styles", "Actions": ["Movement pattern analysis", "stance and technique comparison"]}
+{"Goal": "Identify which species of fish is caught in a fishing net", "Truths": "Fish species", "Actions": ["Scale pattern checks", "gill structure examination"]}
+{"Goal": "Determine which educational method a classroom is using", "Truths": "Teaching methodologies", "Actions": ["Classroom observation", "curriculum structure analysis"]}
+{"Goal": "Identify which extraterrestrial mineral is in a meteorite sample", "Truths": "Extraterrestrial minerals", "Actions": ["X-ray diffraction", "isotopic ratio tests"]}
+{"Goal": "Determine which encryption method protects a digital file", "Truths": "Encryption methods", "Actions": ["Cryptanalysis attempts", "algorithmic pattern search"]}
+{"Goal": "Identify which traditional dance form is seen in festival footage", "Truths": "Traditional dance forms", "Actions": ["Cultural step pattern analysis", "costume design checks"]}
+{"Goal": "Determine which ocean current is influencing a coastal climate", "Truths": "Ocean currents", "Actions": ["Temperature and salinity measurements", "current flow mapping"]}
+{"Goal": "Identify which planetary climate model fits observed weather patterns", "Truths": "Climate models", "Actions": ["Simulation comparisons", "statistical fit assessments"]}
+{"Goal": "Determine which neural pathway is responsible for a reflex", "Truths": "Neural pathways", "Actions": ["Nerve conduction studies", "MRI scans"]}
+{"Goal": "Identify which sculptor carved a particular statue", "Truths": "Sculptors", "Actions": ["Chisel mark analysis", "stylistic comparison"]}
+{"Goal": "Determine which programming language a piece of code is written in", "Truths": "Programming languages", "Actions": ["Syntax pattern checks", "library reference analysis"]}
+{"Goal": "Identify which hormone is causing a physiological response", "Truths": "Hormones", "Actions": ["Hormone assays", "endocrine function tests"]}
+{"Goal": "Determine which mythic religion a ritual text belongs to", "Truths": "Mythological religions", "Actions": ["Symbol analysis", "textual parallel studies"]}
+{"Goal": "Identify which ecosystem niche a newly discovered organism occupies", "Truths": "Ecological niches", "Actions": ["Habitat observation", "dietary analysis", "competitor presence checks"]}
+{"Goal": "Determine which transportation method a civilization used", "Truths": "Transport methods (historical/futuristic)", "Actions": ["Artifact examination", "route pattern mapping"]}
+{"Goal": "Identify which musical scale a mysterious tune uses", "Truths": "Musical scales", "Actions": ["Interval analysis", "pitch frequency checks"]}
+{"Goal": "Determine which leadership style a manager is employing", "Truths": "Leadership styles", "Actions": ["Behavioral observation", "decision-making pattern analysis"]}
+{"Goal": "Identify which spoken dialect an audio recording contains", "Truths": "Language dialects", "Actions": ["Phonetic analysis", "lexical frequency comparison"]}
+{"Goal": "Determine which acrobatic technique is used in a circus act", "Truths": "Acrobatic techniques", "Actions": ["Body position analysis", "timing and motion studies"]}
+{"Goal": "Identify which botanical adaptation a plant species evolved", "Truths": "Plant adaptations", "Actions": ["Morphological inspection", "genetic comparison"]}
+{"Goal": "Determine which architectural blueprint corresponds to a partial plan", "Truths": "Architectural blueprints", "Actions": ["Structural element matching", "dimension cross-checking"]}
+{"Goal": "Identify which marketing strategy a company's campaign follows", "Truths": "Marketing strategies", "Actions": ["Advertising content analysis", "target demographic checks"]}
+{"Goal": "Determine which currency system a set of trade tokens represents", "Truths": "Currency systems", "Actions": ["Metallurgical testing", "historical economic references"]}
+{"Goal": "Identify which software design pattern is implemented in code", "Truths": "Design patterns", "Actions": ["Object relationship analysis", "code structure mapping"]}
+{"Goal": "Determine which weaving technique produced a textile", "Truths": "Weaving techniques", "Actions": ["Fiber examination", "weave pattern identification"]}
+{"Goal": "Identify which robotic control algorithm is running on a machine", "Truths": "Control algorithms", "Actions": ["Motor behavior analysis", "feedback loop testing"]}
+{"Goal": "Determine which poetic meter characterizes a verse", "Truths": "Poetic meters", "Actions": ["Syllable counting", "stress pattern analysis"]}
+{"Goal": "Identify which psychological theory a case study illustrates", "Truths": "Psychological theories", "Actions": ["Behavioral correlation checks", "theoretical framework comparison"]}
+{"Goal": "Determine which encryption hash function a file employs", "Truths": "Hash functions", "Actions": ["Hash length and pattern analysis", "collision testing"]}
+{"Goal": "Identify which classical dance form is performed in archival footage", "Truths": "Classical dance forms", "Actions": ["Step-by-step movement analysis", "costume and music style checks"]}
+{"Goal": "Determine which fermentation process a beverage underwent", "Truths": "Fermentation processes", "Actions": ["Byproduct identification", "microbial strain testing"]}
+{"Goal": "Identify which engine type a prototype vehicle uses", "Truths": "Engine types", "Actions": ["Fuel consumption testing", "exhaust gas analysis"]}
+{"Goal": "Determine which literary movement a piece of writing belongs to", "Truths": "Literary movements", "Actions": ["Stylistic and thematic analysis", "historical context alignment"]}
+{"Goal": "Identify the specific historical event or period related to a mystery artifact or occurrence", "Truths": "Historical events or periods", "Actions": ["Carbon dating", "Archival research", "Artifact examination"]}
+{"Goal": "Determine the programming language used in a given code snippet", "Truths": "Programming languages", "Actions": ["Syntax parsing", "Runtime behavior analysis", "Library usage examination"]}
+{"Goal": "Identify the specific species of a given plant sample", "Truths": "Plant species", "Actions": ["Leaf morphology examination", "Genetic sequencing", "Habitat analysis"]}
+{"Goal": "Determine the type of gemstone based on test results", "Truths": "Gemstone types", "Actions": ["Refractive index measurement", "Hardness testing", "Fluorescence observation"]}
+{"Goal": "Identify the specific type of cuisine from a described dish", "Truths": "Types of cuisine", "Actions": ["Spice profiling", "Cooking technique examination", "Ingredient sourcing"]}
+{"Goal": "Determine the artistic period of a given painting or artwork", "Truths": "Artistic periods or movements", "Actions": ["Brushstroke examination", "Color palette analysis", "Thematic study"]}
+{"Goal": "Identify the specific species of an animal based on test outcomes", "Truths": "Animal species", "Actions": ["Genetic testing", "Habitat assessment", "Morphological analysis"]}
+{"Goal": "Determine the author of an anonymous manuscript or excerpt", "Truths": "Authors", "Actions": ["Writing style examination", "Thematic analysis", "Vocabulary profiling"]}
+{"Goal": "Classify the type of a given meteorite sample", "Truths": "Meteorite types", "Actions": ["Elemental composition testing", "Density measurement", "Mineralogical study"]}
+{"Goal": "Identify the specific type of cloud based on observational data", "Truths": "Cloud types", "Actions": ["Altitude assessment", "Shape and structure analysis", "Moisture content evaluation"]}
+{"Goal": "Determine the identity of an unknown chemical substance through testing", "Truths": "Chemical substances", "Actions": ["pH testing", "Precipitation reactions", "Spectroscopy"]}
+{"Goal": "Identify the specific fictional universe an artifact belongs to", "Truths": "Artifacts from various fictional universes", "Actions": ["Material composition analysis", "Origin story examination", "Functionality testing"]}
+{"Goal": "Identify the specific medical condition affecting a patient based on test outcomes", "Truths": "Medical conditions or diseases", "Actions": ["Blood tests", "Imaging scans", "Symptom evaluation"]}
+{"Goal": "Determine the specific type of bug present in a software application", "Truths": "Types of software bugs", "Actions": ["Code review", "Automated testing", "Runtime monitoring"]}
+{"Goal": "Identify the genre of a given song based on its characteristics", "Truths": "Musical genres", "Actions": ["Rhythm and tempo analysis", "Instrumentation examination", "Lyrical content review"]}
+{"Goal": "Identify the specific type of astronomical object based on observational data", "Truths": "Astronomical objects", "Actions": ["Spectral analysis", "Luminosity measurement", "Orbital tracking"]}
+{"Goal": "Determine the regional origin of ingredients used in a dish to identify its cuisine type", "Truths": "Source regions of ingredients", "Actions": ["Geographical sourcing", "Climate suitability assessment", "Agricultural practices review"]}
+{"Goal": "Identify the genre of a given literary work based on its elements", "Truths": "Literary genres", "Actions": ["Plot structure examination", "Theme identification", "Character archetype analysis"]}
+{"Goal": "Determine the specific source of pollution affecting an environment", "Truths": "Pollution sources", "Actions": ["Pollutant level measurement", "Source tracing", "Impact assessment"]}
+{"Goal": "Identify the specific fashion style of a given outfit or collection", "Truths": "Fashion styles or movements", "Actions": ["Fabric and material examination", "Design pattern analysis", "Trend assessment"]}
+{"Goal": "Identify the specific potion required for a quest", "Truths": "Types of magical potions", "Actions": ["Potion brewing experiments", "Ingredient analysis", "Magical property testing"]}
+{"Goal": "Determine the species of an encountered alien", "Truths": "Characteristics of various alien species", "Actions": ["Alien behavior observations", "Physical trait measurements", "Communication decoding"]}
+{"Goal": "Identify the civilization that built a discovered artifact", "Truths": "Lost ancient civilizations", "Actions": ["Archaeological excavations", "Artifact carbon dating", "Cultural symbolism analysis"]}
+{"Goal": "Resolve the paradox affecting the timeline", "Truths": "Types of time travel paradoxes", "Actions": ["Temporal experiments", "Historical consistency checks", "Causality analysis"]}
+{"Goal": "Identify the specific virtual realm causing system anomalies", "Truths": "Virtual environments and their properties", "Actions": ["Virtual exploration missions", "System diagnostic tests", "Environmental parameter measurements"]}
+{"Goal": "Determine the malfunctioning gadget sabotaging the city", "Truths": "Various steampunk inventions", "Actions": ["Gadget testing", "Tinkering and repair attempts", "Component analysis"]}
+{"Goal": "Identify the creature causing disturbances in the forest", "Truths": "Traits of mythical creatures", "Actions": ["Creature tracking", "Behavioral studies", "Environmental impact assessments"]}
+{"Goal": "Discover the quantum state affecting the device\u2019s performance", "Truths": "Different quantum states", "Actions": ["Quantum experiments", "State measurement", "Interference pattern analysis"]}
+{"Goal": "Identify the artifact responsible for dimensional breaches", "Truths": "Properties of interdimensional artifacts", "Actions": ["Artifact analysis", "Dimensional stability testing", "Energy signature scanning"]}
+{"Goal": "Determine the personality type of a malfunctioning robot", "Truths": "Types of robot personalities", "Actions": ["Robot behavior assessments", "Software diagnostics", "Interaction simulations"]}
+{"Goal": "Identify the enchantment causing the forest to change shape", "Truths": "Enchantments within the forest", "Actions": ["Magical flora testing", "Fauna enchantment analysis", "Environmental magic mapping"]}
+{"Goal": "Discover the hidden power of a new superhero", "Truths": "Various superhero abilities", "Actions": ["Power usage experiments", "Strength and skill assessments", "Energy output measurements"]}
+{"Goal": "Identify the underlying theme of a recurring dream", "Truths": "Elements within different dreams", "Actions": ["Dream analysis", "Symbolic interpretation", "Lucid dreaming techniques"]}
+{"Goal": "Determine the cause of an unusual cosmic event", "Truths": "Types of interstellar events", "Actions": ["Space observation missions", "Spectral analysis", "Orbital calculations"]}
+{"Goal": "Identify the kingdom orchestrating secret alliances", "Truths": "Kingdoms and their unique traits", "Actions": ["Diplomatic interactions", "Intelligence gathering", "Cultural exchange studies"]}
+{"Goal": "Determine the specific cybernetic enhancement affecting a user\u2019s abilities", "Truths": "Types of cybernetic parts", "Actions": ["Enhancement diagnostics", "Performance testing", "System integration analysis"]}
+{"Goal": "Identify the rune that unlocks a hidden door", "Truths": "Meanings of various runes", "Actions": ["Rune decoding", "Symbolic matching", "Activation trials"]}
+{"Goal": "Identify the empire behind a series of intergalactic thefts", "Truths": "Characteristics of different galactic empires", "Actions": ["Empire intelligence gathering", "Trade route monitoring", "Interrogation of suspects"]}
+{"Goal": "Discover which spirit is causing natural imbalances", "Truths": "Types of elemental spirits", "Actions": ["Spirit summoning rituals", "Elemental energy analysis", "Environmental impact studies"]}
+{"Goal": "Identify the spell that can lift a curse", "Truths": "Various spell types", "Actions": ["Spellcasting experiments", "Incantation analysis", "Magical ingredient testing"]}
+{"Goal": "Determine the purpose of a newly discovered device", "Truths": "Lost technological inventions", "Actions": ["Technology reconstruction", "Functionality testing", "Historical usage research"]}
+{"Goal": "Identify the portal leading to the desired dimension", "Truths": "Portal types and destinations", "Actions": ["Portal activation tests", "Dimensional mapping", "Energy flux measurements"]}
+{"Goal": "Determine the lineage of a powerful sorcerer", "Truths": "Different sorcerer bloodlines", "Actions": ["Lineage tracing", "Ancestral record examination", "Magical heritage analysis"]}
+{"Goal": "Identify the astral plane affecting a person's dreams", "Truths": "Characteristics of various astral planes", "Actions": ["Astral projection missions", "Dream state monitoring", "Plane energy assessment"]}
+{"Goal": "Determine the curse affecting a mysterious artifact", "Truths": "Types of curses", "Actions": ["Object examination", "Curse detection rituals", "Magical resistance testing"]}
+{"Goal": "Identify the mutation responsible for unique abilities", "Truths": "Various genetic mutations", "Actions": ["Genetic sequencing", "Trait correlation analysis", "Mutation impact studies"]}
+{"Goal": "Discover the source of darkness in the shadow realm", "Truths": "Features of different shadow realms", "Actions": ["Shadow realm exploration", "Darkness source mapping", "Environmental effect analysis"]}
+{"Goal": "Identify the weapon that can defeat a formidable foe", "Truths": "Attributes of legendary weapons", "Actions": ["Weapon testing", "Combat trials", "Historical effectiveness research"]}
+{"Goal": "Determine the plant responsible for ecological changes", "Truths": "Traits of bioengineered flora", "Actions": ["Plant genetic analysis", "Environmental impact assessments", "Growth pattern monitoring"]}
+{"Goal": "Identify the alignment causing magical disruptions", "Truths": "Types of celestial events", "Actions": ["Astrological observations", "Alignment mapping", "Magical interference testing"]}
+{"Goal": "Determine the origin of a lingering curse", "Truths": "Nature of various curses", "Actions": ["Curse-breaking rituals", "Historical curse research", "Magical residue analysis"]}
+{"Goal": "Identify the holographic scenario malfunctioning in the system", "Truths": "Variations of holographic environments", "Actions": ["Hologram testing", "System diagnostic scans", "Scenario parameter analysis"]}
+{"Goal": "Discover the species illuminating the dark cave", "Truths": "Types of bioluminescent species", "Actions": ["Light pattern analysis", "Species identification", "Habitat examination"]}
+{"Goal": "Identify the being disrupting the fabric of space-time", "Truths": "Traits of transdimensional entities", "Actions": ["Interaction experiments", "Dimensional stability monitoring", "Entity behavior analysis"]}
+{"Goal": "Determine the herb needed to create a healing elixir", "Truths": "Properties of various mystical plants", "Actions": ["Herb testing", "Brewing experiments", "Medicinal property analysis"]}
+{"Goal": "Identify the avatar causing security breaches", "Truths": "Types of digital personas", "Actions": ["Avatar behavior monitoring", "Security system analysis", "Code inspection"]}
+{"Goal": "Decode the message left by an ancient civilization", "Truths": "Lost linguistic structures", "Actions": ["Language decryption", "Symbol matching", "Contextual analysis"]}
+{"Goal": "Identify the melody that can summon protective spirits", "Truths": "Types of magical melodies", "Actions": ["Sound wave experiments", "Melody matching", "Spirit interaction tests"]}
+{"Goal": "Determine the process to transform base metals into gold", "Truths": "Various transmutation methods", "Actions": ["Alchemical experiments", "Process optimization", "Elemental reaction analysis"]}
+{"Goal": "Identify the commodity causing market fluctuations", "Truths": "Types of exotic commodities", "Actions": ["Trade route analysis", "Commodity value assessment", "Market trend monitoring"]}
+{"Goal": "Determine the nature of a haunting in an old mansion", "Truths": "Types of ghostly apparitions", "Actions": ["Ghost tracking", "Apparition analysis", "Environmental surveys"]}
+{"Goal": "Identify the factor triggering unexpected shifts", "Truths": "Causes of dimensional changes", "Actions": ["Dimensional stability tests", "Environmental monitoring", "Factor elimination experiments"]}
+{"Goal": "Decode the symbol that opens a magical gateway", "Truths": "Meanings of mystical symbols", "Actions": ["Symbol analysis", "Matching rituals", "Activation trials"]}
+{"Goal": "Identify the malfunctioning construct threatening the lab", "Truths": "Types of bio-machines", "Actions": ["Construct functionality testing", "Behavioral analysis", "System diagnostics"]}
+{"Goal": "Determine the origin of a phantom ship sighting", "Truths": "Legends of ghostly vessels", "Actions": ["Maritime anomaly investigations", "Historical ship records research", "Spectral signature analysis"]}
+{"Goal": "Identify the cause of time loops in a specific location", "Truths": "Types of time distortions", "Actions": ["Temporal mapping", "Event sequencing", "Anomaly tracking"]}
+{"Goal": "Discover which guardian protects a sacred site", "Truths": "Guardians tied to specific runes", "Actions": ["Rune activation tests", "Guardian behavior observation", "Protective barrier analysis"]}
+{"Goal": "Identify the synthetic lifeform responsible for system errors", "Truths": "Varieties of artificial beings", "Actions": ["Lifeform behavior analysis", "System diagnostics", "Code integrity checks"]}
+{"Goal": "Determine the pattern causing eternal storms", "Truths": "Types of enchanted weather phenomena", "Actions": ["Weather magic experiments", "Pattern recognition analysis", "Environmental impact studies"]}
+{"Goal": "Identify the relic that can unlock hidden knowledge", "Truths": "Attributes of ancient relics", "Actions": ["Relic examination", "Testing and activation", "Historical context research"]}

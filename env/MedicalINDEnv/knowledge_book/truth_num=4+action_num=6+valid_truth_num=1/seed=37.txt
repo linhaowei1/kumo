@@ -1,0 +1,67 @@
+# Medical Analysis Guidebook
+
+This guidebook aims to provide a clear understanding of certain diseases and the corresponding diagnostic tests used to diagnose and rule them out. Understanding these relations helps in the effective diagnosis and management of health conditions. 
+
+## Diseases Overview
+
+### 1. Diabetes Mellitus Type 1
+Diabetes Mellitus Type 1 is an autoimmune condition where the body's immune system attacks the insulin-producing beta cells in the pancreas. This results in little to no insulin production, leading to increased blood glucose levels. It requires management through insulin therapy, a balanced diet, and regular monitoring of blood sugar levels.
+
+### 2. Osteopenia
+Osteopenia is characterized by bone mineral density that is lower than normal peak BMD but not low enough to be classified as osteoporosis. This condition can make bones weaker and more susceptible to fractures and may necessitate lifestyle changes, supplements, and monitoring to prevent further bone density loss.
+
+### 3. Vitamin B12 Deficiency Anemia
+This type of anemia occurs when the body lacks enough Vitamin B12, crucial for red blood cell production. This deficiency can result in fatigue, weakness, and neurological issues. Management typically involves dietary changes and Vitamin B12 supplements.
+
+### 4. Sepsis
+Sepsis is a life-threatening condition that arises when the body's response to infection causes injury to its own tissues and organs. It requires prompt medical intervention including antibiotics, fluids, and potentially other treatments in a hospital setting.
+
+## Diagnostic Tests and Analysis
+
+### 1. Vitamin B12 Level Test
+This test measures the amount of Vitamin B12 in the blood. 
+
+- **Levels of 0 to 200 pg/mL**: No diseases can be ruled out definitively.
+- **Levels of 200 to 300 pg/mL**: No specific diseases are ruled out.
+- **Levels of 300 to 2000 pg/mL**: Vitamin B12 Deficiency Anemia can be ruled out.
+
+### 2. HbA1c Test
+The HbA1c test measures the average blood glucose level over the past 2 to 3 months.
+
+- **HbA1c levels between 0.0 and 5.6%**: Diabetes Mellitus Type 1 can be ruled out.
+- **HbA1c levels between 5.7 and 6.4%**: Diabetes Mellitus Type 1 can be ruled out.
+- **HbA1c levels of 6.5 to 15.0%**: No diseases are excluded.
+
+### 3. Bone Mineral Density Test
+This test determines the density of minerals (such as calcium) in your bones using X-rays, primarily to diagnose osteoporosis and osteopenia.
+
+- **Scores from -4.0 to -2.5**: Osteopenia can be ruled out.
+- **Scores from -2.5 to -1.0**: No diseases are excluded.
+- **Scores from -1.0 to 4.0**: Osteopenia can be ruled out.
+
+### 4. Blood Glucose Test
+This test measures the amount of glucose in your blood, and it’s used to diagnose or rule out diabetes.
+
+- **Levels of 0 to 99 mg/dL**: Diabetes Mellitus Type 1 can be ruled out.
+- **Levels of 100 to 125 mg/dL**: Diabetes Mellitus Type 1 can be ruled out.
+- **Levels of 126 to 500 mg/dL**: No diseases are excluded.
+
+### 5. Peripheral Blood Smear
+This test involves the microscopic examination of blood to evaluate red and white blood cells and platelets.
+
+- **Normal findings**: Vitamin B12 Deficiency Anemia can be ruled out.
+- **Microcytic hypochromic findings**: Vitamin B12 Deficiency Anemia can be ruled out.
+- **Macrocytic findings**: No diseases are excluded.
+- **Sickle cells presence**: Vitamin B12 Deficiency Anemia can be ruled out.
+- **Blast cells presence**: Vitamin B12 Deficiency Anemia can be ruled out.
+
+### 6. Complete Blood Count (CBC)
+A CBC test gives information about the cells in a patient’s blood.
+
+- **Normal findings**: Vitamin B12 Deficiency Anemia and Sepsis can be ruled out.
+- **Anemia findings**: No diseases are excluded.
+- **Leukocytosis findings**: No diseases are excluded.
+- **Leukopenia findings**: No diseases are excluded.
+- **Thrombocytopenia findings**: No diseases are excluded.
+
+By understanding the specific diagnostic thresholds and findings, healthcare professionals can effectively use these tests to rule out particular diseases, guiding towards appropriate treatment plans.

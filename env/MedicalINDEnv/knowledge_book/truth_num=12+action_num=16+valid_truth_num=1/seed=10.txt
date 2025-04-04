@@ -1,0 +1,98 @@
+# Medical Analysis Guidebook
+
+This guidebook provides an introduction to several diseases and the diagnostic tests that help rule out certain conditions when specific outcomes are observed. Understanding these relationships is crucial in medical diagnostics to accurately pinpoint or exclude specific diseases.
+
+## Diseases
+
+1. **Depression**: A mental health disorder characterized by persistently depressed mood or loss of interest in activities, causing significant impairment in daily life.
+
+2. **Myocardial Infarction**: Commonly known as a heart attack, this condition occurs when blood flow decreases or stops to a part of the heart, causing damage to the heart muscle.
+
+3. **Rheumatoid Arthritis**: An autoimmune disorder that primarily affects joints, leading to inflammation and pain.
+
+4. **Bacterial Infection**: Infections caused by harmful bacteria, leading to various diseases depending on the infection site.
+
+5. **Stable Angina**: A condition marked by chest pain due to reduced blood flow to the heart, often occurring during exertion or stress.
+
+6. **Peptic Ulcer Disease**: Characterized by sores or ulcers in the lining of the stomach or the first part of the small intestine.
+
+7. **Metabolic Syndrome**: A cluster of conditions that occur together, increasing the risk of heart disease, stroke, and type 2 diabetes.
+
+8. **COVID-19**: A highly infectious respiratory illness caused by the coronavirus SARS-CoV-2.
+
+9. **Leukemia**: A group of cancers that usually begin in the bone marrow and result in high numbers of abnormal white blood cells.
+
+10. **Bipolar Disorder**: A mental health condition causing extreme mood swings that include emotional highs (mania or hypomania) and lows (depression).
+
+11. **Diabetes Mellitus Type 2**: A chronic condition that affects the way the body processes blood sugar (glucose).
+
+12. **Viral Infection**: Infections caused by viruses, which can lead to diseases ranging from the common cold to more severe illnesses.
+
+## Diagnostic Tests and Outcomes
+
+1. **COVID-19 PCR Test**
+   - **Positive**: Rules out no diseases.
+   - **Negative**: Rules out COVID-19.
+
+2. **Peripheral Blood Smear**
+   - **Normal**, **Microcytic Hypochromic**, **Macrocytic**, **Sickle Cells**: Rules out Leukemia.
+   - **Blast Cells**: Rules out no diseases.
+
+3. **Blood Glucose Test**
+   - **0-99 mg/dL**: Rules out Diabetes Mellitus Type 2 and Metabolic Syndrome.
+   - **100-125 mg/dL**: Rules out Diabetes Mellitus Type 2.
+   - **126-500 mg/dL**: Rules out no diseases.
+
+4. **Erythrocyte Sedimentation Rate (ESR)**
+   - **0-20 mm/hr**: Rules out Bacterial Infection, Rheumatoid Arthritis, and Viral Infection.
+   - **21-100 mm/hr**: Rules out no diseases.
+
+5. **Electrocardiogram (ECG)**
+   - **Normal**: Rules out Stable Angina and Myocardial Infarction.
+   - **Arrhythmia**, **Ischemic Changes**, **Left Ventricular Hypertrophy**, **Myocardial Infarction Pattern**: Rules out no diseases.
+
+6. **Upper Endoscopy**
+   - **Normal**: Rules out Peptic Ulcer Disease.
+   - **Esophagitis**, **Gastric Ulcer**, **Duodenal Ulcer**: Rules out no diseases.
+
+7. **Depression Screening Questionnaire**
+   - **Positive**: Rules out no diseases.
+   - **Negative**: Rules out Bipolar Disorder and Depression.
+
+8. **C-Reactive Protein (CRP)**
+   - **0-5 mg/L**: Rules out Bacterial Infection, Rheumatoid Arthritis, and Viral Infection.
+   - **6-200 mg/L**: Rules out no diseases.
+
+9. **Complete Blood Count (CBC)**
+   - **Normal**: Rules out Bacterial Infection, Leukemia, and Viral Infection.
+   - **Anemia**, **Leukocytosis**, **Leukopenia**, **Thrombocytopenia**: Rules out no diseases.
+
+10. **Troponin Levels**
+    - **Normal**: Rules out Myocardial Infarction.
+    - **Elevated**: Rules out no diseases.
+
+11. **Rheumatoid Factor Test**
+    - **Positive**: Rules out no diseases.
+    - **Negative**: Rules out Rheumatoid Arthritis.
+
+12. **Lipid Profile**
+    - **Normal**: Rules out Metabolic Syndrome.
+    - **Elevated Cholesterol**, **Elevated Triglycerides**, **Low HDL**: Rules out no diseases.
+
+13. **Anxiety Screening Questionnaire**
+    - **Positive**: Rules out no diseases.
+    - **Negative**: Rules out Bipolar Disorder and Depression.
+
+14. **HbA1c Test**
+    - **0.0-5.6%**: Rules out Diabetes Mellitus Type 2 and Metabolic Syndrome.
+    - **5.7-6.4%**: Rules out Diabetes Mellitus Type 2.
+    - **6.5-15.0%**: Rules out no diseases.
+
+15. **Blood Culture**
+    - **No Growth**: Rules out Bacterial Infection and Viral Infection.
+    - **Bacterial Growth**: Rules out no diseases.
+
+16. **Vitamin B12 Level**
+    - **0-200 pg/mL**, **200-300 pg/mL**, **300-2000 pg/mL**: Rules out no diseases.
+
+By understanding the outcomes of these diagnostic tests, healthcare providers can effectively rule out certain diseases, allowing for more accurate diagnosis and treatment.

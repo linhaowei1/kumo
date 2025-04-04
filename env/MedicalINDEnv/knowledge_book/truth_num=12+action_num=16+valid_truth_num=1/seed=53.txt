@@ -1,0 +1,91 @@
+
+# Medical Analysis Guidebook
+
+This guidebook provides an overview of select diseases and their associated diagnostic tests. It aims to simplify the interpretation of diagnostic results, particularly in understanding which diseases can be excluded based on specific outcomes.
+
+## Diseases and Their Diagnostic Tests
+
+### 1. COVID-19
+- **Diagnostic Test**: COVID-19 PCR Test
+  - **Outcomes**:
+    - **Positive**: Does not exclude any diseases.
+    - **Negative**: Rules out COVID-19 as a diagnosis.
+
+### 2. HIV/AIDS
+- **Diagnostic Test**: HIV Antibody Test
+  - **Outcomes**:
+    - **Positive**: Does not exclude any diseases.
+    - **Negative**: Rules out HIV/AIDS as a diagnosis.
+
+### 3. Aortic Stenosis
+A narrowing of the aortic valve opening, which can restrict blood flow from the heart. Not directly associated with specific tests in this guide but may involve imaging like an echocardiogram for diagnosis.
+
+### 4. Folate Deficiency Anemia
+- **Diagnostic Test**: Folate Level
+  - **Outcomes**:
+    - **0-3 ng/mL**: Does not exclude any diseases.
+    - **3-5 ng/mL**: Does not exclude any diseases.
+    - **5-50 ng/mL**: Rules out Folate Deficiency Anemia.
+
+### 5. Iron Deficiency Anemia
+- **Diagnostic Tests**: 
+  - **Iron Studies**
+    - **Normal**: Rules out Iron Deficiency Anemia.
+  - **Complete Blood Count (CBC)**
+    - **Normal**: Rules out Iron Deficiency Anemia.
+  - **Peripheral Blood Smear**
+    - **Normal**: Rules out Iron Deficiency Anemia.
+
+### 6. Anemia of Chronic Disease
+- **Diagnostic Tests**:
+  - **Iron Studies**
+    - **Normal**: Rules out Anemia of Chronic Disease.
+  - **Erythrocyte Sedimentation Rate (ESR)**
+    - **0-20 mm/hr**: Rules out Anemia of Chronic Disease.
+  - **Complete Blood Count (CBC)**
+    - **Normal**: Rules out Anemia of Chronic Disease.
+  - **Peripheral Blood Smear**
+    - **Normal**: Rules out Anemia of Chronic Disease.
+
+### 7. Diabetes Mellitus Type 1
+- **Diagnostic Test**: Blood Glucose Test
+  - **0-99 mg/dL**: Rules out Diabetes Mellitus Type 1.
+  - **100-125 mg/dL**: Rules out Diabetes Mellitus Type 1 depending on clinical suspicion.
+- **HbA1c Test**
+  - **0.0-5.6%**: Rules out Diabetes Mellitus Type 1.
+  - **5.7-6.4%**: Rules out Diabetes Mellitus Type 1.
+
+### 8. Peptic Ulcer Disease
+- **Diagnostic Test**: Upper Endoscopy
+  - **Normal**: Rules out Peptic Ulcer Disease.
+
+### 9. Stable Angina
+- **Diagnostic Test**: Electrocardiogram (ECG)
+  - **Normal**: Rules out Stable Angina.
+
+### 10. Fungal Infection
+- **Diagnostic Tests**:
+  - **Erythrocyte Sedimentation Rate (ESR)**
+    - **0-20 mm/hr**: Rules out Fungal Infection.
+  - **Complete Blood Count (CBC)**
+    - **Normal**: Rules out Fungal Infection.
+  - **Blood Culture**
+    - **No Growth**: Rules out Fungal Infection.
+  - **C-Reactive Protein (CRP)**
+    - **0-5 mg/L**: Rules out Fungal Infection.
+
+### 11. Anxiety Disorder
+- **Diagnostic Test**: Anxiety Screening Questionnaire
+  - **Negative**: Rules out Anxiety Disorder.
+
+### 12. Metabolic Syndrome
+- **Diagnostic Tests**:
+  - **Blood Glucose Test**
+    - **0-99 mg/dL**: May exclude Metabolic Syndrome if other clinical criteria are not met.
+  - **HbA1c Test**
+    - **0.0-5.6%**: Can exclude Metabolic Syndrome if aligned with other clinical findings.
+  - **Lipid Profile**
+    - **Normal**: Rules out Metabolic Syndrome.
+
+## Conclusion
+This guidebook outlines diseases and diagnostic tests, highlighting how specific test outcomes can exclude certain diagnoses. This exclusion approach aids clinicians in narrowing down potential conditions, ensuring effective and targeted patient care.

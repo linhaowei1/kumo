@@ -1,0 +1,66 @@
+# Medical Analysis Guidebook
+
+This guidebook provides a comprehensive overview of selected diseases and the diagnostic tests commonly used in their evaluation. We will explore the diseases of "Folate Deficiency Anemia," "Leukemia," "Sepsis," and "Diabetes Mellitus Type 1" and discuss the rules for excluding certain diseases based on the outcomes of specific diagnostic tests.
+
+## Diseases Overview
+
+### 1. Folate Deficiency Anemia
+Folate Deficiency Anemia is a condition resulting from a lack of folate (vitamin B9), leading to insufficient red blood cell production. This condition often causes fatigue, weakness, and pale skin.
+
+### 2. Leukemia
+Leukemia is a group of blood cancers characterized by the proliferation of abnormal white blood cells. Symptoms may include fever, fatigue, frequent infections, and easy bleeding.
+
+### 3. Sepsis
+Sepsis is a life-threatening response to infection, resulting in widespread inflammation. Symptoms can include fever, confusion, rapid breathing, and a high heart rate.
+
+### 4. Diabetes Mellitus Type 1
+Diabetes Mellitus Type 1 is an autoimmune condition wherein the pancreas produces little or no insulin, leading to high blood glucose levels. Symptoms often include increased thirst, frequent urination, hunger, fatigue, and blurred vision.
+
+## Diagnostic Tests and Exclusion Outcomes
+
+### 1. Peripheral Blood Smear
+A Peripheral Blood Smear examines blood cells under a microscope to identify abnormalities.
+
+- **Normal:** Leukemia and Folate Deficiency Anemia can be ruled out.
+- **Microcytic Hypochromic:** Leukemia and Folate Deficiency Anemia can be ruled out.
+- **Macrocytic:** Leukemia can be ruled out.
+- **Sickle Cells:** Leukemia and Folate Deficiency Anemia can be ruled out.
+- **Blast Cells:** Folate Deficiency Anemia can be ruled out.
+
+### 2. Folate Level
+This test measures the amount of folate in the blood to evaluate deficiencies.
+
+- **Levels (0-3 ng/mL):** No diseases are ruled out.
+- **Levels (3-5 ng/mL):** No diseases are ruled out.
+- **Levels (5-50 ng/mL):** Folate Deficiency Anemia is ruled out.
+
+### 3. HbA1c Test
+The HbA1c test evaluates average blood glucose levels over the past two to three months to indicate diabetes control.
+
+- **Levels (0.0-5.6%):** Diabetes Mellitus Type 1 can be ruled out.
+- **Levels (5.7-6.4%):** Diabetes Mellitus Type 1 can be ruled out.
+- **Levels (6.5-15.0%):** No diseases are ruled out.
+
+### 4. Complete Blood Count (CBC)
+A CBC assesses overall health and detects a range of disorders through a blood sample.
+
+- **Normal:** Folate Deficiency Anemia, Leukemia, and Sepsis can be ruled out.
+- **Anemia:** No diseases are ruled out.
+- **Leukocytosis:** No diseases are ruled out.
+- **Leukopenia:** No diseases are ruled out.
+- **Thrombocytopenia:** No diseases are ruled out.
+
+### 5. Blood Culture
+A Blood Culture test identifies any infectious organisms in the blood.
+
+- **No Growth:** Sepsis can be ruled out.
+- **Bacterial Growth:** No diseases are ruled out.
+
+### 6. Blood Glucose Test
+This test measures the glucose concentration in the blood.
+
+- **Levels (0-99 mg/dL):** Diabetes Mellitus Type 1 can be ruled out.
+- **Levels (100-125 mg/dL):** Diabetes Mellitus Type 1 can be ruled out.
+- **Levels (126-500 mg/dL):** No diseases are ruled out.
+
+This guidebook provides a clear framework for interpreting the outcomes of various diagnostic tests concerning the diseases discussed. It is crucial to rule out improbable conditions accurately to guide further testing and appropriate treatment planning. Always consult a healthcare professional for comprehensive evaluation and diagnosis.

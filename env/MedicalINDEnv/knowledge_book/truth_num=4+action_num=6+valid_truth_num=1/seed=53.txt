@@ -1,0 +1,58 @@
+# Medical Analysis Guidebook
+
+This guidebook provides an overview of selected diseases and corresponding diagnostic tests. The focus is on understanding the tests’ outcomes and the diseases they can help rule out, aiding in differential diagnosis and appropriate patient management.
+
+## Diseases
+
+### 1. COVID-19
+COVID-19 is an infectious disease caused by the novel coronavirus SARS-CoV-2. It primarily affects the respiratory system but can also have systemic implications. Symptoms include fever, cough, shortness of breath, and loss of taste or smell.
+
+### 2. Diabetes Mellitus Type 1
+Diabetes Mellitus Type 1 is an autoimmune condition in which the body's immune system attacks insulin-producing cells in the pancreas. This results in high blood glucose levels. Common symptoms include increased thirst, frequent urination, hunger, fatigue, and blurred vision.
+
+### 3. Fungal Infection
+Fungal infections are caused by fungi and can affect the skin, nails, lungs, or other body parts. Symptoms vary depending on the infection site but may include redness, itching, and sometimes difficulty breathing if the lungs are involved.
+
+### 4. Stable Angina
+Stable angina is a condition characterized by chest pain or discomfort that occurs predictably with exertion or stress due to reduced blood flow to the heart. The pain is typically relieved by rest or medication.
+
+## Diagnostic Tests and Their Outcomes
+
+### 1. COVID-19 PCR Test
+The COVID-19 PCR test detects the presence of SARS-CoV-2 genetic material. It is considered the gold standard for diagnosing COVID-19.
+
+- **Positive Result**: Confirms the presence of COVID-19.
+- **Negative Result**: COVID-19 can be ruled out.
+
+### 2. HbA1c Test
+The HbA1c test measures the average blood sugar level over the past two to three months, providing insight into long-term glucose control.
+
+- **HbA1c (0.0% - 5.6%)**: Diabetes Mellitus Type 1 is ruled out.
+- **HbA1c (5.7% - 6.4%)**: Diabetes Mellitus Type 1 is ruled out.
+- **HbA1c (6.5% - 15.0%)**: No specific exclusions, but this range suggests poorly controlled diabetes.
+
+### 3. Erythrocyte Sedimentation Rate (ESR)
+ESR is a blood test that measures inflammation in the body. 
+
+- **ESR (0 - 20 mm/hr)**: Fungal infection is ruled out.
+- **ESR (21 - 100 mm/hr)**: No specific exclusions, but indicates elevated inflammation that may warrant further investigation.
+
+### 4. Electrocardiogram (ECG)
+An ECG records the electrical activity of the heart to identify various cardiac conditions.
+
+- **Normal ECG**: Stable angina is ruled out.
+- **Arrhythmia, Ischemic Changes, Left Ventricular Hypertrophy, Myocardial Infarction Pattern**: No specific exclusions, but these findings may indicate other cardiac issues.
+
+### 5. Blood Culture
+Blood cultures are performed to detect infections in the bloodstream.
+
+- **No Growth**: Fungal infection is ruled out.
+- **Bacterial Growth**: No specific exclusions, but indicates a bacterial infection.
+
+### 6. C-Reactive Protein (CRP)
+CRP is a blood test that measures general levels of inflammation in the body.
+
+- **CRP (0 - 5 mg/L)**: Fungal infection is ruled out.
+- **CRP (6 - 200 mg/L)**: No specific exclusions, indicating elevated inflammation that requires further assessment.
+
+This guidebook provides a straightforward understanding of the diagnostic tests and diseases, emphasizing the scenarios in which certain conditions can be ruled out. Understanding these relationships is crucial for healthcare professionals in formulating accurate diagnoses and treatment plans.

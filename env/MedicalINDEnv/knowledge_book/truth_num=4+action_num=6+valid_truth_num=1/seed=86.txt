@@ -1,0 +1,65 @@
+# Medical Analysis Guidebook
+
+This guidebook provides an overview of selected diseases and the diagnostic tests used to evaluate and exclude them. You'll learn about the nature of each condition and how test results can eliminate certain diseases as possibilities.
+
+---
+
+## Diseases Overview
+
+### Metabolic Syndrome
+Metabolic Syndrome is a cluster of conditions that increase the risk of heart disease, stroke, and type 2 diabetes. It includes high blood pressure, high blood sugar, excess body fat around the waist, and abnormal cholesterol levels.
+
+### Gastroesophageal Reflux Disease (GERD)
+GERD is a long-term condition where stomach contents flow back into the esophagus, leading to symptoms such as heartburn and acid regurgitation. Persistent GERD can lead to complications like esophagitis or Barrett’s esophagus.
+
+### Anxiety Disorder
+Anxiety Disorder refers to various mental health conditions characterized by excessive fear, worry, and related behavioral disturbances. These disorders can significantly impact daily functioning and quality of life.
+
+### Leukemia
+Leukemia is a type of cancer affecting the blood and bone marrow, characterized by an excess of abnormal white blood cells. This can lead to symptoms such as fatigue, fever, frequent infections, and easy bruising.
+
+---
+
+## Diagnostic Tests and Interpretation
+
+### Peripheral Blood Smear
+This test involves examining a sample of blood under a microscope to identify abnormalities or diseases affecting the blood cells.
+
+- **Normal, Microcytic Hypochromic, Macrocytic, Sickle Cells Outcomes**: Excludes Leukemia.
+- **Blast Cells**: Does not exclude any disease.
+
+### Blood Glucose Test
+Measures the level of glucose in the blood, providing information about insulin sensitivity and diabetes.
+
+- **Glucose Level 0-99 mg/dL**: Excludes Metabolic Syndrome.
+- **Glucose Level 100-125 mg/dL**: Does not exclude any disease.
+- **Glucose Level 126-500 mg/dL**: Does not exclude any disease.
+
+### Upper Endoscopy
+Uses a flexible tube with a camera to visualize the esophagus, stomach, and upper part of the small intestine. It helps diagnose conditions causing symptoms like heartburn or gastric pain.
+
+- **Normal Outcome**: Excludes GERD.
+- **Esophagitis, Gastric Ulcer, Duodenal Ulcer Outcomes**: Do not exclude any disease.
+
+### Complete Blood Count (CBC)
+A comprehensive blood test that evaluates overall health and detects a variety of disorders, such as anemia, infection, and many other diseases.
+
+- **Normal Outcome**: Excludes Leukemia.
+- **Anemia, Leukocytosis, Leukopenia, Thrombocytopenia Outcomes**: Do not exclude any disease.
+
+### Depression Screening Questionnaire
+A tool used to identify signs of depression which can sometimes coexist with or be mistaken for anxiety disorders.
+
+- **Positive Outcome**: Does not exclude any disease.
+- **Negative Outcome**: Excludes Anxiety Disorder.
+
+### HbA1c Test
+Measures average blood sugar levels over the past two to three months. It differs from daily blood sugar test results, providing a longer perspective on blood glucose trends.
+
+- **HbA1c Level 0.0-5.6%**: Excludes Metabolic Syndrome.
+- **HbA1c Level 5.7-6.4%**: Does not exclude any disease.
+- **HbA1c Level 6.5-15.0%**: Does not exclude any disease.
+
+---
+
+This guidebook outlines how diagnostic test results help to exclude certain diseases by understanding the characteristics and scope of each test. With this guide, healthcare professionals and patients alike can gain a clearer understanding of test outcomes and their implications in medical diagnostics.
