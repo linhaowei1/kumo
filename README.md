@@ -13,8 +13,8 @@
 - 📂 [Benchmark Dataset](#benchmark-dataset)
 - 📑 [Benchmark Format](#benchmark-format)
 - ⚙️ [Environment Setup](#environment-setup)
-- 🛠️ [Dataset Generation](#dataset-generation)
 - 📈 [Evaluation](#evaluation)
+- 🛠️ [Dataset Generation](#dataset-generation)
 
 ---
 
@@ -86,6 +86,11 @@ pip install -r requirements.txt
 
 ---
 
+## 📈 Evaluation
+
+We recommend using OpenAI API to call LLMs. Please check [examples/main.sh](https://github.com/linhaowei1/kumo/tree/main/examples/main.sh) to customize by adding your own API key and model name. The results are in [results/](https://github.com/linhaowei1/kumo/tree/main/results).
+
+---
 ## 🛠️ Dataset Generation
 
 Create customized domains and scenarios easily:
@@ -151,24 +156,6 @@ python generate/knowledge_book_revision.py \
 ```
 
 🔗 [Revision Details](https://github.com/linhaowei1/kumo/blob/main/examples/knowledge_book_revision.sh)
-
----
-
-## 📈 Evaluation
-
-### 🤖 **Vanilla Agent**
-Evaluate standard models (e.g., GPT-4o, Anthropic APIs):
-
-- Results: [results/](https://github.com/linhaowei1/kumo/tree/main/results)
-- Example scripts: [examples/main.sh](https://github.com/linhaowei1/kumo/tree/main/examples/main.sh)
-
-Customize by adding your own API keys and parameters.
-
-### 🎨 **Custom Agents**
-
-Design your custom reasoning agents (e.g., ReactAgent):
-
-🔗 [Agent Templates](https://github.com/linhaowei1/kumo/tree/main/agents)
 
 ---
 
