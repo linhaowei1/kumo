@@ -4,7 +4,7 @@
 
 ✨ **KUMO** is a novel benchmark designed to systematically evaluate the complex reasoning capabilities of Large Language Models (LLMs) through procedurally generated reasoning games. Explore the limits of LLM reasoning and track model performance on our interactive leaderboard.
 
-📊 Visit our [Leaderboard & Results Page]()
+📊 To create tasks in KUMO, you have to first create a domain (visit this [colab demo](https://colab.research.google.com/github/linhaowei1/kumo/blob/main/generate.ipynb) for automatic domain generation, i.e., seed config generation), then generate tasks under this domain (SAT sampling + Knowledge book creation). After that, you can start your evaluation. You can also begin with our provided tasks in `./env`.
 
 ---
 
