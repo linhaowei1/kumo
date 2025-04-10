@@ -1,5 +1,7 @@
 # 🌩️ KUMO: Generative Evaluation of Complex Reasoning in Large Language Models
 
+Huggingface dataset: [kumo-easy](https://huggingface.co/datasets/pkuHaowei/kumo-easy)  [kumo-hard](https://huggingface.co/datasets/pkuHaowei/kumo-hard)
+
 **Official Repository** for the paper: [Generative Evaluation of Complex Reasoning in Large Language Models](https://arxiv.org/abs/2504.02810)
 
 ✨ **KUMO** is a novel benchmark designed to systematically evaluate the complex reasoning capabilities of Large Language Models (LLMs) through procedurally generated reasoning games. Explore the limits of LLM reasoning and track model performance on our interactive leaderboard.
