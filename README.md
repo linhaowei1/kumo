@@ -1,12 +1,10 @@
 # 🌩️ KUMO: Generative Evaluation of Complex Reasoning in Large Language Models
 
-Huggingface dataset: [kumo-easy](https://huggingface.co/datasets/pkuHaowei/kumo-easy)  [kumo-hard](https://huggingface.co/datasets/pkuHaowei/kumo-hard)
+[![arXiv](https://img.shields.io/badge/arXiv-2504.02810-b31b1b.svg)](https://arxiv.org/abs/2504.02810)
+[![HuggingFace Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Datasets-yellow)](https://huggingface.co/datasets/pkuHaowei/kumo-hard)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/linhaowei1/kumo/blob/main/generate.ipynb)
 
-**Official Repository** for the paper: [Generative Evaluation of Complex Reasoning in Large Language Models](https://arxiv.org/abs/2504.02810)
-
-✨ **KUMO** is a novel benchmark designed to systematically evaluate the complex reasoning capabilities of Large Language Models (LLMs) through procedurally generated reasoning games. Explore the limits of LLM reasoning and track model performance on our interactive leaderboard.
-
-📊 To create tasks in KUMO, you have to first create a domain (visit this [colab demo](https://colab.research.google.com/github/linhaowei1/kumo/blob/main/generate.ipynb) for automatic domain generation, i.e., seed config generation), then generate tasks under this domain (SAT sampling + Knowledge book creation). After that, you can start your evaluation. You can also begin with our provided tasks in `./env`.
+**KUMO** is a novel benchmark for systematically evaluating complex reasoning capabilities in Large Language Models (LLMs) through procedurally generated reasoning games. This repository contains the official implementation of our [research paper](https://arxiv.org/abs/2504.02810).
 
 ---
 
