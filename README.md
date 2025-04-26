@@ -3,6 +3,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2504.02810-b31b1b.svg)](https://arxiv.org/abs/2504.02810)
 [![HuggingFace Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Datasets-yellow)](https://huggingface.co/datasets/pkuHaowei/kumo-hard)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/linhaowei1/kumo/blob/main/generate.ipynb)
+[![Project Homepage](https://img.shields.io/badge/Project-Homepage-blue)](https://craftjarvis.github.io/Kumo/)
 
 **KUMO** is a novel benchmark for systematically evaluating complex reasoning capabilities in Large Language Models (LLMs) through procedurally generated reasoning games. This repository contains the official implementation of our [research paper](https://arxiv.org/abs/2504.02810).
 
