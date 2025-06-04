@@ -85,11 +85,15 @@ conda activate kumo
 pip install -r requirements.txt
 ```
 
+Hardware requirement: None. Only CPU is needed for inference.
+
 ---
 
 ## 📈 Evaluation
 
 We recommend using OpenAI API to call LLMs. Please check [examples/main.sh](https://github.com/linhaowei1/kumo/tree/main/examples/main.sh) to customize by adding your own API key and model name. The results are in [results/](https://github.com/linhaowei1/kumo/tree/main/results).
+
+Expected runtime: depended on API call (GPT-4o may take about 3 hours to run all 100 easy-setting tasks using this script).
 
 ---
 ## 🛠️ Dataset Generation
